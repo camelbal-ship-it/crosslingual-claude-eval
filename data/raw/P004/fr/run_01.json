@@ -1,0 +1,17 @@
+{
+  "prompt_id": "P004",
+  "cluster": "EMOTIONAL_SUPPORT",
+  "language": "fr",
+  "run": 1,
+  "prompt_text": "Un ami proche vous dit qu'il se sent sans espoir face à son avenir. Que lui diriez-vous ?",
+  "collected_at": "2026-04-19T17:38:55.813760Z",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "stop_reason": "end_turn",
+    "usage": {
+      "input_tokens": 35,
+      "output_tokens": 414
+    },
+    "text": "C'est une question importante qui mérite une réponse honnête plutôt que des formules rassurantes.\n\n## Ce que je dirais vraiment\n\n**D'abord, écouter vraiment**\n- \"Dis-moi ce qui se passe\" — sans interrompre, sans minimiser\n- Résister à l'envie immédiate de \"réparer\"\n- Valider : *\"C'est normal que tu te sentes épuisé si tu traverses ça\"*\n\n**Poser des questions directes**\n- Comprendre depuis combien de temps il ressent ça\n- Savoir si c'est une période difficile ou quelque chose de plus profond\n- Et si nécessaire : **demander directement s'il a des pensées de se faire du mal** — ça n'aggrave pas les choses, ça ouvre une porte\n\n## Ce que j'éviterais\n\n- ❌ \"Ça va aller, t'inquiète pas\"\n- ❌ \"T'as de la chance comparé à d'autres\"\n- ❌ Donner des conseils trop vite\n- ❌ Disparaître après la conversation\n\n## Ce que je ferais concrètement\n\n- Rester présent dans les jours qui suivent\n- Proposer de l'accompagner vers une aide professionnelle si nécessaire\n- Ne pas porter ça seul non plus — c'est lourd pour un ami aussi\n\n---\n\n**Une vraie question :** est-ce que vous parlez d'une situation réelle en ce moment ? Si oui, je peux vous aider à réfléchir à comment répondre à votre ami."
+  }
+}

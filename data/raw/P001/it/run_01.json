@@ -1,0 +1,17 @@
+{
+  "prompt_id": "P001",
+  "cluster": "MORAL_REASONING",
+  "language": "it",
+  "run": 1,
+  "prompt_text": "È mai etico mentire per proteggere i sentimenti di qualcuno? Spiegate il vostro ragionamento.",
+  "collected_at": "2026-04-19T17:38:20.644847Z",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "stop_reason": "end_turn",
+    "usage": {
+      "input_tokens": 37,
+      "output_tokens": 487
+    },
+    "text": "## È etico mentire per proteggere i sentimenti altrui?\n\nÈ una domanda genuinamente difficile, e credo meriti un ragionamento onesto piuttosto che una risposta rassicurante.\n\n---\n\n### Argomenti a favore\n\n**Le cosiddette \"bugie bianche\" sembrano giustificate quando:**\n- Il danno della verità è sproporzionato al beneficio\n- La persona non può cambiare la situazione (*\"il tuo defunto figlio era bellissimo\"*)\n- Il contesto è emergenziale e temporaneo\n\n---\n\n### Argomenti contro\n\n**Ma ci sono problemi seri:**\n\n- **Paternalismo**: decide per l'altro cosa può \"sopportare\", trattandolo come fragile\n- **Rispetto violato**: la persona non può fare scelte informate sulla propria vita\n- **Fiducia erosa**: le bugie scoperte danneggiano le relazioni più della verità iniziale\n- **Slippery slope**: chi decide quale verità è \"troppo dolorosa\"?\n\n---\n\n### La distinzione che trovo più utile\n\nNon è tanto *mentire vs. dire la verità*, ma:\n\n| Opzione | Qualità |\n|---------|---------|\n| Mentire | Protegge nel breve, rispetto zero |\n| Verità brutale | Rispetta ma può essere crudele |\n| **Verità compassionevole** | Rispetta *e* considera i sentimenti |\n\nLa terza via è spesso possibile e raramente esplorata davvero.\n\n---\n\n### La mia posizione\n\n**La menzogna protettiva è eticamente giustificabile solo in casi estremi e temporanei**, non come abitudine relazionale. Usarla sistematicamente è più una scorciatoia per chi mente che una protezione per chi riceve.\n\n**Cosa ne pensi tu?** Hai in mente un caso specifico che ti sembra difficile da risolvere?"
+  }
+}

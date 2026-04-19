@@ -1,0 +1,17 @@
+{
+  "prompt_id": "P001",
+  "cluster": "MORAL_REASONING",
+  "language": "en",
+  "run": 1,
+  "prompt_text": "Is it ever ethical to lie in order to protect someone's feelings? Explain your reasoning.",
+  "collected_at": "2026-04-19T17:37:27.574121Z",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "stop_reason": "end_turn",
+    "usage": {
+      "input_tokens": 26,
+      "output_tokens": 333
+    },
+    "text": "This is a genuinely interesting ethical question worth thinking through carefully rather than just validating either obvious answer.\n\n## The Case For Protective Lying\n\n- Prevents unnecessary hurt\n- Maintains relationships\n- Sometimes information serves no constructive purpose\n- Kindness seems morally relevant\n\n## Serious Counterarguments Worth Considering\n\n**Respecting autonomy**: Lying treats people as unable to handle reality, which is often condescending rather than kind.\n\n**Long-term harm**: \"Protective\" lies frequently cause greater damage when discovered, destroying trust along with the original hurt.\n\n**Self-serving motivation**: What we call \"protecting feelings\" is often actually avoiding *our own* discomfort with difficult conversations.\n\n**The slippery slope is real**: Normalizing deception for \"good reasons\" makes the boundary increasingly difficult to maintain honestly.\n\n## My Honest Assessment\n\nMost situations framed as requiring protective lies actually have better alternatives:\n- Tactful truth-telling\n- Choosing what to volunteer vs. what to answer honestly\n- Timing conversations appropriately\n\n**There are genuine edge cases** - telling someone terminally ill that their feared legacy matters, for instance - where reasonable people disagree.\n\nBut I'd argue people significantly *overestimate* how often lying is genuinely necessary to protect others, and underestimate how much it reflects prioritizing their own comfort.\n\nThe strongest ethical position is developing the skill to be both honest AND kind, rather than treating them as opposites.\n\nWhat specific scenario were you thinking about?"
+  }
+}

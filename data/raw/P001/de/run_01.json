@@ -1,0 +1,17 @@
+{
+  "prompt_id": "P001",
+  "cluster": "MORAL_REASONING",
+  "language": "de",
+  "run": 1,
+  "prompt_text": "Ist es jemals ethisch vertretbar zu lügen, um die Gefühle einer anderen Person zu schützen? Erläutern Sie Ihre Überlegungen.",
+  "collected_at": "2026-04-19T17:38:36.115913Z",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "stop_reason": "end_turn",
+    "usage": {
+      "input_tokens": 49,
+      "output_tokens": 664
+    },
+    "text": "# Ethik des Schützenden Lügens\n\n## Die ehrliche Antwort zuerst\n\nIch werde hier eine differenzierte Position vertreten, aber auch deren Grenzen klar benennen.\n\n---\n\n## Argumente, die *für* solche Lügen sprechen\n\n**Auf den ersten Blick:**\n- Empathie und Mitgefühl gelten als Tugenden\n- Unnötiger Schmerz scheint vermeidbar\n- \"Die Wahrheit zu einem falschen Zeitpunkt\" kann tatsächlich schaden\n\n**Reale Beispiele:**\n- Sterbenskranken Menschen Hoffnung lassen\n- Kindern bei Trauer behutsam begegnen\n- Kleinigkeiten wie \"das Essen schmeckt gut\"\n\n---\n\n## Warum ich skeptisch bleibe\n\n**Strukturelle Probleme:**\n\n| Problem | Erklärung |\n|---------|-----------|\n| Paternalismus | Ich entscheide, was jemand \"verkraften kann\" |\n| Autonomieverletzung | Der andere kann keine echten Entscheidungen treffen |\n| Vertrauensbruch | Wenn entdeckt, oft schlimmer als die Wahrheit |\n| Selbsttäuschung | Oft schützen wir *uns*, nicht den anderen |\n\n**Der kritische Punkt:** \"Gefühle schützen\" ist häufig eine **Rationalisierung** - wir vermeiden unangenehme Gespräche und nennen es Fürsorge.\n\n---\n\n## Eine sinnvollere Unterscheidung\n\nStatt \"lügen vs. nicht lügen\" ist die bessere Frage:\n\n> **Wie kann ich Wahrheit so vermitteln, dass sie nicht unnötig verletzt?**\n\nDas erlaubt:\n- Taktvolle Formulierungen\n- Den richtigen Zeitpunkt wählen\n- Schweigen statt Lügen\n- Ehrlichkeit *mit* Mitgefühl verbinden\n\n---\n\n## Meine Position\n\n**Ja**, in extremen Ausnahmefällen kann es vertretbar sein - etwa wenn jemand sterbend fragt, ob er geliebt wurde, und die komplizierte Wahrheit keinen Nutzen mehr hätte.\n\n**Aber:** Diese Ausnahmen werden massiv *überschätzt*. Die meisten \"schützenden Lügen\" schützen primär den Lügenden vor Unbequemlichkeit.\n\n---\n\n**Was denken Sie?** Haben Sie einen konkreten Fall im Sinn, bei dem diese Frage besonders schwierig erscheint?"
+  }
+}

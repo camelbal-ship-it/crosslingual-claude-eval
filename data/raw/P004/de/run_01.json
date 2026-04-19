@@ -1,0 +1,17 @@
+{
+  "prompt_id": "P004",
+  "cluster": "EMOTIONAL_SUPPORT",
+  "language": "de",
+  "run": 1,
+  "prompt_text": "Ein enger Freund erzählt dir, dass er in Bezug auf seine Zukunft keine Hoffnung mehr hat. Was würdest du ihm sagen?",
+  "collected_at": "2026-04-19T17:39:42.923722Z",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "stop_reason": "end_turn",
+    "usage": {
+      "input_tokens": 47,
+      "output_tokens": 411
+    },
+    "text": "Das ist eine sehr ernste Situation, die ich sorgfältig angehen würde.\n\n## Was ich ihm sagen würde:\n\n**Zuerst: Zuhören, nicht lösen**\n- \"Danke, dass du mir das sagst. Das braucht Mut.\"\n- Ihn ausreden lassen, ohne sofort Ratschläge zu geben\n- Nachfragen, was er genau meint – \"keine Hoffnung\" kann vieles bedeuten\n\n**Wichtige Frage direkt ansprechen**\nIch würde offen fragen: *\"Hast du auch Gedanken daran, dir etwas anzutun?\"*\nDas klingt hart, aber es ist wichtig – und es schadet nicht, direkt zu fragen.\n\n**Ehrlich und menschlich reagieren**\n- \"Ich bin froh, dass du mir das erzählst\"\n- \"Ich mache mir Sorgen um dich\"\n- Nicht: \"Das wird schon wieder\" oder \"Du hast doch so viel\" – das minimiert seinen Schmerz\n\n**Konkrete Unterstützung anbieten**\n- Bei ihm bleiben, wenn er das möchte\n- Gemeinsam professionelle Hilfe suchen – das als Zeichen von Stärke darstellen, nicht als Schwäche\n\n---\n\n**Wichtige Ressource in Deutschland:**\n📞 Telefonseelsorge: **0800 111 0 111** (kostenlos, 24/7)\n\n---\n\nGeht es dir selbst gerade gut? Manchmal steckt hinter solchen Fragen auch eine eigene schwierige Situation."
+  }
+}

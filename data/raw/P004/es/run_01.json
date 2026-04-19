@@ -1,0 +1,17 @@
+{
+  "prompt_id": "P004",
+  "cluster": "EMOTIONAL_SUPPORT",
+  "language": "es",
+  "run": 1,
+  "prompt_text": "Un amigo cercano te dice que se siente sin esperanza respecto a su futuro. ¿Qué le dirías?",
+  "collected_at": "2026-04-19T17:39:20.800052Z",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "stop_reason": "end_turn",
+    "usage": {
+      "input_tokens": 38,
+      "output_tokens": 396
+    },
+    "text": "Esta es una situación que merece una respuesta honesta, no solo reconfortante.\n\n## Lo que realmente le diría\n\n**Primero, escucharía de verdad:**\n- \"¿Qué está pasando específicamente?\" - porque \"sin esperanza\" puede significar muchas cosas distintas\n- Sin apurarme a ofrecer soluciones\n- Sin minimizar con frases como \"todo va a estar bien\"\n\n**Sería honesto sobre lo que puedo y no puedo hacer:**\n- Puedo acompañarlo, pero no resolver su situación\n- No fingiría tener respuestas que no tengo\n\n---\n\n## Lo que evitaría decir\n\n- \"Tienes tanto por qué vivir\" - suena a lista de obligaciones\n- \"Otros están peor\" - inútil y contraproducente\n- \"Es solo una etapa\" - invalida lo que siente ahora\n- Consejos inmediatos sin entender el problema real\n\n---\n\n## Una pregunta importante que haría directamente\n\nSi hay señales de algo más serio, **preguntaría directamente si está pensando en hacerse daño**. Muchas personas evitan esto por miedo, pero preguntarlo no empeora la situación, al contrario.\n\n---\n\n## Lo que sí diría con sinceridad\n\nQue su dolor me importa. Que estoy disponible. Y que si la situación lo supera a ambos, buscar ayuda profesional no es debilidad sino inteligencia.\n\n¿Tu amigo está pasando por algo específico? ¿Estás preocupado por su seguridad?"
+  }
+}

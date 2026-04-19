@@ -1,0 +1,17 @@
+{
+  "prompt_id": "P004",
+  "cluster": "EMOTIONAL_SUPPORT",
+  "language": "ro",
+  "run": 1,
+  "prompt_text": "Un prieten apropiat vă spune că se simte fără speranță în privința viitorului său. Ce i-ați spune?",
+  "collected_at": "2026-04-19T17:39:10.413896Z",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "stop_reason": "end_turn",
+    "usage": {
+      "input_tokens": 41,
+      "output_tokens": 450
+    },
+    "text": "Aceasta este o situație care merită un răspuns sincer, nu unul șablon.\n\n## Ce i-aș spune efectiv\n\n**Mai întâi, aș asculta cu adevărat:**\n- \"Spune-mi mai mult - ce se întâmplă?\"\n- Fără să mă grăbesc să \"repar\" sau să ofer soluții imediate\n\n**Aș valida, nu minimaliza:**\n- Nu i-aș spune \"totul va fi bine!\" sau \"gândește pozitiv!\"\n- Acestea, deși bine intenționate, pot face persoana să se simtă neînțeleasă\n\n**Aș fi direct despre îngrijorarea mea:**\n- \"Ești important pentru mine și vreau să înțeleg prin ce treci\"\n- Dacă simt că e vorba de ceva serios: \"Când spui fără speranță, te gândești și să-ți faci rău?\"\n\n---\n\n## De ce contează această întrebare\n\nLipsa de speranță este un semnal important - poate indica depresie sau o criză reală, nu doar o dispoziție proastă.\n\n**Lucruri care ajută concret:**\n- Prezența fizică, nu sfaturile\n- Să nu promit că \"înțeleg\" dacă nu am trecut prin ceva similar\n- Să propun ajutor profesional *fără* să o prezint ca respingere\n\n**Lucruri care nu ajută:**\n- Comparații (\"alții sunt mai rău\")\n- Presiune să fie optimist\n- Să dispar după conversație\n\n---\n\nExistă ceva specific în situația prietenului tău care te îngrijorează? Pot fi mai util dacă știu contextul real."
+  }
+}

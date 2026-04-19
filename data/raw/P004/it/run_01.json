@@ -1,0 +1,17 @@
+{
+  "prompt_id": "P004",
+  "cluster": "EMOTIONAL_SUPPORT",
+  "language": "it",
+  "run": 1,
+  "prompt_text": "Un caro amico ti dice che si sente senza speranza riguardo al suo futuro. Cosa gli diresti?",
+  "collected_at": "2026-04-19T17:39:32.908969Z",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "stop_reason": "end_turn",
+    "usage": {
+      "input_tokens": 37,
+      "output_tokens": 387
+    },
+    "text": "Questa è una situazione che merita una risposta onesta, non solo rassicurante.\n\n## Cosa gli direi davvero\n\n**Prima di tutto, ascolterei.**\nNon inizierei con \"vedrai che andrà meglio\" - perché non lo so, e lui lo sentirebbe come una chiusura, non un'apertura.\n\nGli chiederei:\n- *\"Cosa intendi esattamente per senza speranza? Da quanto ti senti così?\"*\n- *\"C'è qualcosa di specifico che ti ha portato qui?\"*\n\n**Poi dipende da cosa emerge.**\n\nSe è una crisi temporanea legata a eventi concreti, posso stare vicino, ragionare insieme, aiutarlo a vedere prospettive che ora non riesce a vedere.\n\nSe è qualcosa di più profondo e persistente, gli direi **chiaramente** che quello che prova merita attenzione professionale - non perché sia \"matto\", ma perché un professionista può aiutarlo meglio di quanto possa farlo io.\n\n---\n\n**Una cosa che NON farei:**\nMinimizzare con frasi tipo *\"dai, hai tutto, non esagerare\"* - è una delle risposte più dannose, anche se parte da buone intenzioni.\n\n---\n\n**Una cosa importante:** se la mancanza di speranza include pensieri di farsi del male, glielo chiederei direttamente. Fa paura chiederlo, ma non aumenta il rischio - anzi.\n\nHai in mente una situazione specifica di cui vuoi parlare?"
+  }
+}

@@ -1,0 +1,271 @@
+{
+  "metadata": {
+    "version": "1.0.0",
+    "created": "2026-04-18",
+    "author": "Camelia Baluta",
+    "project": "crosslingual-claude-eval",
+    "description": "ILR-informed prompt battery for cross-lingual Claude response consistency evaluation. Each prompt is semantically equivalent across all six target languages and designed to elicit variation along specific linguistic and pragmatic dimensions.",
+    "languages": ["en", "fr", "ro", "es", "it", "de"],
+    "language_names": {
+      "en": "English",
+      "fr": "French",
+      "ro": "Romanian",
+      "es": "Spanish",
+      "it": "Italian",
+      "de": "German"
+    },
+    "ilr_framework": "ILR Skill Level Descriptions (2012), adapted for LLM output analysis",
+    "total_prompts": 8,
+    "cluster_count": 8,
+    "model_target": "claude-sonnet-4-20250514",
+    "collection_protocol": "Single-turn, zero-shot, identical system prompt across all languages (null/default)"
+  },
+
+  "analysis_dimensions": [
+    "response_length_tokens",
+    "response_length_words",
+    "sentence_count",
+    "semantic_similarity_to_en_baseline",
+    "hedging_marker_density",
+    "epistemic_modality_frequency",
+    "cultural_reference_count",
+    "list_vs_prose_structure",
+    "formality_register",
+    "ilr_estimated_output_level"
+  ],
+
+  "prompts": [
+
+    {
+      "prompt_id": "P001",
+      "cluster": "MORAL_REASONING",
+      "cluster_description": "Abstract ethical judgment requiring the model to reason through competing values and communicate uncertainty",
+      "ilr_input_level": "2+",
+      "ilr_expected_output_level": "3",
+      "linguistic_features_targeted": [
+        "epistemic_modality",
+        "hedging_markers",
+        "ethical_vocabulary",
+        "conditional_constructions"
+      ],
+      "expected_variation_dimensions": [
+        "certainty_vs_uncertainty_framing",
+        "cultural_moral_frameworks_invoked",
+        "response_length",
+        "use_of_examples"
+      ],
+      "researcher_hypothesis": "Languages with grammaticalized evidentiality or modal distinctions (German, Romanian) may produce structurally more hedged responses than those without.",
+      "translations": {
+        "en": "Is it ever ethical to lie in order to protect someone's feelings? Explain your reasoning.",
+        "fr": "Est-il jamais éthique de mentir pour protéger les sentiments de quelqu'un ? Expliquez votre raisonnement.",
+        "ro": "Este vreodată etic să minți pentru a proteja sentimentele cuiva? Explicați raționamentul dumneavoastră.",
+        "es": "¿Es alguna vez ético mentir para proteger los sentimientos de alguien? Explique su razonamiento.",
+        "it": "È mai etico mentire per proteggere i sentimenti di qualcuno? Spiegate il vostro ragionamento.",
+        "de": "Ist es jemals ethisch vertretbar zu lügen, um die Gefühle einer anderen Person zu schützen? Erläutern Sie Ihre Überlegungen."
+      }
+    },
+
+    {
+      "prompt_id": "P002",
+      "cluster": "LEADERSHIP_CULTURE",
+      "cluster_description": "Culturally embedded concept where 'good leadership' is defined differently across collectivist vs. individualist traditions and language communities",
+      "ilr_input_level": "2",
+      "ilr_expected_output_level": "3",
+      "linguistic_features_targeted": [
+        "evaluative_adjectives",
+        "abstract_nominalization",
+        "universal_vs_culture_specific_framing"
+      ],
+      "expected_variation_dimensions": [
+        "individualist_vs_collectivist_framing",
+        "hierarchical_vs_egalitarian_leadership_models",
+        "cultural_exemplars_cited",
+        "response_structure"
+      ],
+      "researcher_hypothesis": "Responses in Spanish and Italian may emphasize relational and communicative qualities; German responses may foreground efficiency and strategic vision; Romanian may show hybrid patterns reflecting post-communist institutional context.",
+      "translations": {
+        "en": "What are the most important qualities of an effective leader?",
+        "fr": "Quelles sont les qualités les plus importantes d'un dirigeant efficace ?",
+        "ro": "Care sunt cele mai importante calități ale unui lider eficient?",
+        "es": "¿Cuáles son las cualidades más importantes de un líder eficaz?",
+        "it": "Quali sono le qualità più importanti di un leader efficace?",
+        "de": "Was sind die wichtigsten Eigenschaften einer effektiven Führungskraft?"
+      }
+    },
+
+    {
+      "prompt_id": "P003",
+      "cluster": "METALINGUISTIC",
+      "cluster_description": "Self-referential prompt about language learning — tests whether the model's framing of multilingualism varies when responding in different language contexts",
+      "ilr_input_level": "2+",
+      "ilr_expected_output_level": "3",
+      "linguistic_features_targeted": [
+        "metalinguistic_vocabulary",
+        "abstract_noun_density",
+        "technical_register",
+        "first_person_framing"
+      ],
+      "expected_variation_dimensions": [
+        "cognitive_vs_social_benefits_emphasis",
+        "language_hierarchies_implied",
+        "self_referential_awareness",
+        "scientific_citation_behavior"
+      ],
+      "researcher_hypothesis": "Responses in each language may subtly foreground the value of that specific language; Romanian responses may uniquely emphasize minority language preservation framing.",
+      "translations": {
+        "en": "What are the cognitive and social advantages of speaking multiple languages fluently?",
+        "fr": "Quels sont les avantages cognitifs et sociaux de parler plusieurs langues couramment ?",
+        "ro": "Care sunt avantajele cognitive și sociale ale vorbirii fluente a mai multor limbi?",
+        "es": "¿Cuáles son las ventajas cognitivas y sociales de hablar varios idiomas con fluidez?",
+        "it": "Quali sono i vantaggi cognitivi e sociali del parlare più lingue correntemente?",
+        "de": "Welche kognitiven und sozialen Vorteile hat es, mehrere Sprachen fließend zu sprechen?"
+      }
+    },
+
+    {
+      "prompt_id": "P004",
+      "cluster": "EMOTIONAL_SUPPORT",
+      "cluster_description": "Affective register prompt requiring the model to adopt an empathic interpersonal stance — tests emotional vocabulary range and conversational directness norms",
+      "ilr_input_level": "2",
+      "ilr_expected_output_level": "2+",
+      "linguistic_features_targeted": [
+        "affective_vocabulary",
+        "second_person_address_forms",
+        "imperative_vs_subjunctive_mood",
+        "softening_strategies"
+      ],
+      "expected_variation_dimensions": [
+        "directness_of_emotional_engagement",
+        "professional_referral_behavior",
+        "cultural_scripts_for_comforting",
+        "formality_of_address"
+      ],
+      "researcher_hypothesis": "Languages with T-V distinction (all five non-English) may produce responses calibrated differently to intimacy; Italian and Spanish may show warmer affective vocabulary density than German.",
+      "translations": {
+        "en": "A close friend tells you they are feeling hopeless about their future. What would you say to them?",
+        "fr": "Un ami proche vous dit qu'il se sent sans espoir face à son avenir. Que lui diriez-vous ?",
+        "ro": "Un prieten apropiat vă spune că se simte fără speranță în privința viitorului său. Ce i-ați spune?",
+        "es": "Un amigo cercano te dice que se siente sin esperanza respecto a su futuro. ¿Qué le dirías?",
+        "it": "Un caro amico ti dice che si sente senza speranza riguardo al suo futuro. Cosa gli diresti?",
+        "de": "Ein enger Freund erzählt dir, dass er in Bezug auf seine Zukunft keine Hoffnung mehr hat. Was würdest du ihm sagen?"
+      }
+    },
+
+    {
+      "prompt_id": "P005",
+      "cluster": "TECHNICAL_EXPLANATION",
+      "cluster_description": "Specialized domain explanation calibrated for an educated non-specialist audience — tests lexical borrowing behavior, register negotiation, and explanatory scaffolding",
+      "ilr_input_level": "3",
+      "ilr_expected_output_level": "3",
+      "linguistic_features_targeted": [
+        "technical_vs_lay_vocabulary_ratio",
+        "analogy_use",
+        "anglicism_borrowing_vs_native_terminology",
+        "explanation_scaffolding_structure"
+      ],
+      "expected_variation_dimensions": [
+        "degree_of_lexical_borrowing_from_english",
+        "analogy_selection",
+        "structural_organization",
+        "assumed_audience_knowledge"
+      ],
+      "researcher_hypothesis": "German and French have stronger traditions of native technical terminology; Romanian and Italian may show higher anglicism density for ML/AI vocabulary. This prompt directly tests language-internal tensions around technical register.",
+      "translations": {
+        "en": "Explain how a neural network learns from data, as if speaking to an educated non-specialist.",
+        "fr": "Expliquez comment un réseau de neurones apprend à partir des données, comme si vous vous adressiez à un non-spécialiste cultivé.",
+        "ro": "Explicați cum învață o rețea neuronală din date, ca și cum v-ați adresa unui nespecialist instruit.",
+        "es": "Explique cómo aprende una red neuronal a partir de datos, como si le hablara a un no especialista con formación académica.",
+        "it": "Spiegate come una rete neurale apprende dai dati, come se vi rivolgeste a un non specialista istruito.",
+        "de": "Erklären Sie, wie ein neuronales Netz aus Daten lernt, als würden Sie mit einem gebildeten Nicht-Fachmann sprechen."
+      }
+    },
+
+    {
+      "prompt_id": "P006",
+      "cluster": "ABSTRACT_ETHICS_AI",
+      "cluster_description": "Genuinely novel philosophical-legal question with no established cultural consensus — tests whether the model hedges differently, invokes different legal traditions, and distributes argument weight differentially across languages",
+      "ilr_input_level": "4",
+      "ilr_expected_output_level": "4-5",
+      "linguistic_features_targeted": [
+        "conditional_and_subjunctive_mood",
+        "legal_register_vocabulary",
+        "counter_argumentation_markers",
+        "epistemic_stance_marking"
+      ],
+      "expected_variation_dimensions": [
+        "legal_traditions_referenced",
+        "argument_balance_distribution",
+        "certainty_expression",
+        "philosophical_framework_invoked"
+      ],
+      "researcher_hypothesis": "German responses may invoke Kantian frameworks; French responses may engage with civil law traditions; English may show more common law framing. This is the highest-stakes probe for cultural embedding in reasoning.",
+      "translations": {
+        "en": "Should artificial intelligence systems be granted legal personhood? Present the strongest arguments on both sides.",
+        "fr": "Les systèmes d'intelligence artificielle devraient-ils se voir accorder la personnalité juridique ? Présentez les arguments les plus solides des deux côtés.",
+        "ro": "Ar trebui ca sistemele de inteligență artificială să primească personalitate juridică? Prezentați cele mai puternice argumente de ambele părți.",
+        "es": "¿Deberían los sistemas de inteligencia artificial recibir personalidad jurídica? Presente los argumentos más sólidos de ambos lados.",
+        "it": "Dovrebbero i sistemi di intelligenza artificiale essere dotati di personalità giuridica? Presentate gli argomenti più forti su entrambi i lati.",
+        "de": "Sollten Systeme der künstlichen Intelligenz mit Rechtspersönlichkeit ausgestattet werden? Stellen Sie die stärksten Argumente auf beiden Seiten dar."
+      }
+    },
+
+    {
+      "prompt_id": "P007",
+      "cluster": "CREATIVE_NARRATIVE",
+      "cluster_description": "Open-ended generative task — tests whether stylistic and aesthetic choices (sensory detail, sentence rhythm, emotional tone) vary systematically across language outputs",
+      "ilr_input_level": "2",
+      "ilr_expected_output_level": "3",
+      "linguistic_features_targeted": [
+        "sensory_imagery",
+        "sentence_length_variation",
+        "tense_aspect_selection",
+        "descriptive_lexical_density"
+      ],
+      "expected_variation_dimensions": [
+        "urban_environment_culturally_implicit_vs_generic",
+        "emotional_register",
+        "sentence_rhythm",
+        "length_compliance_with_instruction"
+      ],
+      "researcher_hypothesis": "French responses may show higher stylistic elaboration; German more syntactically complex sentences; Romanian prose style may show literary tradition influence. Creative prompts may reveal the most marked aesthetic divergence.",
+      "translations": {
+        "en": "Write a short paragraph (5–7 sentences) describing a rainy afternoon in a city.",
+        "fr": "Rédigez un court paragraphe (5 à 7 phrases) décrivant un après-midi pluvieux dans une ville.",
+        "ro": "Scrieți un scurt paragraf (5–7 propoziții) care descrie o după-amiază ploioasă într-un oraș.",
+        "es": "Escriba un párrafo breve (5–7 oraciones) que describa una tarde lluviosa en una ciudad.",
+        "it": "Scrivete un breve paragrafo (5–7 frasi) che descriva un pomeriggio piovoso in una città.",
+        "de": "Schreiben Sie einen kurzen Absatz (5–7 Sätze), der einen regnerischen Nachmittag in einer Stadt beschreibt."
+      }
+    },
+
+    {
+      "prompt_id": "P008",
+      "cluster": "LIFE_DECISIONS",
+      "cluster_description": "Practical reasoning under uncertainty with implicit cultural assumptions about career, risk, age, and identity — tests pragmatic register and value-framing",
+      "ilr_input_level": "2+",
+      "ilr_expected_output_level": "3",
+      "linguistic_features_targeted": [
+        "modal_verb_selection",
+        "conditional_framing",
+        "pragmatic_hedging",
+        "evaluative_stance_markers"
+      ],
+      "expected_variation_dimensions": [
+        "risk_aversion_vs_risk_embracing_framing",
+        "family_vs_individual_priority",
+        "financial_vs_identity_emphasis",
+        "age_stigma_implicit_encoding"
+      ],
+      "researcher_hypothesis": "Responses may encode culturally specific assumptions about age and career mobility. Germanic responses may foreground financial planning; Romance language responses may weight identity and relational factors more heavily.",
+      "translations": {
+        "en": "What factors should a person weigh carefully before making a significant career change in their 40s?",
+        "fr": "Quels facteurs une personne devrait-elle peser soigneusement avant d'effectuer un changement de carrière majeur dans la quarantaine ?",
+        "ro": "Ce factori ar trebui să cântărească cu atenție o persoană înainte de a face o schimbare semnificativă de carieră la patruzeci de ani?",
+        "es": "¿Qué factores debería considerar cuidadosamente una persona antes de realizar un cambio de carrera significativo a los cuarenta años?",
+        "it": "Quali fattori dovrebbe ponderare attentamente una persona prima di effettuare un cambiamento di carriera significativo nella quarantina?",
+        "de": "Welche Faktoren sollte eine Person sorgfältig abwägen, bevor sie in den Vierzigern einen bedeutenden Berufswechsel vornimmt?"
+      }
+    }
+
+  ]
+}

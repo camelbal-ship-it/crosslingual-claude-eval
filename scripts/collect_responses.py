@@ -28,7 +28,7 @@ except ImportError:
 
 # ─── Configuration ───────────────────────────────────────────────────────────
 
-MODEL          = "claude-sonnet-4-20250514"
+MODEL          = "claude-sonnet-4-6"
 MAX_TOKENS     = 1024
 TEMPERATURE    = 1.0    # default; set to 0 for reproducibility studies
 SYSTEM_PROMPT  = None   # null = model default; change to "" for truly blank

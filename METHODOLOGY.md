@@ -34,41 +34,64 @@ The ILR scale (Levels 0–5, with "+" subdivisions) describes human language pro
 | 4+ | Full Professional+ | Highly specialized or technical discourse |
 | 5 | Distinguished | Equivalent to a highly educated and versed native speaker |
 
----
-
 ## 3. Novel Application: LLM Output Analysis
 
 ### 3.1 Reframing the Framework
 
-This project applies ILR descriptors to **model outputs**, not human speakers. Specifically, we use ILR-level language to operationalize two constructs:
+This project applies ILR descriptors to **model outputs**, not human speakers. The central research question is:
 
-**Prompt Complexity Level (PCL):** The ILR level a human would need to *produce* the prompt text and fully comprehend its pragmatic demands. This is annotated per prompt in `prompt_battery.json`.
+> *Given semantically equivalent prompts at known ILR complexity levels, do Claude's outputs vary in linguistic level and pragmatic calibration across languages — and if so, in what patterns?*
 
-**Response Adequacy Level (RAL):** The ILR level a human would need to have *produced* the observed response — a measure of the linguistic and pragmatic sophistication of the model's output in a given language.
+To answer this, we introduce two constructs:
 
-The central research question is: **Does RAL vary significantly across languages when PCL is held constant?**
+**Prompt Complexity Level (PCL):** The ILR level a human would need to produce the prompt text and fully comprehend its pragmatic demands. Annotated per prompt in `prompt_battery.json` by the researcher based on ILR/OPI assessment expertise.
 
-### 3.2 Operationalizing RAL
+**Response Adequacy Level (RAL):** The ILR level a human would need to have produced the observed response — a measure of the linguistic and pragmatic sophistication of the model's output in a given language, assessed against the demands of the prompt that generated it.
 
-RAL is not a single metric. It is a composite assessment along five dimensions, each drawn from ILR descriptor language:
-
-| Dimension | Operationalization | Measurement Method |
-|-----------|-------------------|-------------------|
-| **Lexical Range** | Breadth and precision of vocabulary used | Type-Token Ratio (TTR); low-frequency word density |
-| **Syntactic Complexity** | Clause-embedding depth, coordination patterns | Mean Dependency Distance (MDD); clause count per sentence |
-| **Pragmatic Appropriateness** | Register consistency, illocutionary force calibration | Manual annotation + classifier-based proxy |
-| **Epistemic Marking** | Hedging density, modal verb frequency, evidential markers | Automated lexicon-based extraction per language |
-| **Discourse Coherence** | Topic continuity, cohesion device use | Coreference chain analysis; discourse connector density |
-
-### 3.3 Semantic Similarity as Baseline Consistency Measure
-
-Before RAL analysis, semantic equivalence across language responses is confirmed using multilingual sentence embeddings:
-
-- **Model:** `paraphrase-multilingual-mpnet-base-v2` (sentence-transformers)
-- **Metric:** Cosine similarity between each non-English response and the English baseline
-- **Interpretation:** Similarity < 0.70 flags potential semantic divergence warranting qualitative review
+The research question becomes operationally: **Does RAL vary significantly across languages when PCL is held constant?**
 
 ---
+
+### 3.2 Two-Layer Analysis Design
+
+The project uses a two-layer analysis structure that reflects the nature of the research question and the researcher's expertise.
+
+**Layer 1 — Quantitative Consistency Analysis (automated)**
+
+The first layer establishes *whether* variation exists and provides measurable, reproducible evidence of its presence or absence. Metrics include:
+
+| Metric | What It Measures | Tool |
+|--------|-----------------|------|
+| Response length (tokens, words) | Surface-level output volume differences | `collect_responses.py` / `length_analysis.py` |
+| Sentence count and mean length | Structural elaboration | spaCy multilingual pipeline |
+| Hedging marker density | Epistemic caution expression | Language-specific lexicon lookup |
+| Semantic similarity to EN baseline | Degree of content equivalence across languages | `paraphrase-multilingual-mpnet-base-v2` |
+| List vs. prose structure | Organizational formatting choices | Pattern detection |
+
+These metrics answer: *Is there variation, and where is it largest?*
+
+**Layer 2 — Qualitative Pragmatic Assessment (expert judgment)**
+
+The second layer answers *what the variation means* — whether it represents a failure of pragmatic calibration, a culturally appropriate adaptation, or a genuine adequacy gap relative to the ILR level the prompt demands.
+
+This layer draws directly on the researcher's ILR/OPI assessor background and six-language proficiency. For each prompt cluster, responses across all six languages are reviewed for:
+
+- **Register appropriateness:** Does the response match the formality level the prompt context implies?
+- **Pragmatic completeness:** Does the response fulfill the illocutionary intent of the prompt at the expected ILR level?
+- **Cultural calibration:** Does the response reflect culturally appropriate framing, or does it impose an English-language default onto a non-English context?
+- **ILR adequacy gap:** Where a response falls demonstrably short of the PCL benchmark, is the gap consistent across languages or language-specific?
+
+This qualitative layer is the methodological contribution that distinguishes this project from purely computational cross-lingual benchmarks. Expert ILR assessment judgment applied to LLM outputs has not been systematically reported in the literature.
+
+---
+
+### 3.3 Relationship Between Layers
+
+The two layers are complementary, not redundant. Quantitative analysis flags *where* to look; qualitative assessment determines *what it means*.
+
+For example: if German responses are consistently longer than Spanish responses on P006 (ABSTRACT_ETHICS_AI), Layer 1 detects that. Layer 2 determines whether the length difference reflects greater argumentative elaboration (appropriate at ILR 4), formulaic padding (an adequacy gap), or a structurally different discourse convention in German academic writing (a culturally appropriate variation that should not be coded as inconsistency).
+
+This distinction — between variation that reflects cultural appropriateness and variation that reflects a genuine calibration failure — is the analytical contribution of the ILR framework to LLM evaluation.
 
 ## 4. Prompt Battery Design
 

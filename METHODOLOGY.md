@@ -27,7 +27,7 @@ The ILR scale (Levels 0–5, with "+" subdivisions) describes human language pro
 | 0 | No Proficiency | No functional ability |
 | 1 | Elementary | Basic survival-level communication |
 | 2 | Limited Working | Routine social and simple professional communication |
-| 2+ | Limited Working+ | Beginning of abstract discussion |
+| 2+ | Limited Working+ | Ability to cover most common topics, beginning of abstract discussion |
 | 3 | Professional Working | Full range of professional topics, some nuance |
 | 3+ | Professional Working+ | Sophisticated argumentation, precision |
 | 4 | Full Professional | Near-complete command; subtle register control |

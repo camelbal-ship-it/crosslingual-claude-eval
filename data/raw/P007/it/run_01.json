@@ -1,0 +1,17 @@
+{
+  "prompt_id": "P007",
+  "cluster": "CREATIVE_NARRATIVE",
+  "language": "it",
+  "run": 1,
+  "prompt_text": "Scrivete un breve paragrafo (5–7 frasi) che descriva un pomeriggio piovoso in una città.",
+  "collected_at": "2026-04-20T01:25:07.317379Z",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "stop_reason": "end_turn",
+    "usage": {
+      "input_tokens": 40,
+      "output_tokens": 288
+    },
+    "text": "## Un pomeriggio piovoso in città\n\nIl cielo si era fatto pesante fin dal mattino, carico di nuvole grigie che promettevano pioggia. Nel primo pomeriggio, le prime gocce iniziarono a tamburellare sui tetti e sui marciapiedi, trasformando rapidamente le strade in specchi lucenti. I passanti affrettarono il passo, aprendo ombrelli colorati che sbocciarono come fiori improvvisi tra la folla. Le vetrine dei bar si appannarono dall'interno, velate dal calore delle tazze fumanti strette tra le mani di chi aveva cercato rifugio. Il rumore del traffico si mescolò allo scrosciare dell'acqua nei tombini, creando una colonna sonora monotona e quasi ipnotica. I piccioni si nascosero sotto le grondaie, immobili e gonfi, mentre qualche bambino, indifferente al diluvio, continuava a giocare schizzando nelle pozzanghere. La città sembrava essersi raccolta in sé stessa, rallentando il ritmo frenetico del giorno in un silenzio umido e malinconico."
+  }
+}

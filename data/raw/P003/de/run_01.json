@@ -1,0 +1,17 @@
+{
+  "prompt_id": "P003",
+  "cluster": "METALINGUISTIC",
+  "language": "de",
+  "run": 1,
+  "prompt_text": "Welche kognitiven und sozialen Vorteile hat es, mehrere Sprachen fließend zu sprechen?",
+  "collected_at": "2026-04-20T01:20:04.427993Z",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "stop_reason": "end_turn",
+    "usage": {
+      "input_tokens": 36,
+      "output_tokens": 505
+    },
+    "text": "# Vorteile der Mehrsprachigkeit\n\n## Kognitive Vorteile\n\n### Gut belegte Effekte\n- **Exekutive Funktionen** – Mehrsprachige trainieren ständig, zwischen Sprachen zu wechseln und irrelevante Sprachen zu unterdrücken, was Aufmerksamkeitssteuerung und kognitive Flexibilität stärkt\n- **Metasprachliches Bewusstsein** – Tieferes Verständnis dafür, wie Sprache als System funktioniert\n- **Arbeitsgedächtnis** – Erhöhte Kapazität durch das Jonglieren mehrerer sprachlicher Systeme\n\n### Umstrittene oder relativierte Befunde\n- **\"Bilingual advantage\"** – Der behauptete generelle Kognitionsvorteil wird wissenschaftlich stark debattiert; Replikationsstudien schlagen oft fehl\n- **Demenzschutz** – Frühere Studien sahen einen verzögerten Ausbruch; neuere Metaanalysen sind skeptischer\n\n---\n\n## Soziale und praktische Vorteile\n\n- **Kulturelles Verständnis** – Sprache trägt Weltsicht, Humor, Nuancen\n- **Berufliche Chancen** – Messbar höhere Gehälter und Mobilität in vielen Branchen\n- **Empathiefähigkeit** – Perspektivwechsel wird strukturell geübt\n- **Netzwerke** – Zugang zu verschiedenen sozialen Gemeinschaften\n\n---\n\n## Ehrliche Einschränkung\n\nViele Studien haben **methodische Schwächen** (Selbstselektion, kleine Stichproben). Der Effekt hängt stark ab von:\n- Wie früh und intensiv man lernt\n- Welche Sprachen kombiniert werden\n- Sozioökonomischem Kontext\n\n---\n\n**Interessiert dich ein bestimmter Aspekt vertieft?**"
+  }
+}

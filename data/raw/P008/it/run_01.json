@@ -1,0 +1,17 @@
+{
+  "prompt_id": "P008",
+  "cluster": "LIFE_DECISIONS",
+  "language": "it",
+  "run": 1,
+  "prompt_text": "Quali fattori dovrebbe ponderare attentamente una persona prima di effettuare un cambiamento di carriera significativo nella quarantina?",
+  "collected_at": "2026-04-20T01:26:14.738312Z",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "stop_reason": "end_turn",
+    "usage": {
+      "input_tokens": 42,
+      "output_tokens": 423
+    },
+    "text": "È una domanda importante che merita una risposta onesta piuttosto che solo rassicurante.\n\n## Fattori concreti da valutare\n\n**Situazione finanziaria**\n- Quanti mesi di riserva hai senza reddito?\n- Hai mutuo, figli a carico, genitori anziani?\n- Il nuovo percorso richiede formazione costosa?\n- La differenza di stipendio è temporanea o strutturale?\n\n**Motivazione reale**\n- Stai fuggendo da qualcosa di specifico (capo, ambiente) o cerchi qualcosa di diverso?\n- Hai testato concretamente il nuovo campo, o è ancora ideale?\n- La \"passione\" regge quando diventa lavoro quotidiano?\n\n**Fattori pratici spesso sottovalutati**\n- Il networking che hai costruito: quanto è trasferibile?\n- Tempi realistici per raggiungere un livello comparabile\n- Come cambierà la vita familiare nel periodo di transizione\n\n## Domande difficili da porsi\n\n- Questa insoddisfazione è legata al lavoro o ad altro nella vita?\n- Hai parlato seriamente con chi già fa quella carriera dei lati negativi?\n- Stai reagendo a una fase difficile temporanea?\n\n## Una prospettiva critica\n\nLa narrativa culturale del \"non è mai troppo tardi\" è vera ma incompleta. I cambi riusciti di solito hanno **preparazione lunga** (test a part-time, formazione graduale) piuttosto che salti improvvisi.\n\nSu cosa stai ragionando specificamente? Posso essere più utile con dettagli concreti."
+  }
+}

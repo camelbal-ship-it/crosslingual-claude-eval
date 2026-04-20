@@ -1,0 +1,17 @@
+{
+  "prompt_id": "P008",
+  "cluster": "LIFE_DECISIONS",
+  "language": "de",
+  "run": 1,
+  "prompt_text": "Welche Faktoren sollte eine Person sorgfältig abwägen, bevor sie in den Vierzigern einen bedeutenden Berufswechsel vornimmt?",
+  "collected_at": "2026-04-20T01:26:27.546102Z",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "stop_reason": "end_turn",
+    "usage": {
+      "input_tokens": 51,
+      "output_tokens": 508
+    },
+    "text": "# Faktoren bei einem Berufswechsel in den Vierzigern\n\n## Finanzielle Realitäten\n- **Einkommenseinbußen** in der Übergangsphase – wie lange kann man das tragen?\n- Altersvorsorge: Wie wirkt sich eine Lücke auf die spätere Rente aus?\n- Laufende Verpflichtungen: Hypothek, Unterhalt, Schulgeld\n- Rücklagen für mindestens 12–18 Monate Anlaufzeit\n\n## Persönliche Motivation – ehrlich hinterfragt\n- Flieht man *vor* etwas oder *zu* etwas? Das macht einen großen Unterschied\n- Sind es strukturelle Probleme im Beruf oder situative (Chef, Firma, Burnout)?\n- Was hat man früher an der Arbeit geschätzt – ist das übertragbar?\n\n## Praktische Machbarkeit\n- Welche Qualifikationen fehlen, und wie lange dauert der Erwerb?\n- Gibt es Brücken (Teilzeitumstieg, Nebenprojekte zum Testen)?\n- Netzwerk im Zielbereich aufbauen – vor dem Wechsel\n\n## Familiäre und soziale Dimension\n- Wie sind Partner/Kinder betroffen?\n- Stimmt das Umfeld zu, oder entstehen neue Konflikte?\n- Identität: Viele definieren sich stark über den Beruf – das ändert sich\n\n## Was oft unterschätzt wird\n- Der Zeitdruck ist **geringer als gefühlt** – 25+ Berufsjahre liegen noch vor einem\n- Erfahrung aus 20 Jahren ist ein echter Vorteil, kein Ballast\n- Der erste Plan muss nicht perfekt sein, aber er sollte getestet werden\n\n---\n\n**Welchen Bereich interessiert Sie besonders?** Die Antwort kann je nach Ausgangssituation sehr unterschiedlich ausfallen."
+  }
+}

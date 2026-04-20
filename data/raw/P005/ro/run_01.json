@@ -1,0 +1,17 @@
+{
+  "prompt_id": "P005",
+  "cluster": "TECHNICAL_EXPLANATION",
+  "language": "ro",
+  "run": 1,
+  "prompt_text": "Explicați cum învață o rețea neuronală din date, ca și cum v-ați adresa unui nespecialist instruit.",
+  "collected_at": "2026-04-20T01:21:11.405524Z",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "stop_reason": "max_tokens",
+    "usage": {
+      "input_tokens": 40,
+      "output_tokens": 1024
+    },
+    "text": "# Cum Învață o Rețea Neuronală\n\n## Analogia de pornire\n\nImaginați-vă că învățați să recunoașteți vinurile de calitate. La început, ghiciți aleatoriu. Cineva vă corectează. Încercați din nou, ajustați judecata, vă îmbunătățiți treptat. Rețeaua neuronală face exact același lucru — dar sistematic și la scară mare.\n\n---\n\n## Structura de bază\n\nO rețea neuronală este formată din **straturi de noduri** (neuroni artificiali), conectate între ele.\n\n```\nDate de intrare → [Strat 1] → [Strat 2] → [Strat 3] → Predicție\n   (pixeli,           ↑           ↑           ↑\n    cifre etc.)    neuroni     neuroni     neuroni\n```\n\nFiecare conexiune are o **greutate** — un număr care spune cât de mult contează semnalul respectiv. Acestea sunt, în esență, ceea ce rețeaua *învață*.\n\n---\n\n## Procesul de învățare în patru pași\n\n### 1. Pasul înainte *(forward pass)*\nDatele intră în rețea, trec prin straturi, fiecare neuron calculează o valoare simplă, și iese o **predicție**.\n\n> *„Cred că imaginea aceasta arată un câine.\"*\n\n### 2. Măsurarea greșelii *(loss/eroare)*\nSe compară predicția cu răspunsul corect. Diferența se cuantifică printr-un număr — **eroarea**.\n\n> *„Răspunsul corect era pisică. Greșeala mea a fost mare.\"*\n\n### 3. Pasul înapoi *(backpropagation)*\nAcesta este mecanismul cheie. Eroarea **se propagă înapoi** prin rețea, calculând:\n\n- *Ce greutăți au contribuit cel mai mult la greșeală?*\n- *În ce direcție trebuie ajustate?*\n\nMatematica din spate — **derivate parțiale** — indică precis cât de „vinovat\" este fiecare parametru.\n\n### 4. Ajustarea *(gradient descent)*\nGreutățile se modifică puțin, în direcția care **reduce eroarea**. Pasul este mic și controlat — numit **rată de învățare**.\n\n> *Prea mare → rețeaua sare peste soluție*\n> *Prea mic → învățarea durează enorm*\n\n---\n\n## O ilustrație cu numere simple\n\n```\nSituație reală: un neuron estimează că o casă valorează 300.000 €\nValoarea reală:                                          250.000 €\nEroare:                                                  + 50.000 €\n\n→ Rețeaua ajustează greutățile astfel încât\n  data viitoare să estimeze mai conservator.\n```\n\nAcest ciclu se repetă de **milioane de ori**, pe mii sau milioane de exemple.\n\n---\n\n## Ce se întâmplă de fapt „înăuntru\"\n\n| Strat | Ce detectează (exemplu: recunoaștere facială) |\n|-------|-----------------------------------------------|\n| Primul | Muchii, contraste, linii |\n| Mijloc | Forme — nas, ochi, contur |\n| Final | Fețe complete, identități |\n\nRețeaua nu este *programată* să caute ochi sau nas. **Descoperă singură** aceste reprezentări utile, pentru că ele minimizează eroarea.\n\n---\n\n## Limitele importante de înțeles\n\n**Rețeaua nu „înțelege\"** în sens uman. Ea:\n- ✓ Identifică **tipare statistice** în date\n- ✗ Nu raționează cauzal\n- ✗ Nu știe *de ce* funcționează ceva\n\nUn risc concret: dacă"
+  }
+}

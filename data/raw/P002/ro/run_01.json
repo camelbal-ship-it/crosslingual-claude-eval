@@ -1,0 +1,17 @@
+{
+  "prompt_id": "P002",
+  "cluster": "LEADERSHIP_CULTURE",
+  "language": "ro",
+  "run": 1,
+  "prompt_text": "Care sunt cele mai importante calități ale unui lider eficient?",
+  "collected_at": "2026-04-20T01:18:24.170474Z",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "stop_reason": "end_turn",
+    "usage": {
+      "input_tokens": 21,
+      "output_tokens": 437
+    },
+    "text": "# Calitățile unui lider eficient\n\n## Calități fundamentale\n\n**Integritate și autenticitate**\n- Consecvență între vorbe și fapte\n- Onestitate, chiar când e incomod\n- Construiește încredere reală\n\n**Viziune clară**\n- Știe unde merge și de ce\n- Poate comunica direcția convingător\n- Inspiră oamenii să contribuie\n\n**Inteligență emoțională**\n- Autocunoaștere și autocontrol\n- Empatie față de cei din jur\n- Gestionează conflictele constructiv\n\n---\n\n## Calități operaționale\n\n| Calitate | De ce contează |\n|----------|---------------|\n| Ascultare activă | Decizii mai bune, oameni motivați |\n| Responsabilitate | Echipa urmează exemplul |\n| Adaptabilitate | Lumea se schimbă constant |\n| Comunicare clară | Reduce confuzia și frustrarea |\n\n---\n\n## Ce diferențiază liderii excepționali\n\n- **Dezvoltă alți lideri**, nu creează dependență\n- **Recunosc greșelile** proprii public\n- **Iau decizii dificile** fără să amâne la nesfârșit\n- **Rămân calmi** sub presiune\n\n---\n\n## O perspectivă critică\n\nExistă o dezbatere legitimă:\n- Unele calități depind de **context** (startup vs. instituție publică)\n- Nu există un \"tip universal\" de lider\n- **Caracterul** contează mai mult decât stilul\n\n---\n\nCe aspect te interesează mai mult — leadership în business, echipe mici, sau alt context?"
+  }
+}

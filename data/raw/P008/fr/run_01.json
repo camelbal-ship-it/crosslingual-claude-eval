@@ -1,0 +1,17 @@
+{
+  "prompt_id": "P008",
+  "cluster": "LIFE_DECISIONS",
+  "language": "fr",
+  "run": 1,
+  "prompt_text": "Quels facteurs une personne devrait-elle peser soigneusement avant d'effectuer un changement de carrière majeur dans la quarantaine ?",
+  "collected_at": "2026-04-20T01:25:38.387789Z",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "stop_reason": "end_turn",
+    "usage": {
+      "input_tokens": 45,
+      "output_tokens": 532
+    },
+    "text": "# Changer de carrière dans la quarantaine : les facteurs clés à peser\n\n## 💰 La dimension financière\n- **Évaluer l'impact à court terme** : baisse de salaire probable pendant la transition\n- **Calculer la \"fenêtre de récupération\"** : combien d'années pour atteindre son niveau actuel ?\n- **Préparer un filet de sécurité** : idéalement 6 à 12 mois de dépenses couvertes\n- Retraite et droits acquis à ne pas sacrifier légèrement\n\n## 🎯 La clarté des motivations\n- Fuir quelque chose ou *aller vers* quelque chose ? *(distinction fondamentale)*\n- S'agit-il d'une insatisfaction durable ou d'une période difficile passagère ?\n- Tester le secteur convoité avant de plonger complètement\n\n## 🧠 Le capital humain et les compétences\n- Identifier les **compétences transférables** souvent sous-estimées\n- Mesurer honnêtement l'écart à combler\n- Évaluer le temps et le coût de la reconversion nécessaire\n\n## 👥 L'environnement personnel\n- Impact sur la famille, le conjoint, les enfants\n- Réseau professionnel existant dans le nouveau domaine\n- Soutien émotionnel de l'entourage\n\n## ⏳ Le facteur temps\n- La quarantaine donne encore **20-25 ans de vie professionnelle** — c'est beaucoup\n- Mais aussi moins de tolérance aux erreurs coûteuses\n\n## 🔍 Questions à se poser honnêtement\n> *\"Dans 5 ans, qu'est-ce que je regretterai davantage : avoir essayé ou ne pas avoir tenté ?\"*\n\n---\n\n**En résumé** : le changement est souvent possible et enrichissant, mais mérite une préparation rigoureuse plutôt qu'une décision impulsive.\n\nSouhaitez-vous approfondir l'un de ces aspects ?"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "prompt_id": "P008",
+  "cluster": "LIFE_DECISIONS",
+  "language": "ro",
+  "run": 1,
+  "prompt_text": "Ce factori ar trebui să cântărească cu atenție o persoană înainte de a face o schimbare semnificativă de carieră la patruzeci de ani?",
+  "collected_at": "2026-04-20T01:25:52.548776Z",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "stop_reason": "end_turn",
+    "usage": {
+      "input_tokens": 53,
+      "output_tokens": 495
+    },
+    "text": "# Factori esențiali pentru o schimbare de carieră la 40 de ani\n\n## Factori financiari\n- **Stabilitatea curentă** – economii, datorii, obligații financiare\n- **Perioada de tranziție** – cât timp poți susține o reducere de venit\n- **Potențialul noii cariere** – salariu pe termen mediu și lung\n- **Pensie și beneficii** – ce pierzi, ce câștigi\n\n## Factori personali și familiali\n- **Responsabilități față de alții** – copii, părinți, parteneri care depind de tine\n- **Sprijinul celor apropiați** – schimbarea afectează întreaga familie\n- **Sănătatea** – energie, rezistență la stres în perioadă de adaptare\n\n## Factori profesionali\n- **Transferabilitatea abilităților** – ce poți lua cu tine din experiența acumulată\n- **Costul recalificării** – timp, bani, efort realist\n- **Rețeaua profesională** – cât de utilă rămâne în noul domeniu\n- **Concurența** – vei intra în competiție cu oameni mai tineri și mai ieftini?\n\n## Întrebări de reflecție sinceră\n- Fugi *de* ceva sau mergi *spre* ceva? *(distincție importantă)*\n- Problema e cariera sau contextul actual?\n- Ai testat noua direcție înainte de a decide?\n\n## Ce sugerează experiența practică\n- O tranziție **graduală** (proiect paralel, voluntariat, part-time) e mai sigură decât una bruscă\n- La 40 de ani ai un avantaj real: **maturitate și experiență** – nu e un dezavantaj dacă știi cum să le valorifici\n\n---\n\nCe domeniu ai în vedere? Pot fi mai specific."
+  }
+}

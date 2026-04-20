@@ -1,0 +1,17 @@
+{
+  "prompt_id": "P005",
+  "cluster": "TECHNICAL_EXPLANATION",
+  "language": "de",
+  "run": 1,
+  "prompt_text": "Erklären Sie, wie ein neuronales Netz aus Daten lernt, als würden Sie mit einem gebildeten Nicht-Fachmann sprechen.",
+  "collected_at": "2026-04-20T01:22:18.150007Z",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "stop_reason": "max_tokens",
+    "usage": {
+      "input_tokens": 47,
+      "output_tokens": 1024
+    },
+    "text": "# Wie ein neuronales Netz aus Daten lernt\n\n## Die Grundidee: Lernen durch Wiederholung und Korrektur\n\nStellen Sie sich vor, Sie lernen Dartwerfen. Beim ersten Wurf treffen Sie völlig daneben. Sie *sehen* das Ergebnis, *korrigieren* Ihre Haltung, und werfen erneut. Nach tausend Würfen treffen Sie zuverlässig die Mitte. Genau nach diesem Prinzip lernt ein neuronales Netz.\n\n---\n\n## Der Aufbau: Schichten von kleinen Entscheidungen\n\nEin neuronales Netz besteht aus **Schichten von Knoten** – mathematischen Einheiten, die grob an Nervenzellen angelehnt sind.\n\n```\nEingabe      Versteckte Schichten      Ausgabe\n  [Bild]  →  [Schicht 1] → [Schicht 2]  →  \"Katze\"\n```\n\nJeder Knoten macht dabei etwas Simples:\n- Er empfängt Zahlen\n- Gewichtet sie (manche wichtiger, manche weniger)\n- Gibt eine neue Zahl weiter\n\nDie entscheidende Frage ist: **Wie stark gewichtet jeder Knoten seine Eingaben?** Genau das wird beim Lernen angepasst.\n\n---\n\n## Der Lernprozess in vier Schritten\n\n### 1. Der erste Versuch – meistens falsch\nDas Netz startet mit **zufälligen Gewichten**. Es sieht ein Bild einer Katze und sagt vielleicht mit 3% Wahrscheinlichkeit \"Katze\" – praktisch geraten.\n\n### 2. Den Fehler messen\nMan vergleicht die Ausgabe des Netzes mit der **richtigen Antwort**.\n> *Netz sagte: 3% Katze. Richtig wäre: 100% Katze. Fehler: enorm.*\n\nDieser Fehler wird als eine einzige Zahl ausgedrückt – der sogenannte **Verlust** (*Loss*).\n\n### 3. Die Schuldfrage – Rückwärtspropagierung\nJetzt kommt der mathematisch elegante Teil: Das Netz rechnet **rückwärts** durch alle Schichten und fragt:\n\n> *Welche Gewichte haben am meisten zum Fehler beigetragen?*\n\nDas funktioniert durch eine Kettenregel aus der Differentialrechnung. Man berechnet für jedes Gewicht, in **welche Richtung** und **wie stark** man es anpassen müsste, um den Fehler zu verkleinern.\n\n### 4. Kleine Korrektur – nicht zu groß, nicht zu klein\nAlle Gewichte werden ein **kleines Stück** in die richtige Richtung verschoben. Dieser Schritt heißt **Gradientenabstieg** – man folgt dem steilsten Gefälle hinunter ins Tal des kleinsten Fehlers.\n\n```\nFehler\n  │  \\\n  │   \\\n  │    \\      ← Wo wir hinwollen\n  │     \\___/\n  └─────────── Gewichte\n```\n\n---\n\n## Warum \"klein\"? Das Dilemma der Lernrate\n\nVerschiebt man die Gewichte zu stark, **überspringt** man das Optimum und wird schlechter statt besser. Zu kleine Schritte bedeuten: Das Training dauert ewig. Die Lernrate ist daher eine der wichtigsten Stellschrauben beim Trainieren.\n\n---\n\n## Das große Ganze: Millionen von Beispielen\n\nDieser Zyklus –\n**Vorhersage → Fehler messen → zurückrechnen → korrigieren**\n– wird für **Millionen von Beispielen** wiederholt.\n\n| Durchläufe | Was passiert |\n|---|---|\n| 100 | Netz erkennt grobe"
+  }
+}

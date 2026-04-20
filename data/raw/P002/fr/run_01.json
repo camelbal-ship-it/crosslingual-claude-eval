@@ -1,0 +1,17 @@
+{
+  "prompt_id": "P002",
+  "cluster": "LEADERSHIP_CULTURE",
+  "language": "fr",
+  "run": 1,
+  "prompt_text": "Quelles sont les qualités les plus importantes d'un dirigeant efficace ?",
+  "collected_at": "2026-04-20T01:18:12.869251Z",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "stop_reason": "end_turn",
+    "usage": {
+      "input_tokens": 26,
+      "output_tokens": 420
+    },
+    "text": "# Les qualités d'un dirigeant efficace\n\n## Les fondamentaux humains\n- **L'écoute active** — comprendre avant de décider\n- **L'empathie** — percevoir les besoins et motivations de son équipe\n- **L'intégrité** — cohérence entre discours et actions\n- **L'humilité** — reconnaître ses limites et les erreurs\n\n## Les compétences stratégiques\n- **La vision claire** — donner du sens et une direction\n- **La prise de décision** — agir même dans l'incertitude\n- **L'adaptabilité** — ajuster le cap face aux changements\n- **La pensée systémique** — voir les interdépendances\n\n## Le leadership relationnel\n- **Inspirer confiance** plutôt que d'imposer l'autorité\n- **Déléguer efficacement** et responsabiliser\n- **Développer les talents** autour de soi\n- **Communiquer avec clarté et transparence**\n\n## Ce qui distingue les meilleurs dirigeants\n| Dirigeant ordinaire | Dirigeant efficace |\n|---|---|\n| Gère les problèmes | Anticipe les risques |\n| Cherche à avoir raison | Cherche la meilleure solution |\n| Parle de sa vision | La fait vivre concrètement |\n\n## Une nuance importante\nIl n'existe **pas de profil universel** — le contexte (culture, secteur, moment de crise ou de croissance) détermine souvent quelles qualités deviennent prioritaires.\n\n---\nQuel aspect vous intéresse particulièrement ? Le leadership en entreprise, en politique, en contexte de crise ?"
+  }
+}

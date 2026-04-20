@@ -1,0 +1,17 @@
+{
+  "prompt_id": "P002",
+  "cluster": "LEADERSHIP_CULTURE",
+  "language": "en",
+  "run": 1,
+  "prompt_text": "What are the most important qualities of an effective leader?",
+  "collected_at": "2026-04-20T01:18:03.747501Z",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "stop_reason": "end_turn",
+    "usage": {
+      "input_tokens": 18,
+      "output_tokens": 320
+    },
+    "text": "# Qualities of an Effective Leader\n\nThis is a well-studied topic with some genuinely consistent findings, though context matters a lot.\n\n## Core Qualities with Strong Evidence\n\n**Competence & Judgment**\n- Domain knowledge and practical wisdom\n- Sound decision-making, especially under uncertainty\n- Knowing limitations and gaps\n\n**Integrity**\n- Consistency between words and actions\n- Honesty, even when uncomfortable\n- Accountability for mistakes\n\n**Communication**\n- Clear articulation of goals and expectations\n- Active listening\n- Adapting style to audience\n\n**Emotional Intelligence**\n- Self-awareness\n- Managing relationships skillfully\n- Empathy without losing objectivity\n\n## Often Underrated Qualities\n\n- **Developing others** rather than just performing personally\n- **Admitting uncertainty** rather than projecting false confidence\n- **Creating psychological safety** so people surface problems early\n- **Knowing when not to decide** or to delegate\n\n## Honest Complications\n\n- Some qualities are contextual (crisis leadership differs from steady-state)\n- Charisma is overrated in research compared to its cultural emphasis\n- Some \"leadership qualities\" reflect cultural bias rather than universal effectiveness\n- Self-assessment of leadership quality is notoriously unreliable\n\n## Worth Considering\n\nThe best leaders often **make themselves somewhat replaceable** by building capable teams - which actually contradicts how leadership is often romanticized.\n\nWhat context are you thinking about?"
+  }
+}

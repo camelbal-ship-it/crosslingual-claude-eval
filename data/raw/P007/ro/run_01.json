@@ -1,0 +1,17 @@
+{
+  "prompt_id": "P007",
+  "cluster": "CREATIVE_NARRATIVE",
+  "language": "ro",
+  "run": 1,
+  "prompt_text": "Scrieți un scurt paragraf (5–7 propoziții) care descrie o după-amiază ploioasă într-un oraș.",
+  "collected_at": "2026-04-20T01:24:50.027762Z",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "stop_reason": "end_turn",
+    "usage": {
+      "input_tokens": 45,
+      "output_tokens": 286
+    },
+    "text": "# O după-amiază ploioasă în oraș\n\nCerul s-a întunecat brusc, acoperind acoperișurile cu un văl cenușiu și greu. Primele picături au lovit asfaltul fierbinte, ridicând un miros proaspăt și pământiu care s-a răspândit pe toată strada. Trecătorii s-au grăbit spre intrările magazinelor, deschizând umbrele multicolore care au înflorit pe trotuare ca niște ciuperci după ploaie. Mașinile stropeau băltoacele formate la marginea drumului, iar ștergătoarele lor desenau arcuri ritmice pe parbrizele aburite. Vitrinele luminate ale cafenelelor chemau cu căldura lor, iar înăuntru oamenii priveau gânditori spre stradă, ținând în mâini cești aburinde. Orașul părea că respiră altfel în după-amiezile ploioase — mai lent, mai domol, ca și cum ploaia îi dădea voie să se odihnească puțin."
+  }
+}

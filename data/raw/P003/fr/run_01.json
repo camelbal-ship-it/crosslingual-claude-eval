@@ -1,0 +1,17 @@
+{
+  "prompt_id": "P003",
+  "cluster": "METALINGUISTIC",
+  "language": "fr",
+  "run": 1,
+  "prompt_text": "Quels sont les avantages cognitifs et sociaux de parler plusieurs langues couramment ?",
+  "collected_at": "2026-04-20T01:19:12.989828Z",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "stop_reason": "end_turn",
+    "usage": {
+      "input_tokens": 30,
+      "output_tokens": 592
+    },
+    "text": "# Les avantages du multilinguisme\n\n## Sur le plan cognitif\n\n### Fonctions exécutives\n- **Flexibilité mentale** — passer d'un système linguistique à l'autre entraîne la capacité à changer de perspective\n- **Contrôle inhibiteur** — gérer plusieurs langues simultanément renforce la capacité à filtrer les distractions\n- **Attention sélective** — les bilingues montrent souvent de meilleures performances dans les tâches de concentration\n\n### Mémoire et traitement\n- Mémoire de travail généralement plus efficace\n- Meilleure conscience métalinguistique *(comprendre comment fonctionne le langage lui-même)*\n- Apprentissage de nouvelles langues facilité par les structures déjà maîtrisées\n\n### Vieillissement cérébral\n- Certaines études suggèrent un **retard de l'apparition de la démence** (2-5 ans en moyenne selon Bialystok et al.)\n- *Nuance importante : ce consensus est débattu, les résultats sont inégaux selon les recherches*\n\n---\n\n## Sur le plan social et culturel\n\n### Relations humaines\n- Accès direct à des personnes dans leur langue maternelle, créant une **proximité authentique**\n- Compréhension des implicites culturels, de l'humour, des références\n- Réduction des malentendus interculturels\n\n### Empathie et perspective\n- Chaque langue structure différemment la réalité *(ex : notions du temps, des relations)*\n- Développement d'une **tolérance à l'ambiguïté** et à la complexité\n\n### Opportunités concrètes\n- Accès élargi au marché du travail\n- Mobilité géographique facilitée\n- Réseau professionnel et personnel plus vaste\n\n---\n\n## Ce qu'il faut nuancer\n\n> Les bénéfices varient selon :\n> - Le niveau de maîtrise réelle\n> - L'âge d'acquisition\n> - L'usage régulier ou non des langues\n> - Le contexte socio-économique\n\nLe multilinguisme n'est pas une \"solution miracle\", mais un **entraînement cognitif et culturel** dont les effets s'accumulent dans la durée.\n\nSouhaitez-vous approfondir un aspect particulier ?"
+  }
+}

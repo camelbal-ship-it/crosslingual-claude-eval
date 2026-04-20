@@ -1,0 +1,17 @@
+{
+  "prompt_id": "P008",
+  "cluster": "LIFE_DECISIONS",
+  "language": "es",
+  "run": 1,
+  "prompt_text": "¿Qué factores debería considerar cuidadosamente una persona antes de realizar un cambio de carrera significativo a los cuarenta años?",
+  "collected_at": "2026-04-20T01:26:03.163701Z",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "stop_reason": "end_turn",
+    "usage": {
+      "input_tokens": 44,
+      "output_tokens": 423
+    },
+    "text": "# Cambio de carrera a los cuarenta: factores a considerar seriamente\n\nEs una decisión importante que merece análisis honesto, no solo entusiasmo ni miedo excesivo.\n\n## Factores financieros (probablemente los más urgentes)\n\n- **Reservas reales**: ¿cuánto tiempo puedes sostenerte durante la transición?\n- **Posible reducción de ingresos inicial** y si tu situación familiar lo permite\n- **Deudas e hipotecas** que limitan tu margen de riesgo\n- **Costo de reentrenamiento** versus retorno esperado\n\n## Factores profesionales\n\n- **Qué habilidades son transferibles** (suelen ser más de las que uno cree)\n- **Cuánto tiempo realista** tomaría ser competitivo en el nuevo campo\n- **Redes de contacto** que ya tienes o tendrás que construir desde cero\n- **Si el cambio es de industria, de rol, o de ambos** (muy diferente en complejidad)\n\n## Factores personales que se subestiman\n\n- Las razones **reales** del cambio: ¿huyes de algo o vas hacia algo?\n- Si tu insatisfacción actual es del trabajo o de esa empresa específica\n- **Qué esperas concretamente** del nuevo campo, con información de primera mano\n\n## Lo que vale la pena cuestionar\n\n- El romanticismo sobre el nuevo campo antes de conocerlo desde adentro\n- Si \"los cuarenta\" son realmente un límite o más bien una narrativa\n\n¿Tienes algún campo específico en mente? Podría ser más útil hablar de tu situación concreta."
+  }
+}

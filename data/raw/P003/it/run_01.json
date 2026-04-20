@@ -1,0 +1,17 @@
+{
+  "prompt_id": "P003",
+  "cluster": "METALINGUISTIC",
+  "language": "it",
+  "run": 1,
+  "prompt_text": "Quali sono i vantaggi cognitivi e sociali del parlare più lingue correntemente?",
+  "collected_at": "2026-04-20T01:19:53.137405Z",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "stop_reason": "end_turn",
+    "usage": {
+      "input_tokens": 29,
+      "output_tokens": 521
+    },
+    "text": "## Vantaggi cognitivi del bilinguismo/multilinguismo\n\n### Funzioni esecutive\n- **Controllo inibitorio** più sviluppato: il cervello si esercita costantemente a sopprimere la lingua \"sbagliata\" nel contesto dato\n- **Flessibilità cognitiva** maggiore: capacità di passare tra sistemi diversi di pensiero\n- **Attenzione selettiva** più affinata, specialmente in contesti rumorosi o ambigui\n\n### Memoria e apprendimento\n- La gestione di più sistemi linguistici sembra rafforzare la **memoria di lavoro**\n- Apprendere ulteriori lingue diventa progressivamente più facile (*effetto scaffolding*)\n- Maggiore consapevolezza metalinguistica: si capisce *come* funziona il linguaggio, non solo che funziona\n\n### Una nota critica importante\nLa ricerca sul cosiddetto **\"vantaggio bilingue\"** è più controversa di quanto spesso si dica:\n- Alcuni studi non replicano i risultati\n- Gli effetti dipendono molto da *come* si usa la lingua (frequenza, contesto, età di acquisizione)\n- È difficile isolare la variabile linguistica da quelle socioeconomiche\n\n---\n\n## Vantaggi sociali e pratici\n\n- **Empatia culturale**: parlare una lingua significa accedere alla sua struttura di valori e visione del mondo\n- Maggiore tolleranza all'ambiguità e alle differenze\n- Accesso diretto a comunità, letterature, mercati altrimenti filtrati dalla traduzione\n- Migliori opportunità professionali in contesti globali\n- Capacità di mediazione in contesti multiculturali\n\n---\n\n## Una prospettiva più profonda\n\nAlcune lingue codificano concetti che altre non hanno (es. il finlandese *sisu*, il portoghese *saudade*). Parlare più lingue non è solo una competenza, ma **un accesso a modi diversi di organizzare la realtà**.\n\nVuoi approfondire qualche aspetto specifico?"
+  }
+}

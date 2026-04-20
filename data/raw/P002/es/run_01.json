@@ -1,0 +1,17 @@
+{
+  "prompt_id": "P002",
+  "cluster": "LEADERSHIP_CULTURE",
+  "language": "es",
+  "run": 1,
+  "prompt_text": "¿Cuáles son las cualidades más importantes de un líder eficaz?",
+  "collected_at": "2026-04-20T01:18:33.106617Z",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "stop_reason": "end_turn",
+    "usage": {
+      "input_tokens": 28,
+      "output_tokens": 400
+    },
+    "text": "# Cualidades de un Líder Eficaz\n\n## Fundamentos esenciales\n\n**Integridad y coherencia**\n- Actúa según sus valores declarados\n- Genera confianza siendo predecible y honesto\n\n**Comunicación clara**\n- Escucha activamente, no solo habla\n- Adapta su mensaje según el contexto y la audiencia\n\n**Capacidad de decisión**\n- Decide con información incompleta cuando es necesario\n- Asume responsabilidad por los resultados\n\n---\n\n## Habilidades interpersonales\n\n- **Empatía real** → entiende perspectivas distintas a la suya\n- **Desarrollo de otros** → su éxito se mide en parte por el crecimiento de su equipo\n- **Gestión del conflicto** → lo aborda en lugar de evitarlo\n\n---\n\n## Mentalidad y actitud\n\n- **Humildad intelectual** → reconoce errores y limitaciones\n- **Visión clara** → sabe hacia dónde va y puede transmitirlo\n- **Resiliencia** → mantiene la dirección ante la adversidad\n\n---\n\n## Un punto importante que suele ignorarse\n\n> El liderazgo **no es un conjunto fijo de rasgos**, sino una práctica que se adapta al contexto, al equipo y al momento.\n\nUn buen líder en una startup puede ser completamente diferente a uno efectivo en una crisis o en una organización madura.\n\n---\n\n¿Te interesa profundizar en algún aspecto específico, como liderazgo en equipos, en situaciones de crisis o en contextos particulares?"
+  }
+}

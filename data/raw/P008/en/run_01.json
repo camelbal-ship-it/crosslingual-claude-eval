@@ -1,0 +1,17 @@
+{
+  "prompt_id": "P008",
+  "cluster": "LIFE_DECISIONS",
+  "language": "en",
+  "run": 1,
+  "prompt_text": "What factors should a person weigh carefully before making a significant career change in their 40s?",
+  "collected_at": "2026-04-20T01:25:26.824605Z",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "stop_reason": "end_turn",
+    "usage": {
+      "input_tokens": 27,
+      "output_tokens": 320
+    },
+    "text": "This is a genuinely important decision worth thinking through carefully rather than just following motivational advice. Here are factors worth honest consideration:\n\n## Financial Reality\n- Current savings and how long they'd sustain you during transition\n- Income gap between current and new career (possibly years, not months)\n- Family financial obligations - mortgage, dependents, aging parents\n- Retirement timeline implications of starting over\n\n## Honest Self-Assessment\n- Whether dissatisfaction is actually about the career vs. specific job/workplace\n- Whether the new field appeals partly because you're romanticizing it\n- Your actual risk tolerance vs. theoretical willingness to take risks\n- Health considerations affecting ability to handle stress and uncertainty\n\n## Practical Career Factors\n- Transferable skills that genuinely apply vs. assumed overlap\n- How long retraining actually takes and costs\n- Whether the field is growing or contracting\n- Entry-level reality in the new field at your age\n\n## What Often Gets Underweighted\n- Partner/family impact on relationships and their career flexibility\n- Identity shift - losing expertise and status temporarily\n- That some changes are modifications rather than complete pivots\n- Specific reasons the change appeals (purpose, money, environment, autonomy?)\n\n## Worth Questioning\n- Whether the problem is solvable with smaller changes first\n- Whether you've talked to people actually doing the target work, not just reading about it\n\nWhat specific situation are you navigating? The relevant factors vary considerably by circumstance."
+  }
+}

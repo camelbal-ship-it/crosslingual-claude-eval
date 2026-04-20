@@ -1,0 +1,17 @@
+{
+  "prompt_id": "P003",
+  "cluster": "METALINGUISTIC",
+  "language": "ro",
+  "run": 1,
+  "prompt_text": "Care sunt avantajele cognitive și sociale ale vorbirii fluente a mai multor limbi?",
+  "collected_at": "2026-04-20T01:19:25.488055Z",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "stop_reason": "end_turn",
+    "usage": {
+      "input_tokens": 29,
+      "output_tokens": 461
+    },
+    "text": "# Avantajele cognitive și sociale ale multilingvismului\n\n## Avantaje cognitive\n\n### Funcții executive\n- **Control inhibitor** mai bun — gestionarea constantă a mai multor sisteme lingvistice antrenează capacitatea de a suprima răspunsuri automate\n- **Flexibilitate cognitivă** — comutarea între limbi dezvoltă abilitatea de a schimba perspective și strategii\n- **Memoria de lucru** mai dezvoltată, prin menținerea simultană a unor sisteme paralele\n\n### Atenție și procesare\n- Atenție selectivă și capacitate de focalizare mai bune\n- Monitorizare mai eficientă a conflictelor cognitive\n- Unele studii sugerează o rezervă cognitivă mai mare la vârste înaintate\n\n### Metacogniție\n- Conștientizare metalingvistică superioară — înțelegerea mai profundă a *cum* funcționează limbajul\n- Gândire mai abstractă despre concepte, care variază între limbi\n\n---\n\n## Avantaje sociale și interpersonale\n\n- Acces direct la culturi, literaturi și moduri de gândire diferite\n- **Empatie** și perspectivă mai largă asupra lumii\n- Oportunități profesionale extinse\n- Construirea de relații autentice în diverse comunități\n- Adaptabilitate și sensibilitate interculturală\n\n---\n\n## Nuanțe importante\n\n> Cercetările nu sunt uniforme. Unele beneficii cognitive, în special cele legate de demență, au fost **contestate metodologic**. Efectele variază în funcție de:\n> - vârsta de achiziție\n> - gradul de fluență\n> - frecvența utilizării\n\n---\n\nCe aspect te interesează mai mult — cel educațional, profesional sau neurologic?"
+  }
+}

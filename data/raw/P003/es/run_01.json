@@ -1,0 +1,17 @@
+{
+  "prompt_id": "P003",
+  "cluster": "METALINGUISTIC",
+  "language": "es",
+  "run": 1,
+  "prompt_text": "¿Cuáles son las ventajas cognitivas y sociales de hablar varios idiomas con fluidez?",
+  "collected_at": "2026-04-20T01:19:39.479378Z",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "stop_reason": "end_turn",
+    "usage": {
+      "input_tokens": 36,
+      "output_tokens": 639
+    },
+    "text": "# Ventajas cognitivas y sociales del multilingüismo\n\n## Ventajas cognitivas\n\n### Función ejecutiva\n- **Mayor control inhibitorio**: gestionar varios sistemas lingüísticos simultáneamente ejercita la capacidad de suprimir respuestas automáticas\n- **Flexibilidad cognitiva**: cambiar entre idiomas entrena la mente para cambiar entre perspectivas y tareas\n- **Memoria de trabajo**: mantener activos múltiples sistemas lingüísticos demanda y desarrolla esta capacidad\n\n### Atención y conciencia metalingüística\n- Mejor capacidad de detectar estructuras y patrones en el lenguaje\n- Mayor conciencia de que el lenguaje *construye* la realidad, no solo la describe\n- Sensibilidad más fina a la ambigüedad y el significado contextual\n\n### Reserva cognitiva\n- Algunos estudios sugieren retraso en síntomas de demencia (*aunque este punto está actualmente debatido en la literatura*)\n- Mayor densidad de materia gris en zonas relacionadas con el lenguaje\n\n---\n\n## Ventajas sociales y culturales\n\n### Acceso y comprensión\n- Acceso directo a literaturas, humor y formas de pensar intraducibles\n- Comprensión más profunda de culturas sin la mediación de traducciones\n- Confianza mayor en contextos internacionales\n\n### Relaciones interpersonales\n- Hablar el idioma de alguien cambia cualitativamente la relación\n- Mayor empatía hacia grupos culturales distintos\n- Reducción de estereotipos por exposición directa\n\n### Dimensión profesional\n- Ventajas en mercados laborales globalizados\n- Capacidad de mediar entre comunidades\n\n---\n\n## Matices importantes que vale señalar\n\n> No todo lo que se afirma popularmente tiene respaldo sólido\n\n| Afirmación común | Estado real |\n|-----------------|-------------|\n| \"Retrasa el Alzheimer\" | Evidencia mixta y debatida |\n| \"Los bilingües son más inteligentes\" | Simplificación excesiva |\n| \"Más idiomas = más ventajas linealmente\" | Depende del nivel de fluidez y uso activo |\n\n---\n\n## Una reflexión final\n\nQuizás la ventaja más profunda es **epistemológica**: cada idioma ofrece categorías distintas para percibir el mundo. Hablar varios no solo amplía con quién puedes comunicarte, sino *cómo puedes pensar*.\n\n¿Te interesa profundizar en algún aspecto específico?"
+  }
+}

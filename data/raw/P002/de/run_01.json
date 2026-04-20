@@ -1,0 +1,17 @@
+{
+  "prompt_id": "P002",
+  "cluster": "LEADERSHIP_CULTURE",
+  "language": "de",
+  "run": 1,
+  "prompt_text": "Was sind die wichtigsten Eigenschaften einer effektiven Führungskraft?",
+  "collected_at": "2026-04-20T01:18:52.018829Z",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "stop_reason": "end_turn",
+    "usage": {
+      "input_tokens": 26,
+      "output_tokens": 488
+    },
+    "text": "# Wichtigste Eigenschaften einer effektiven Führungskraft\n\n## Kernkompetenzen\n\n### Kommunikation\n- Klar und verständlich kommunizieren\n- Aktiv zuhören\n- Feedback geben **und** annehmen können\n\n### Soziale Intelligenz\n- Empathie für Mitarbeitende zeigen\n- Konflikte konstruktiv lösen\n- Unterschiedliche Persönlichkeiten erkennen und fördern\n\n### Entscheidungsfähigkeit\n- Auch bei Unsicherheit handlungsfähig bleiben\n- Verantwortung übernehmen – auch für Fehler\n- Prioritäten setzen\n\n---\n\n## Haltung & Charakter\n\n| Eigenschaft | Bedeutung |\n|-------------|-----------|\n| **Integrität** | Glaubwürdigkeit durch Konsistenz |\n| **Selbstreflexion** | Eigene Stärken & Schwächen kennen |\n| **Resilienz** | Mit Rückschlägen umgehen |\n| **Bescheidenheit** | Lernen statt alles wissen wollen |\n\n---\n\n## Strategische Fähigkeiten\n- **Vision** entwickeln und vermitteln\n- Teams **motivieren und entwickeln**\n- Delegieren können – Vertrauen schenken\n- Veränderungen aktiv gestalten\n\n---\n\n## Was oft unterschätzt wird\n\n> Führung ist weniger eine Frage der **Autorität**, sondern mehr eine Frage des **Vertrauens**.\n\n- Psychologische Sicherheit im Team schaffen\n- Mitarbeitende wachsen lassen, nicht kontrollieren\n- Vorbild sein statt Anweisungen geben\n\n---\n\n**Gibt es einen bestimmten Kontext** (z.B. Unternehmensführung, Teamleitung, politische Führung), auf den ich genauer eingehen soll?"
+  }
+}

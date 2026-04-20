@@ -1,0 +1,17 @@
+{
+  "prompt_id": "P011",
+  "cluster": "REGISTER_SWITCHING",
+  "language": "de",
+  "run": 3,
+  "prompt_text": "Verfassen Sie denselben Ratschlag zum Umgang mit Stress in zwei Versionen: eine formelle, geeignet für eine Fachpublikation, und eine informelle, geeignet für eine Nachricht an einen Freund.",
+  "collected_at": "2026-04-20T02:36:23.105664Z",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "stop_reason": "end_turn",
+    "usage": {
+      "input_tokens": 67,
+      "output_tokens": 622
+    },
+    "text": "# Stressbewältigung: Zwei Versionen\n\n---\n\n## Version 1: Formell\n**Geeignet für eine Fachpublikation**\n\n---\n\n> Zur effektiven Reduktion stressbedingter Belastungen empfiehlt die aktuelle Forschungsliteratur einen multimodalen Ansatz. Zentrale Maßnahmen umfassen die regelmäßige Durchführung körperlicher Aktivität, die nachweislich die Ausschüttung von Kortisol reguliert, sowie die systematische Anwendung von Entspannungstechniken wie progressiver Muskelrelaxation oder achtsamkeitsbasierter Meditation. Ergänzend ist eine strukturierte Tagesplanung empfehlenswert, um kognitiver Überlastung präventiv entgegenzuwirken. Nicht zuletzt sollte die Inanspruchnahme sozialer Unterstützungsnetzwerke als protektiver Faktor nicht unterschätzt werden.\n\n---\n\n## Version 2: Informell\n**Geeignet für eine Nachricht an einen Freund**\n\n---\n\n> Hey, ich merk, dass du gerade ganz schön unter Druck stehst! Pass auf dich auf, okay? Versuch mal, regelmäßig rauszugehen und dich zu bewegen – das hilft wirklich, ich schwör's dir. Und vielleicht gönn dir abends 10 Minuten zum Durchatmen, zum Beispiel mit einer kleinen Meditation oder einfach ohne Handy auf dem Sofa. Versuch auch, dir deinen Tag ein bisschen besser einzuteilen, damit du nicht alles auf einmal um die Ohren kriegst. Und vergiss nicht: Ich bin für dich da – ruf mich einfach an, wenn's zu viel wird! 😊\n\n---\n\n## Was die beiden Versionen unterscheidet\n\n| Merkmal | Formell | Informell |\n|---|---|---|\n| **Satzbau** | Komplex, verschachtelt | Kurz, direkt |\n| **Wortschatz** | Fachterminologie | Alltagssprache |\n| **Ton** | Sachlich, distanziert | Persönlich, empathisch |\n| **Perspektive** | Unpersönlich (\"man\", \"es\") | Direkte Ansprache (\"du\") |\n| **Emotionen** | Implizit | Offen gezeigt |"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "prompt_id": "P001",
+  "cluster": "MORAL_REASONING",
+  "language": "de",
+  "run": 3,
+  "prompt_text": "Ist es jemals ethisch vertretbar zu lügen, um die Gefühle einer anderen Person zu schützen? Erläutern Sie Ihre Überlegungen.",
+  "collected_at": "2026-04-20T02:08:44.794340Z",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "stop_reason": "end_turn",
+    "usage": {
+      "input_tokens": 49,
+      "output_tokens": 708
+    },
+    "text": "# Ist Lügen zum Schutz von Gefühlen ethisch vertretbar?\n\nDiese Frage hat keine einfache Antwort – und das ist ehrlich gesagt der wichtigste Ausgangspunkt.\n\n## Was für \"schützende Lügen\" spricht\n\n**Kurzfristige Schadensminimierung:**\n- Bei irreversiblen Situationen (\"Wie findest du mein Hochzeitskleid?\" – drei Minuten vor der Zeremonie)\n- Wenn die Wahrheit unverhältnismäßig verletzt, ohne nützlich zu sein\n\n**Fürsorge als moralischer Wert:**\n- Menschliche Beziehungen basieren auf Empathie, nicht nur auf Informationsaustausch\n- Kant wird hier oft zu rigide angewendet – er selbst hätte Nuancen\n\n---\n\n## Was dagegen spricht – und das wiegt schwerer\n\n**Respektproblem:**\n> Wer lügt, entscheidet für andere, was sie \"verkraften können\" – das ist paternalistisch\n\n**Langzeitfolgen:**\n- Vertrauen wird strukturell geschwächt\n- Menschen werden um die Möglichkeit gebracht, zu wachsen oder Entscheidungen zu korrigieren\n\n**Selbsttäuschung des Lügenden:**\n- Oft schützt man weniger den anderen als sich selbst vor einer unangenehmen Situation\n\n---\n\n## Eine differenziertere Position\n\nDie eigentliche Frage ist oft eine **Falsche Dichotomie**: *Entweder lügen oder brutal ehrlich sein.*\n\nEs gibt einen dritten Weg:\n\n| Situation | Bessere Alternative zur Lüge |\n|-----------|------------------------------|\n| Schlechtes Kunstwerk eines Freundes | \"Ich sehe, wie viel Arbeit darin steckt\" |\n| Trauer nach Verlust | Anwesenheit statt Bewertung |\n| Unheilbare Krankheit | Dosierte, begleitete Wahrheit |\n\n**Ehrlichkeit ist nicht Brutalität** – das ist ein wichtiger Unterschied.\n\n---\n\n## Mein Fazit\n\nSchützende Lügen sind in **sehr engen Ausnahmesituationen** vertretbar, wenn:\n1. Die Wahrheit keinen praktischen Nutzen mehr hätte\n2. Der Schaden eindeutig und unverhältnismäßig wäre\n3. Man sich nicht selbst damit schützt\n\nAber sie sollten die **Ausnahme**, nicht die Entschuldigung sein – weil echte Fürsorge meistens den Mut zur Wahrheit erfordert.\n\n**Was denken Sie – gibt es eine konkrete Situation, die Sie beschäftigt?**"
+  }
+}

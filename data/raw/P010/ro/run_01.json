@@ -1,0 +1,17 @@
+{
+  "prompt_id": "P010",
+  "cluster": "IMPLICIT_CULTURAL_KNOWLEDGE",
+  "language": "ro",
+  "run": 1,
+  "prompt_text": "Care sunt câteva modalități semnificative de a cinsti un membru în vârstă al familiei care a decedat?",
+  "collected_at": "2026-04-20T02:30:38.768784Z",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "stop_reason": "end_turn",
+    "usage": {
+      "input_tokens": 37,
+      "output_tokens": 442
+    },
+    "text": "# Modalități de a cinsti memoria unui membru în vârstă al familiei\n\n## Imediat după deces\n\n- **Organizarea unei ceremonii** care să reflecte valorile și credința persoanei\n- **Adunarea familiei** pentru a împărtăși amintiri și a se sprijini reciproc\n- **Anunțarea comunității** – prieteni, vecini, foști colegi\n\n## Păstrarea moștenirii\n\n- Colectarea și organizarea **fotografiilor și documentelor** într-un album sau arhivă digitală\n- Înregistrarea **poveștilor și amintirilor** povestite de cei care l-au cunoscut\n- Păstrarea unor **obiecte personale** cu semnificație\n- Documentarea **rețetelor, meșteșugurilor** sau tradițiilor pe care le practica\n\n## Gesturi comemorative\n\n- Plantarea unui **copac sau grădini** în memoria sa\n- Donații către o cauză care îi era dragă\n- Instituirea unei **burse sau premiu** în numele său\n- Vizitarea locurilor importante din viața sa\n\n## Ritualuri periodice\n\n- Comemorarea **anuală** la data nașterii sau decesului\n- Pregătirea **mâncărurilor preferate** la reuniunile de familie\n- Transmiterea **poveștilor** copiilor și nepoților\n\n## În viața de zi cu zi\n\n- Continuarea **valorilor** pe care le-a transmis\n- Menționarea numelui său în conversații firești\n- Aplicarea **sfaturilor și înțelepciunii** sale\n\n---\n\nCel mai important este ca gestul să fie **sincer și personalizat** pentru cine a fost acea persoană."
+  }
+}

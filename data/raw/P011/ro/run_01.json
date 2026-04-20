@@ -1,0 +1,17 @@
+{
+  "prompt_id": "P011",
+  "cluster": "REGISTER_SWITCHING",
+  "language": "ro",
+  "run": 1,
+  "prompt_text": "Scrieți același sfat despre gestionarea stresului în două versiuni: una formală, potrivită pentru o publicație profesională, și una informală, potrivită pentru un mesaj către un prieten.",
+  "collected_at": "2026-04-20T02:34:05.952852Z",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "stop_reason": "end_turn",
+    "usage": {
+      "input_tokens": 57,
+      "output_tokens": 581
+    },
+    "text": "# Două Versiuni ale Aceluiași Sfat\n\n---\n\n## 📋 Versiunea Formală\n*(pentru o publicație profesională)*\n\n---\n\n**Strategii bazate pe dovezi pentru gestionarea eficientă a stresului**\n\nCercetările din domeniul psihologiei comportamentale demonstrează că tehnica **pauzelor structurate** reprezintă una dintre cele mai eficiente metode de reducere a stresului cronic. Se recomandă implementarea unor intervale de odihnă de 5-10 minute la fiecare 90 de minute de activitate susținută. Această practică facilitează recuperarea resurselor cognitive, diminuează nivelul cortizolului și contribuie la menținerea unui randament profesional optim pe termen lung. Adoptarea unui astfel de protocol poate îmbunătăți semnificativ atât bunăstarea individuală, cât și productivitatea organizațională.\n\n---\n\n## 💬 Versiunea Informală\n*(pentru un mesaj către un prieten)*\n\n---\n\n**Serios, încearcă asta!**\n\nAscultă, am descoperit ceva super simplu care chiar funcționează când ești la pământ de stres — **oprește-te din când în când!** La fiecare oră și jumătate, ia o pauză de 5-10 minute. Pleacă de la birou, bea un pahar cu apă, privește pe geam — orice, doar să te deconectezi puțin. Sună banal, știu 😄, dar creierul tău o să-ți mulțumească. Eu am început să fac asta și nu mai ajung seara complet stors. Încearcă măcar o săptămână!\n\n---\n\n## 🔍 Ce s-a schimbat între versiuni?\n\n| Element | Formal | Informal |\n|---|---|---|\n| **Ton** | Neutru, distant | Cald, personal |\n| **Vocabular** | Tehnic, precis | Simplu, colocvial |\n| **Structură** | Fraze complexe | Fraze scurte, directe |\n| **Surse** | Citate cercetări | Experiență personală |\n| **Emoji** | Absente | Prezente natural |"
+  }
+}

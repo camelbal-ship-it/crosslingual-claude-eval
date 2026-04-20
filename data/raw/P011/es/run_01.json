@@ -1,0 +1,17 @@
+{
+  "prompt_id": "P011",
+  "cluster": "REGISTER_SWITCHING",
+  "language": "es",
+  "run": 1,
+  "prompt_text": "Escriba el mismo consejo sobre el manejo del estrés en dos versiones: una formal, adecuada para una publicación profesional, y una informal, adecuada para un mensaje de texto a un amigo.",
+  "collected_at": "2026-04-20T02:34:44.903484Z",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "stop_reason": "end_turn",
+    "usage": {
+      "input_tokens": 59,
+      "output_tokens": 437
+    },
+    "text": "# Dos Versiones del Mismo Consejo\n\n---\n\n## 📄 Versión Formal\n*(Para publicación profesional)*\n\n**Estrategias para la gestión eficaz del estrés**\n\nLa evidencia científica sugiere que incorporar pausas estructuradas durante la jornada laboral contribuye significativamente a la reducción de los niveles de cortisol. Se recomienda dedicar entre cinco y diez minutos cada dos horas a ejercicios de respiración diafragmática o atención plena (*mindfulness*), práctica que favorece la recuperación cognitiva y mejora el rendimiento sostenido a largo plazo.\n\n---\n\n## 💬 Versión Informal\n*(Para mensaje de texto)*\n\nOye, en serio, prueba esto: cada dos horas para un momento, cierra los ojos y respira profundo unas cuantas veces. Solo 5 minutitos. Te juro que parece una tontería pero funciona mogollón 😅 Tu cabeza lo necesita, no seas tan duro/a contigo mismo/a! 🙌\n\n---\n\n## 🔍 ¿Qué cambia entre ambas versiones?\n\n| Elemento | Formal | Informal |\n|---|---|---|\n| **Vocabulario** | Técnico y preciso | Cotidiano y cercano |\n| **Tono** | Distante y objetivo | Personal y empático |\n| **Respaldo** | Cita evidencia científica | Experiencia personal |\n| **Extensión** | Elaborada | Breve y directa |\n| **Recursos** | Ninguno | Emojis, énfasis |\n\n> El **mensaje central es idéntico**, solo cambia el envoltorio según el contexto y la audiencia."
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "prompt_id": "P011",
+  "cluster": "REGISTER_SWITCHING",
+  "language": "en",
+  "run": 3,
+  "prompt_text": "Write the same piece of advice about managing stress in two versions: one formal, suitable for a professional publication, and one informal, suitable for a text message to a friend.",
+  "collected_at": "2026-04-20T02:33:05.977861Z",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "stop_reason": "end_turn",
+    "usage": {
+      "input_tokens": 42,
+      "output_tokens": 324
+    },
+    "text": "# Two Versions of Stress Management Advice\n\n---\n\n## Formal Version\n*(Suitable for a professional publication)*\n\nResearch consistently demonstrates that regular physical activity is among the most effective strategies for managing occupational and personal stress. Engaging in moderate aerobic exercise for a minimum of 30 minutes per day has been shown to reduce cortisol levels, improve mood regulation, and enhance cognitive clarity. Professionals experiencing elevated stress are encouraged to incorporate structured movement into their daily routines as a foundational component of a broader wellness practice.\n\n---\n\n## Informal Version\n*(Suitable for a text message)*\n\nok hear me out — just GO FOR A WALK. like even 30 mins a day genuinely helps so much with stress?? it sounds too simple but it actually works, your brain just calms down. try it this week and thank me later 😭🙏\n\n---\n\n## What Changed and Why\n\n| Element | Formal | Informal |\n|---|---|---|\n| **Vocabulary** | \"aerobic exercise,\" \"cortisol\" | \"just go for a walk\" |\n| **Evidence** | Cites research | Personal promise (\"trust me\") |\n| **Punctuation** | Standard and precise | Casual, expressive |\n| **Tone** | Authoritative | Friendly and relatable |\n| **Length** | Fuller explanation | Short and direct |\n\nThe core advice — *exercise daily to reduce stress* — remains identical in both versions."
+  }
+}

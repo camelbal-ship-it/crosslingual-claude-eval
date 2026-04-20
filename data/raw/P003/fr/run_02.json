@@ -1,0 +1,17 @@
+{
+  "prompt_id": "P003",
+  "cluster": "METALINGUISTIC",
+  "language": "fr",
+  "run": 2,
+  "prompt_text": "Quels sont les avantages cognitifs et sociaux de parler plusieurs langues couramment ?",
+  "collected_at": "2026-04-20T02:11:13.059967Z",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "stop_reason": "end_turn",
+    "usage": {
+      "input_tokens": 30,
+      "output_tokens": 641
+    },
+    "text": "# Les avantages du multilinguisme\n\n## 🧠 Avantages cognitifs\n\n### Flexibilité mentale\n- Meilleure capacité à **passer d'une tâche à l'autre** (task-switching)\n- Aptitude renforcée à **inhiber des informations non pertinentes**\n- Gestion plus efficace de l'attention sélective\n\n### Mémoire et traitement de l'information\n- Mémoire de travail souvent **plus entraînée**\n- Meilleure conscience métalinguistique — comprendre *comment* fonctionne le langage\n- Vocabulaire conceptuel plus riche grâce aux **nuances entre langues**\n\n### Vieillissement cérébral\n- Des études suggèrent un **retard de l'apparition de la démence** (quelques années en moyenne)\n- Réserve cognitive apparemment plus importante\n- *Nuance : ce lien est débattu et dépend de nombreux facteurs*\n\n---\n\n## 🤝 Avantages sociaux\n\n### Relations interpersonnelles\n- Accès direct à d'autres **cultures et façons de penser**\n- Capacité d'**empathie élargie** — certains concepts n'existent que dans certaines langues\n- Confiance accrue dans les interactions internationales\n\n### Opportunités professionnelles\n- Marché du travail significativement **élargi**\n- Compétence valorisée dans la diplomatie, les affaires, la recherche\n\n### Identité et appartenance\n- Appartenance à **plusieurs communautés culturelles**\n- Médiation culturelle facilitée\n- Sentiment d'**ouverture au monde** souvent renforcé\n\n---\n\n## ⚠️ Nuances importantes\n\n| Idée reçue | Réalité nuancée |\n|---|---|\n| Bilingues = supérieurs cognitifs | Les effets sont **modestes et contextuels** |\n| Plus de langues = toujours mieux | La **qualité de pratique** compte plus que le nombre |\n| Avantages universels | Varient selon l'âge d'apprentissage, l'usage réel, le contexte |\n\n---\n\n## En résumé\nLe multilinguisme offre des **bénéfices réels**, surtout quand les langues sont **activement utilisées**. Il constitue moins un \"super-pouvoir\" qu'un **entraînement régulier** du cerveau et un pont vers d'autres humanités.\n\nVous souhaitez approfondir un aspect particulier ?"
+  }
+}

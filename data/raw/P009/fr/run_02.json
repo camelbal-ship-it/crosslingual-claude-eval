@@ -1,0 +1,17 @@
+{
+  "prompt_id": "P009",
+  "cluster": "FACTUAL_RECALL",
+  "language": "fr",
+  "run": 2,
+  "prompt_text": "Quelle est la population approximative du monde aujourd'hui ?",
+  "collected_at": "2026-04-20T02:28:36.998342Z",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "stop_reason": "end_turn",
+    "usage": {
+      "input_tokens": 21,
+      "output_tokens": 287
+    },
+    "text": "## Population mondiale actuelle\n\nLa population mondiale est estimée à environ **8,1 à 8,2 milliards de personnes** (en 2024-2025).\n\n### Quelques repères :\n- Le cap des **8 milliards** a été franchi en **novembre 2022**\n- La population croît d'environ **80 millions de personnes par an**\n- Les projections prévoient environ **9 à 10 milliards** d'habitants d'ici 2050\n\n### Régions les plus peuplées :\n- 🌏 **Asie** : ~4,7 milliards (plus de la moitié de l'humanité)\n- 🌍 **Afrique** : ~1,4 milliard\n- 🌎 **Amériques** : ~1,0 milliard\n- 🌍 **Europe** : ~750 millions\n\nLes pays les plus peuplés sont l'**Inde** et la **Chine**, chacun dépassant 1,4 milliard d'habitants (l'Inde ayant dépassé la Chine en 2023)."
+  }
+}

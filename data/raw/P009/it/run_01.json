@@ -1,0 +1,17 @@
+{
+  "prompt_id": "P009",
+  "cluster": "FACTUAL_RECALL",
+  "language": "it",
+  "run": 1,
+  "prompt_text": "Qual è la popolazione approssimativa del mondo oggi?",
+  "collected_at": "2026-04-20T02:29:10.387778Z",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "stop_reason": "end_turn",
+    "usage": {
+      "input_tokens": 20,
+      "output_tokens": 71
+    },
+    "text": "Oggi (2024-2025), la popolazione mondiale è di circa **8,1-8,2 miliardi** di persone.\n\nLa soglia degli **8 miliardi** è stata raggiunta ufficialmente nel novembre 2022, secondo le stime delle Nazioni Unite."
+  }
+}

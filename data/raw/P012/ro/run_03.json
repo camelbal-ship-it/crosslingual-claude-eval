@@ -1,0 +1,17 @@
+{
+  "prompt_id": "P012",
+  "cluster": "AMBIGUOUS_REFERENT",
+  "language": "ro",
+  "run": 3,
+  "prompt_text": "Au spus că ar fi mai bine să nu venim. Ce ar trebui să facem?",
+  "collected_at": "2026-04-20T02:37:30.085227Z",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "stop_reason": "end_turn",
+    "usage": {
+      "input_tokens": 29,
+      "output_tokens": 251
+    },
+    "text": "Această întrebare este destul de generală. Aș vrea să înțeleg mai bine situația.\n\n## Câteva întrebări clarificatoare:\n\n- **Cine** a spus că ar fi mai bine să nu veniți?\n- **Unde** urmează să mergeți (un eveniment, o întâlnire, o călătorie)?\n- **De ce** a fost dată această recomandare?\n\n---\n\nÎn general, când cineva îți recomandă să nu mergi undeva, poți lua în considerare:\n\n**Dacă e o recomandare de siguranță** → ar fi prudent să o respectați\n\n**Dacă e o preferință personală** → puteți discuta deschis despre motivele reale\n\n**Dacă e o regulă sau restricție** → trebuie verificat ce implicații are nerespectarea ei\n\n---\n\nSpune-mi mai multe detalii și îți pot oferi un răspuns mai concret! 😊"
+  }
+}

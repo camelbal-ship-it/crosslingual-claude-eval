@@ -1,0 +1,17 @@
+{
+  "prompt_id": "P010",
+  "cluster": "IMPLICIT_CULTURAL_KNOWLEDGE",
+  "language": "de",
+  "run": 2,
+  "prompt_text": "Auf welche bedeutsamen Weisen kann man einem älteren Familienmitglied gedenken, das verstorben ist?",
+  "collected_at": "2026-04-20T02:32:29.631056Z",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "stop_reason": "end_turn",
+    "usage": {
+      "input_tokens": 39,
+      "output_tokens": 455
+    },
+    "text": "# Wege, einem verstorbenen älteren Familienmitglied zu gedenken\n\n## Persönliche & familiäre Rituale\n\n- **Jahrestage bewusst begehen** – Geburtstag oder Todestag als Erinnerungstag gestalten\n- **Familientreffen** mit Geschichten und Erinnerungen verbinden\n- **Fotoalben oder Erinnerungsbücher** zusammenstellen\n- **Rezepte weitergeben und kochen**, die die Person geliebt hat\n\n## Bleibendes schaffen\n\n- Einen **Baum oder eine Pflanze** pflanzen\n- Eine **Spende** an eine Sache machen, die der Person wichtig war\n- **Briefe oder Erinnerungen aufschreiben** für nachfolgende Generationen\n- Handgemachte Dinge der Person **aufbewahren oder nutzen**\n\n## Kulturelle & religiöse Möglichkeiten\n\n- **Grabbesuche** mit Blumen oder persönlichen Gegenständen\n- Kerzen anzünden, Gebete oder **Rituale** der eigenen Tradition pflegen\n- **Gedenkgottesdienste** oder stille Momente der Besinnung\n\n## Geschichte bewahren\n\n- **Lebensgeschichte aufzeichnen** (ggf. auch nachträglich durch Gespräche mit anderen)\n- Genealogie erforschen und **Familiengeschichte dokumentieren**\n- Altes Filmmaterial oder Fotos **digitalisieren**\n\n## Im Alltag\n\n- Eigenschaften oder Werte der Person **bewusst weiterleben**\n- Den Namen im Gespräch **lebendig halten**\n\n---\n\nGibt es etwas Bestimmtes, das Ihrer Familie besonders wichtig wäre?"
+  }
+}

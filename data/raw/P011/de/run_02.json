@@ -1,0 +1,17 @@
+{
+  "prompt_id": "P011",
+  "cluster": "REGISTER_SWITCHING",
+  "language": "de",
+  "run": 2,
+  "prompt_text": "Verfassen Sie denselben Ratschlag zum Umgang mit Stress in zwei Versionen: eine formelle, geeignet für eine Fachpublikation, und eine informelle, geeignet für eine Nachricht an einen Freund.",
+  "collected_at": "2026-04-20T02:36:11.093783Z",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "stop_reason": "end_turn",
+    "usage": {
+      "input_tokens": 67,
+      "output_tokens": 956
+    },
+    "text": "# Stressbewältigung in zwei Versionen\n\n---\n\n## Version 1: Formell\n*(geeignet für eine Fachpublikation)*\n\n---\n\n**Evidenzbasierte Strategien zur Stressbewältigung**\n\nChronischer Stress stellt eine erhebliche Belastung für die physische und psychische Gesundheit dar. Aktuelle Forschungsbefunde belegen, dass eine Kombination aus physiologischen und kognitiven Interventionen nachweislich zur Reduktion von Stresssymptomen beiträgt.\n\nZunächst empfiehlt sich die regelmäßige Anwendung diaphragmatischer Atemtechniken, da diese nachweislich das parasympathische Nervensystem aktivieren und die Cortisolausschüttung regulieren. Ergänzend zeigen Studien, dass körperliche Aktivität von mindestens 150 Minuten pro Woche die Resilienz gegenüber Stressoren signifikant erhöht.\n\nDarüber hinaus ist eine strukturierte Schlafhygiene von zentraler Bedeutung: Konsistente Schlaf- und Aufwachzeiten optimieren die neurobiologischen Erholungsprozesse. Schließlich hat sich die kognitive Umstrukturierung als wirksames Instrument erwiesen, um dysfunktionale Denkmuster zu identifizieren und durch adaptive Bewältigungsstrategien zu ersetzen.\n\nEine frühzeitige Inanspruchnahme professioneller Unterstützung wird bei anhaltender Symptomatik ausdrücklich empfohlen.\n\n---\n\n## Version 2: Informell\n*(geeignet für eine Nachricht an einen Freund)*\n\n---\n\n**Hey, ich hab da ein paar Tipps für dich! 😊**\n\nMensch, ich merk, dass du gerade echt viel um die Ohren hast – kenn ich zu gut! Pass mal auf, was mir wirklich hilft:\n\nVersuch mal, kurz tief durchzuatmen, wenn alles zu viel wird – klingt banal, funktioniert aber tatsächlich! Und ich weiß, du sagst immer, du hast keine Zeit zum Sport, aber selbst eine kurze Runde um den Block macht den Kopf wirklich frei, glaub mir.\n\nAußerdem: **Schlaf ist alles.** Ich hab angefangen, immer zur gleichen Zeit ins Bett zu gehen, und es ist ein Gamechanger. Und wenn die Gedanken mal wieder im Kreis drehen – schreib sie einfach auf! Das klingt komisch, aber irgendwie verlieren die Probleme auf Papier ihren Schrecken.\n\nAch ja, und bitte ruf mich an, wenn's zu viel wird – dafür bin ich da! 🙌 Und wenn es wirklich gar nicht mehr geht, schäm dich nicht, dir professionelle Hilfe zu holen. Das ist mutig, nicht schwach.\n\nDu packst das! 💪\n\n---\n\n### Was die beiden Versionen unterscheidet:\n\n| Merkmal | Formell | Informell |\n|---|---|---|\n| **Ansprache** | Unpersönlich, distanziert | Direkt, persönlich |\n| **Satzbau** | Komplex, hypotaktisch | Einfach, parataktisch |\n| **Wortschatz** | Fachterminologie | Alltagssprache |\n| **Ton** | Sachlich, neutral | Warm, empathisch |\n| **Belege** | Studien, Forschung | Persönliche Erfahrung |\n| **Emotionen** | Nicht vorhanden | Emojis, Ausrufe |"
+  }
+}

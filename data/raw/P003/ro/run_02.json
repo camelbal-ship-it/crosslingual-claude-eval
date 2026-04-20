@@ -1,0 +1,17 @@
+{
+  "prompt_id": "P003",
+  "cluster": "METALINGUISTIC",
+  "language": "ro",
+  "run": 2,
+  "prompt_text": "Care sunt avantajele cognitive și sociale ale vorbirii fluente a mai multor limbi?",
+  "collected_at": "2026-04-20T02:11:36.706476Z",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "stop_reason": "end_turn",
+    "usage": {
+      "input_tokens": 29,
+      "output_tokens": 497
+    },
+    "text": "# Avantajele bilingvismului și multilingvismului\n\n## Avantaje cognitive\n\n### Funcții executive\n- **Control inhibitor** mai bun — gestionarea atenției și suprimarea răspunsurilor automate\n- **Flexibilitate cognitivă** — trecerea mai ușoară între sarcini și perspective diferite\n- **Memorie de lucru** îmbunătățită prin gestionarea constantă a mai multor sisteme lingvistice\n\n### Procesare și gândire\n- Conștientizare metalingvistică — înțelegerea mai profundă a *cum* funcționează limbajul\n- Gândire mai nuanțată prin accesul la concepte fără echivalent direct\n- Unii cercetători sugerează o **întârziere a demenței** (dezbatere activă în literatura de specialitate)\n\n### Observație importantă\nUnele studii timpurii au *supraestimat* avantajele cognitive — domeniul este în curs de revizuire critică.\n\n---\n\n## Avantaje sociale și profesionale\n\n- Acces la comunități și culturi diferite\n- Empatie culturală și reducerea etnocentrismului\n- Oportunități profesionale extinse\n- Negociere și comunicare mai eficientă în contexte diverse\n\n---\n\n## Nuanțe care merită menționate\n\n| Aspect | Realitate |\n|--------|-----------|\n| „Bilingvii sunt superiori\" | Efectele variază mult după context |\n| Vârsta de achiziție | Contează considerabil |\n| Nivelul de fluență | Un factor crucial adesea ignorat |\n\n---\n\n## Concluzie echilibrată\n\nBeneficiile există, dar sunt **moderate și contextuale**, nu universale. Valoarea cea mai solidă rămâne **accesul cultural și comunicațional**, nu neapărat superioritatea cognitivă.\n\nCe aspect te interesează mai mult?"
+  }
+}

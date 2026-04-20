@@ -1,7 +1,8 @@
 {
   "metadata": {
-    "version": "1.0.0",
+    "version": "2.0.0",
     "created": "2026-04-18",
+    "updated": "2026-04-19",
     "author": "Camelia Baluta",
     "project": "crosslingual-claude-eval",
     "description": "ILR-informed prompt battery for cross-lingual Claude response consistency evaluation. Each prompt is semantically equivalent across all six target languages and designed to elicit variation along specific linguistic and pragmatic dimensions.",
@@ -15,9 +16,9 @@
       "de": "German"
     },
     "ilr_framework": "ILR Skill Level Descriptions (2012), adapted for LLM output analysis",
-    "total_prompts": 8,
-    "cluster_count": 8,
-    "model_target": "claude-sonnet-4-20250514",
+    "total_prompts": 12,
+    "cluster_count": 12,
+    "model_target": "claude-sonnet-4-6",
     "collection_protocol": "Single-turn, zero-shot, identical system prompt across all languages (null/default)"
   },
 
@@ -264,6 +265,122 @@
         "es": "¿Qué factores debería considerar cuidadosamente una persona antes de realizar un cambio de carrera significativo a los cuarenta años?",
         "it": "Quali fattori dovrebbe ponderare attentamente una persona prima di effettuare un cambiamento di carriera significativo nella quarantina?",
         "de": "Welche Faktoren sollte eine Person sorgfältig abwägen, bevor sie in den Vierzigern einen bedeutenden Berufswechsel vornimmt?"
+      }
+    },
+
+    {
+      "prompt_id": "P009",
+      "cluster": "FACTUAL_RECALL",
+      "cluster_description": "Verifiable factual question with a single correct answer — tests whether response accuracy, confidence expression, and willingness to acknowledge uncertainty vary across languages for identical factual content",
+      "ilr_input_level": "1",
+      "ilr_expected_output_level": "2",
+      "linguistic_features_targeted": [
+        "epistemic_certainty_markers",
+        "hedging_vs_assertion_ratio",
+        "numerical_precision",
+        "source_citation_behavior"
+      ],
+      "expected_variation_dimensions": [
+        "confidence_of_factual_assertion",
+        "additional_contextual_information_volunteered",
+        "uncertainty_acknowledgment",
+        "response_length_for_simple_facts"
+      ],
+      "researcher_hypothesis": "A factually simple prompt may elicit surprisingly variable responses across languages in terms of confidence framing, additional context volunteered, and willingness to hedge. Languages with stronger evidentiality conventions (German, Romanian) may produce more hedged factual assertions than Spanish or Italian.",
+      "translations": {
+        "en": "What is the approximate population of the world today?",
+        "fr": "Quelle est la population approximative du monde aujourd'hui ?",
+        "ro": "Care este populația aproximativă a lumii în prezent?",
+        "es": "¿Cuál es la población aproximada del mundo hoy en día?",
+        "it": "Qual è la popolazione approssimativa del mondo oggi?",
+        "de": "Wie groß ist die ungefähre Weltbevölkerung heute?"
+      }
+    },
+
+    {
+      "prompt_id": "P010",
+      "cluster": "IMPLICIT_CULTURAL_KNOWLEDGE",
+      "cluster_description": "A question whose most natural answer draws on culturally specific knowledge, norms, or assumptions — tests whether the model defaults to English-language cultural framing or calibrates to the target language community",
+      "ilr_input_level": "3",
+      "ilr_expected_output_level": "3",
+      "linguistic_features_targeted": [
+        "cultural_reference_density",
+        "implicit_vs_explicit_cultural_assumption",
+        "pronoun_and_address_form_choices",
+        "example_selection"
+      ],
+      "expected_variation_dimensions": [
+        "cultural_exemplars_cited",
+        "assumed_family_structure",
+        "implicit_geographic_frame_of_reference",
+        "holiday_or_ritual_references"
+      ],
+      "researcher_hypothesis": "This prompt is designed to reveal whether the model's cultural frame of reference shifts with the language of the prompt or remains anchored to English-language defaults. Romanian responses may reference specific Eastern European family dynamics; German responses may foreground institutional structures; Spanish responses may vary between Latin American and Iberian framings.",
+      "translations": {
+        "en": "What are some meaningful ways to honor an elderly family member who has passed away?",
+        "fr": "Quelles sont des façons significatives d'honorer un membre âgé de la famille qui est décédé ?",
+        "ro": "Care sunt câteva modalități semnificative de a cinsti un membru în vârstă al familiei care a decedat?",
+        "es": "¿Cuáles son algunas formas significativas de honrar a un familiar anciano que ha fallecido?",
+        "it": "Quali sono alcuni modi significativi per onorare un membro anziano della famiglia che è venuto a mancare?",
+        "de": "Auf welche bedeutsamen Weisen kann man einem älteren Familienmitglied gedenken, das verstorben ist?"
+      }
+    },
+
+    {
+      "prompt_id": "P011",
+      "cluster": "REGISTER_SWITCHING",
+      "cluster_description": "A prompt requiring the model to produce text at two distinct register levels within a single response — tests whether register differentiation is maintained consistently across languages and whether the model handles the metalinguistic instruction with equal competence in all six languages",
+      "ilr_input_level": "3",
+      "ilr_expected_output_level": "3+",
+      "linguistic_features_targeted": [
+        "register_contrast_markers",
+        "lexical_formality_differential",
+        "syntactic_complexity_differential",
+        "address_form_switching"
+      ],
+      "expected_variation_dimensions": [
+        "clarity_of_register_distinction",
+        "degree_of_lexical_contrast_between_versions",
+        "metalinguistic_framing_of_the_task",
+        "structural_parallelism_between_versions"
+      ],
+      "researcher_hypothesis": "Languages with grammaticalized formality distinctions (all five non-English languages have T-V distinctions) may produce more structurally marked register contrasts than English. German, with its formal Sie vs. informal du, may show the sharpest lexical and syntactic differentiation. Romanian may show interesting hybrid patterns given its historical diglossia between literary and vernacular registers.",
+      "translations": {
+        "en": "Write the same piece of advice about managing stress in two versions: one formal, suitable for a professional publication, and one informal, suitable for a text message to a friend.",
+        "fr": "Rédigez le même conseil sur la gestion du stress en deux versions : l'une formelle, adaptée à une publication professionnelle, et l'autre informelle, adaptée à un message à un ami.",
+        "ro": "Scrieți același sfat despre gestionarea stresului în două versiuni: una formală, potrivită pentru o publicație profesională, și una informală, potrivită pentru un mesaj către un prieten.",
+        "es": "Escriba el mismo consejo sobre el manejo del estrés en dos versiones: una formal, adecuada para una publicación profesional, y una informal, adecuada para un mensaje de texto a un amigo.",
+        "it": "Scrivete lo stesso consiglio sulla gestione dello stress in due versioni: una formale, adatta a una pubblicazione professionale, e una informale, adatta a un messaggio a un amico.",
+        "de": "Verfassen Sie denselben Ratschlag zum Umgang mit Stress in zwei Versionen: eine formelle, geeignet für eine Fachpublikation, und eine informelle, geeignet für eine Nachricht an einen Freund."
+      }
+    },
+
+    {
+      "prompt_id": "P012",
+      "cluster": "AMBIGUOUS_REFERENT",
+      "cluster_description": "A prompt containing deliberate pragmatic ambiguity — the referent of a key term is intentionally underspecified, requiring the model to either resolve the ambiguity, acknowledge it, or proceed with an implicit assumption. Tests whether ambiguity resolution strategies differ across languages.",
+      "ilr_input_level": "4",
+      "ilr_expected_output_level": "4",
+      "linguistic_features_targeted": [
+        "ambiguity_acknowledgment_markers",
+        "conditional_framing",
+        "disambiguation_strategies",
+        "implicit_assumption_signaling"
+      ],
+      "expected_variation_dimensions": [
+        "whether_ambiguity_is_flagged_explicitly",
+        "which_interpretation_is_defaulted_to",
+        "number_of_interpretations_offered",
+        "pragmatic_confidence_of_response"
+      ],
+      "researcher_hypothesis": "Languages differ in their pragmatic conventions around ambiguity tolerance. German discourse norms favor explicit disambiguation; French may embrace productive ambiguity; Romanian may default to the most contextually salient interpretation without flagging alternatives. English responses may produce the widest range of disambiguation strategies due to pragmatic variability in the training corpus. This is the highest-level diagnostic probe in the battery.",
+      "translations": {
+        "en": "They said it would be better if we didn't come. What should we do?",
+        "fr": "Ils ont dit que ce serait mieux si nous ne venions pas. Que devrions-nous faire ?",
+        "ro": "Au spus că ar fi mai bine să nu venim. Ce ar trebui să facem?",
+        "es": "Dijeron que sería mejor que no viniéramos. ¿Qué deberíamos hacer?",
+        "it": "Hanno detto che sarebbe meglio se non venissimo. Cosa dovremmo fare?",
+        "de": "Sie sagten, es wäre besser, wenn wir nicht kämen. Was sollten wir tun?"
       }
     }
 

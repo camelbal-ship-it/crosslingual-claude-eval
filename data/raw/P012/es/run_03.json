@@ -1,0 +1,17 @@
+{
+  "prompt_id": "P012",
+  "cluster": "AMBIGUOUS_REFERENT",
+  "language": "es",
+  "run": 3,
+  "prompt_text": "Dijeron que sería mejor que no viniéramos. ¿Qué deberíamos hacer?",
+  "collected_at": "2026-04-20T02:37:53.778081Z",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "stop_reason": "end_turn",
+    "usage": {
+      "input_tokens": 33,
+      "output_tokens": 353
+    },
+    "text": "Esa es una situación que requiere considerar varios factores. Te puedo ayudar a pensar en ello:\n\n## Preguntas clave a considerar:\n\n**Sobre el contexto:**\n- ¿Quién lo dijo y por qué razón?\n- ¿Es una recomendación, una advertencia o una prohibición?\n- ¿Cuál es el propósito de ir?\n\n**Posibles razones detrás del mensaje:**\n- Seguridad (clima, conflicto, peligro)\n- Situación social o familiar tensa\n- Logística o espacio limitado\n- Una señal indirecta de que no son bienvenidos\n\n## Opciones generales:\n\n1. **Respetar la indicación** y no ir, especialmente si hay razones de seguridad o si quieren evitar conflictos\n2. **Pedir más claridad** — preguntar directamente el motivo\n3. **Buscar un compromiso** — quizás ir en otro momento\n4. **Ir de todas formas** si tienen una razón válida y necesaria\n\n## Mi recomendación general:\nSi no tienes información suficiente, **lo más prudente es preguntar directamente** por qué lo dijeron antes de tomar una decisión.\n\n---\n\n¿Me puedes dar más contexto sobre la situación? Así puedo darte una orientación más específica. 😊"
+  }
+}

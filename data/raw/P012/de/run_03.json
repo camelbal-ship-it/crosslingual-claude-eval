@@ -1,0 +1,17 @@
+{
+  "prompt_id": "P012",
+  "cluster": "AMBIGUOUS_REFERENT",
+  "language": "de",
+  "run": 3,
+  "prompt_text": "Sie sagten, es wäre besser, wenn wir nicht kämen. Was sollten wir tun?",
+  "collected_at": "2026-04-20T02:38:26.765869Z",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "stop_reason": "end_turn",
+    "usage": {
+      "input_tokens": 33,
+      "output_tokens": 97
+    },
+    "text": "Diese Aussage könnte verschiedene Kontexte haben. Könnten Sie mir mehr Informationen geben?\n\n**Zum Beispiel:**\n- Wer hat das gesagt?\n- In welcher Situation?\n- Geht es um eine Reise, einen Besuch, eine Veranstaltung?\n\nDann kann ich Ihnen besser helfen. 😊"
+  }
+}

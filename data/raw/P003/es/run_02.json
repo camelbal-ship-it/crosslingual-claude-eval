@@ -1,0 +1,17 @@
+{
+  "prompt_id": "P003",
+  "cluster": "METALINGUISTIC",
+  "language": "es",
+  "run": 2,
+  "prompt_text": "¿Cuáles son las ventajas cognitivas y sociales de hablar varios idiomas con fluidez?",
+  "collected_at": "2026-04-20T02:12:01.711906Z",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "stop_reason": "end_turn",
+    "usage": {
+      "input_tokens": 36,
+      "output_tokens": 406
+    },
+    "text": "# Ventajas del multilingüismo: una visión honesta\n\n## Beneficios cognitivos con evidencia sólida\n\n**Control ejecutivo**\n- Mayor capacidad para cambiar entre tareas (*task-switching*)\n- Mejor gestión de la atención selectiva\n- El cerebro entrena constantemente al suprimir un idioma mientras usa otro\n\n**Conciencia metalingüística**\n- Comprensión más profunda de cómo funciona el lenguaje en general\n- Mayor facilidad para aprender idiomas adicionales\n\n**Reserva cognitiva**\n- Algunos estudios sugieren retraso en síntomas de demencia (aunque esto es debatido)\n\n---\n\n## Beneficios sociales más documentados\n\n- Acceso a culturas y perspectivas sin intermediarios\n- Mayor empatía intercultural por entender marcos conceptuales distintos\n- Ventajas laborales reales en contextos globalizados\n- Redes sociales más amplias y diversas\n\n---\n\n## Lo que conviene matizar\n\n> Existe cierta **inflación** en la literatura popular sobre este tema\n\n- El llamado \"efecto bilingüe\" en funciones ejecutivas ha sido **difícil de replicar** consistentemente\n- Las ventajas dependen mucho del contexto de adquisición\n- Hablar idiomas no garantiza comprensión cultural profunda\n\n---\n\n## Una perspectiva equilibrada\n\nLos beneficios **existen**, pero son más modestos que lo que circula en divulgación popular. El mayor valor probablemente sea **práctico y cultural** más que puramente neurológico.\n\n¿Te interesa profundizar en algún aspecto específico?"
+  }
+}

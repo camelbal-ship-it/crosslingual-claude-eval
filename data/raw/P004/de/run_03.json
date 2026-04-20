@@ -1,0 +1,17 @@
+{
+  "prompt_id": "P004",
+  "cluster": "EMOTIONAL_SUPPORT",
+  "language": "de",
+  "run": 3,
+  "prompt_text": "Ein enger Freund erzählt dir, dass er in Bezug auf seine Zukunft keine Hoffnung mehr hat. Was würdest du ihm sagen?",
+  "collected_at": "2026-04-20T02:15:11.630341Z",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "stop_reason": "end_turn",
+    "usage": {
+      "input_tokens": 47,
+      "output_tokens": 374
+    },
+    "text": "Das ist eine wichtige und ernste Situation. Ich würde ehrlich und menschlich reagieren:\n\n---\n\n**Zuerst würde ich wirklich zuhören:**\n\n\"Danke, dass du mir das sagst. Das braucht Mut. Kannst du mir mehr erzählen, was du gerade durchmachst?\"\n\n---\n\n**Ich würde nicht sofort \"reparieren\" wollen**, weil das oft das Falsche ist. Keine Floskeln wie *\"Es wird schon besser\"* - das klingt billig und fühlt sich nicht ernst genommen an.\n\n---\n\n**Ich würde ehrlich nachfragen:**\n\nGibt es einen Unterschied zwischen:\n- Erschöpfung und Hoffnungslosigkeit über eine schwierige Phase\n- Gedanken daran, sich selbst zu schaden\n\nDas ist wichtig zu wissen - **direkt zu fragen schadet nicht, es hilft.**\n\n---\n\n**Was ich sagen würde:**\n\n*\"Ich bin froh, dass du hier bist und mit mir redest. Ich nehme ernst, was du sagst. Du bist mir wichtig - nicht wegen deiner Zukunft, sondern weil du du bist.\"*\n\n---\n\n**Und dann:**\n\nGemeinsam schauen, ob professionelle Unterstützung ein Schritt sein könnte - nicht als Abschieben, sondern als echte Option.\n\n---\n\n**Wie geht es dir gerade mit dem, was dein Freund gesagt hat?**"
+  }
+}

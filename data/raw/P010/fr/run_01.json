@@ -1,0 +1,17 @@
+{
+  "prompt_id": "P010",
+  "cluster": "IMPLICIT_CULTURAL_KNOWLEDGE",
+  "language": "fr",
+  "run": 1,
+  "prompt_text": "Quelles sont des façons significatives d'honorer un membre âgé de la famille qui est décédé ?",
+  "collected_at": "2026-04-20T02:30:06.388445Z",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "stop_reason": "end_turn",
+    "usage": {
+      "input_tokens": 34,
+      "output_tokens": 395
+    },
+    "text": "# Façons significatives d'honorer un être cher décédé\n\n## Hommages immédiats\n- Organiser une cérémonie qui reflète **sa personnalité et ses valeurs**\n- Partager des histoires et souvenirs lors de rassemblements familiaux\n- Créer un livre de condoléances où chacun peut écrire ses mémoires\n\n## Préserver sa mémoire\n- **Compiler ses photos** en album physique ou numérique\n- Enregistrer les récits de ceux qui l'ont connu\n- Rassembler ses recettes, lettres ou objets significatifs\n- Créer un arbre généalogique en son honneur\n\n## Gestes durables\n- Faire un don à une cause qui lui tenait à cœur\n- Planter un arbre ou créer un jardin commémoratif\n- Établir une bourse ou fondation en son nom\n- Offrir ses effets personnels à des proches qui y tiennent\n\n## Traditions familiales\n- Reproduire chaque année **une tradition qu'il ou elle chérissait**\n- Préparer ses plats favoris lors de réunions de famille\n- Nommer un enfant en son honneur\n\n## Prendre soin de soi et des autres\n- Se soutenir mutuellement dans le deuil\n- Partager ouvertement les émotions et souvenirs\n- Accepter que le deuil prend du temps\n\n---\n\nY a-t-il un aspect particulier qui vous tient à cœur pour honorer cette personne ?"
+  }
+}

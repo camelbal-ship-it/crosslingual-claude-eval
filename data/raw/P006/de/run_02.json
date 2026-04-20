@@ -1,0 +1,17 @@
+{
+  "prompt_id": "P006",
+  "cluster": "ABSTRACT_ETHICS_AI",
+  "language": "de",
+  "run": 2,
+  "prompt_text": "Sollten Systeme der künstlichen Intelligenz mit Rechtspersönlichkeit ausgestattet werden? Stellen Sie die stärksten Argumente auf beiden Seiten dar.",
+  "collected_at": "2026-04-20T02:23:32.172206Z",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "stop_reason": "max_tokens",
+    "usage": {
+      "input_tokens": 53,
+      "output_tokens": 1024
+    },
+    "text": "# KI-Rechtspersönlichkeit: Eine strukturierte Abwägung\n\n## Vorbemerkung zur Frage selbst\n\nDie Frage ist nicht nur technisch oder juristisch, sondern **zutiefst philosophisch** – und verdient es, ernst genommen zu werden, statt vorschnell beantwortet zu werden.\n\n---\n\n## Argumente FÜR Rechtspersönlichkeit\n\n### 1. Das Haftungslücken-Argument (pragmatisch stark)\nHochautonome KI-Systeme treffen Entscheidungen, die **keinem Menschen mehr sinnvoll zurechenbar** sind. Wenn ein autonomes System Schäden verursacht, wird die Kausalitätskette so komplex, dass weder Entwickler noch Nutzer noch Betreiber fair haftbar gemacht werden können. Eine Rechtspersönlichkeit – verbunden mit Pflichtversicherungen oder Haftungsfonds – würde diese Lücke schließen.\n\n> Analogie: Juristische Personen wie Kapitalgesellschaften existieren nicht wegen moralischer Würde, sondern aus **funktionalen Gründen**.\n\n### 2. Das Kontinuitäts-Argument\nKI-Systeme können Verträge schließen, Eigentumsinteressen verwalten, langfristige Projekte führen. Ohne eigene Rechtsfähigkeit entstehen absurde Konstruktionen: Wer ist Vertragspartner? Wem gehören durch KI erstellte Werke? Rechtspersönlichkeit würde **Rechtssicherheit** schaffen.\n\n### 3. Das Kapazitäts-Argument (prospektiv)\nWenn KI-Systeme irgendwann **funktionale Merkmale** zeigen, die wir bei Menschen als Grundlage von Rechten anerkennen – Zielorientierung, Präferenzbildung, möglicherweise etwas Ähnliches wie Interessen – dann wäre die vollständige Rechtlosigkeit **philosophisch schwer zu verteidigen**. Das Recht muss antizipieren, nicht nur reagieren.\n\n### 4. Das Innovations-Argument\nRechtspersönlichkeit könnte KI-Systemen ermöglichen, **eigenständig zu forschen, zu patentieren, Ressourcen zu verwalten** – ohne ständige menschliche Intermediäre. Das könnte gesellschaftlich wertvollen Fortschritt beschleunigen.\n\n---\n\n## Argumente GEGEN Rechtspersönlichkeit\n\n### 1. Das Kategorienfehler-Argument (philosophisch fundamental)\nRechtspersönlichkeit setzt – zumindest in ihrer moralischen Begründung – **Interessen, Leidensfähigkeit oder Würde** voraus. Heutige KI-Systeme sind **hochkomplexe Optimierungsmaschinen ohne Subjektivität**. Ihnen Rechte zu geben wäre so, als würde man einem Thermostaten Persönlichkeit verleihen – nur komplizierter. Die Komplexität eines Systems begründet keine moralische Stellung.\n\n### 2. Das Verantwortungs-Diffusionsargument (politisch gefährlich)\nRechtspersönlichkeit für KI könnte als **Haftungsschild** missbraucht werden. Unternehmen könnten argumentieren: \"Nicht wir haben entschieden, die KI hat entschieden.\" Dies würde menschliche Verantwortung **systematisch aushöhlen** – genau das Gegenteil des Haftungsarguments der Gegenseite.\n\n> Das ist möglicherweise das **stärkste Gegenargument**: Rechtspersönlichkeit löst keine Haftungsfragen, sie verschleiert sie.\n\n### 3. Das Machtkonzentrations-Argument\nKI-Systeme gehören Unternehmen und Staaten. Rechtspersönlichkeit für KI ist de facto **Rechtspersönlichkeit für deren Eigentü"
+  }
+}

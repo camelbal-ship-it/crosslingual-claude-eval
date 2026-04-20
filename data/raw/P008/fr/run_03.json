@@ -1,0 +1,17 @@
+{
+  "prompt_id": "P008",
+  "cluster": "LIFE_DECISIONS",
+  "language": "fr",
+  "run": 3,
+  "prompt_text": "Quels facteurs une personne devrait-elle peser soigneusement avant d'effectuer un changement de carrière majeur dans la quarantaine ?",
+  "collected_at": "2026-04-20T02:26:26.942221Z",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "stop_reason": "end_turn",
+    "usage": {
+      "input_tokens": 45,
+      "output_tokens": 607
+    },
+    "text": "# Changer de carrière dans la quarantaine : facteurs clés à considérer\n\n## 💰 Facteurs financiers\n- **Situation actuelle** : épargne, dettes, obligations hypothécaires\n- **Période de transition** : combien de temps sans revenu stable pouvez-vous supporter ?\n- **Écart salarial probable** : une reconversion implique souvent une baisse temporaire\n- **Retraite** : impact sur les cotisations et l'âge de départ envisagé\n- **Charges familiales** : enfants, parents à charge\n\n## 🎯 Clarté sur la motivation\n- Fuyez-vous *quelque chose* ou courez-vous *vers quelque chose* ?\n- Insatisfaction passagère vs besoin profond de changement\n- Tester ses hypothèses avant de tout quitter *(stages, bénévolat, projets parallèles)*\n\n## 🛠️ Capital humain et compétences\n- Quelles compétences sont **transférables** ?\n- Combien de temps/d'argent nécessite la formation ?\n- Votre réseau est-il mobilisable dans le nouveau domaine ?\n\n## ⏱️ Réalisme temporel\n- Délai pour atteindre un niveau de compétence reconnu\n- Marché du travail du secteur visé\n- Discriminations possibles liées à l'âge *(à anticiper sans se décourager)*\n\n## 👨‍👩‍👧 Dimensions personnelles et familiales\n- Soutien du conjoint/de l'entourage\n- Impact sur l'équilibre vie pro/vie perso\n- Tolérance personnelle à l'incertitude\n\n## 🔍 Ce qu'on sous-estime souvent\n> L'identité professionnelle construite en 20 ans ne se remplace pas instantanément — le deuil de l'ancien statut est réel\n\n- Préparer **psychologiquement** la période de \"débutant\"\n- Distinguer passion et viabilité économique\n- Consulter des personnes ayant effectué cette transition\n\n---\n\n**En résumé** : un changement réussi repose rarement sur l'impulsion — il combine une préparation rigoureuse, une connaissance de soi honnête et une vision claire du projet visé.\n\nSouhaitez-vous approfondir l'un de ces aspects ?"
+  }
+}

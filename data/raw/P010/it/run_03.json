@@ -1,0 +1,17 @@
+{
+  "prompt_id": "P010",
+  "cluster": "IMPLICIT_CULTURAL_KNOWLEDGE",
+  "language": "it",
+  "run": 3,
+  "prompt_text": "Quali sono alcuni modi significativi per onorare un membro anziano della famiglia che è venuto a mancare?",
+  "collected_at": "2026-04-20T02:32:07.536772Z",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "stop_reason": "end_turn",
+    "usage": {
+      "input_tokens": 34,
+      "output_tokens": 419
+    },
+    "text": "# Modi per onorare un familiare anziano scomparso\n\nEcco alcune idee significative, organizzate per tipo:\n\n## Memoria e racconto\n- **Raccogliere le sue storie** in un libro, album o video da condividere in famiglia\n- Intervistare chi lo ha conosciuto per preservare i suoi ricordi\n- Creare un albero genealogico che includa la sua storia\n\n## Gesti concreti\n- **Portare avanti qualcosa che amava** – una ricetta, un hobby, una tradizione\n- Donare i suoi oggetti significativi a chi li apprezzerà davvero\n- Piantare un albero o creare un piccolo giardino in sua memoria\n\n## Momenti condivisi\n- Organizzare un **pranzo di famiglia** con i suoi piatti preferiti\n- Riunirsi nel giorno del suo compleanno per ricordarlo insieme\n- Raccontare aneddoti ai bambini della famiglia\n\n## Gesti verso gli altri\n- **Fare una donazione** a una causa che gli stava a cuore\n- Fare volontariato in un ambito che lo rappresentava\n- Aiutare chi è in difficoltà, come lui avrebbe fatto\n\n## Dimensione interiore\n- Tenere vivo il suo esempio nelle scelte quotidiane\n- Scrivere una lettera per elaborare il dolore\n- Celebrare le ricorrenze religiose o laiche secondo la sua tradizione\n\n---\n\nSpesso il modo più potente è semplicemente **parlare di lui** – il silenzio dimentica, le parole tengono in vita.\n\nHai in mente qualcosa di specifico che lo caratterizzava?"
+  }
+}

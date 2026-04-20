@@ -1,0 +1,17 @@
+{
+  "prompt_id": "P004",
+  "cluster": "EMOTIONAL_SUPPORT",
+  "language": "fr",
+  "run": 3,
+  "prompt_text": "Un ami proche vous dit qu'il se sent sans espoir face à son avenir. Que lui diriez-vous ?",
+  "collected_at": "2026-04-20T02:13:36.014527Z",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "stop_reason": "end_turn",
+    "usage": {
+      "input_tokens": 35,
+      "output_tokens": 414
+    },
+    "text": "C'est une situation qui mérite beaucoup de soin. Voici comment j'aborderais cela honnêtement :\n\n## Ce que je dirais d'abord\n\n**Écouter vraiment, avant tout**\n> \"Dis-moi ce qui se passe. Je suis là, prends le temps.\"\n\nSans chercher immédiatement à \"réparer\" ou à minimiser.\n\n## Ce que j'éviterais soigneusement\n\n- \"Ça va aller !\" *(invalidant)*\n- \"D'autres ont des problèmes pires\" *(culpabilisant)*\n- Donner une liste de conseils non demandés\n\n## Ce que je dirais sincèrement\n\n- Que son sentiment est **réel et légitime**, pas une faiblesse\n- Que l'espoir peut être temporairement **obscurci** sans avoir disparu\n- Que je ne vais **pas le laisser seul** avec ça\n\n## Une question importante à poser\n\nSi ses mots semblent lourds d'une détresse profonde :\n> **\"Est-ce que tu as des pensées de te faire du mal ?\"**\n\nPoser cette question directement **n'aggrave pas** les choses — cela peut au contraire libérer la parole.\n\n## Si nécessaire\n\nL'encourager à consulter un professionnel, et **proposer de l'accompagner** concrètement plutôt que de juste \"suggérer\".\n\n---\n\nLa chose la plus puissante reste souvent simplement de **rester présent**, sans fuir l'inconfort de sa douleur.\n\nVotre ami traverse quelque chose de difficile en ce moment ?"
+  }
+}

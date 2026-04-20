@@ -1,0 +1,17 @@
+{
+  "prompt_id": "P004",
+  "cluster": "EMOTIONAL_SUPPORT",
+  "language": "it",
+  "run": 3,
+  "prompt_text": "Un caro amico ti dice che si sente senza speranza riguardo al suo futuro. Cosa gli diresti?",
+  "collected_at": "2026-04-20T02:14:51.244664Z",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "stop_reason": "end_turn",
+    "usage": {
+      "input_tokens": 37,
+      "output_tokens": 423
+    },
+    "text": "Questa è una situazione che merita una risposta onesta, non solo rassicurante.\n\n## Cosa gli direi davvero\n\n**Prima di tutto, ascolterei.**\nNon inizierei con soluzioni o frasi fatte. Gli chiederei di raccontarmi di più - perché spesso \"senza speranza\" copre qualcosa di specifico che vale la pena capire.\n\n**Poi farei alcune distinzioni importanti:**\n\nDirei che prendo sul serio quello che sente, non che \"passerà\". Perché sminuire il dolore non aiuta, anche se l'intenzione è buona.\n\n**Sarei onesto su alcune cose:**\n- Che non ho risposte facili\n- Che la sensazione di mancanza di speranza, per quanto reale, spesso distorce la prospettiva sul futuro - non lo annulla, ma lo oscura\n- Che questo stato merita attenzione seria, non solo conforto\n\n**Gli chiederei direttamente:**\n*\"Quando dici senza speranza, mi stai dicendo che stai pensando di farti del male?\"* - perché evitare questa domanda per paura di \"suggerire idee\" è un mito, e la domanda diretta spesso aiuta.\n\n**Se la risposta fosse sì**, lo accompagnerei concretamente - non lo lascerei solo con un numero di telefono.\n\n**Se fosse \"solo\" sconforto profondo**, lo aiuterei a distinguere tra il futuro che *immagina* e quello che *può ancora costruire*.\n\n---\n\nTi stai chiedendo questo per una ragione specifica? Posso essere più utile se capisco il contesto."
+  }
+}

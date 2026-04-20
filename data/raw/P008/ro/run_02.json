@@ -1,0 +1,17 @@
+{
+  "prompt_id": "P008",
+  "cluster": "LIFE_DECISIONS",
+  "language": "ro",
+  "run": 2,
+  "prompt_text": "Ce factori ar trebui să cântărească cu atenție o persoană înainte de a face o schimbare semnificativă de carieră la patruzeci de ani?",
+  "collected_at": "2026-04-20T02:26:41.377396Z",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "stop_reason": "end_turn",
+    "usage": {
+      "input_tokens": 53,
+      "output_tokens": 509
+    },
+    "text": "## Factori esențiali de analizat la o schimbare de carieră la 40 de ani\n\n### Factori financiari\n- **Siguranța imediată** – rezerve pentru 6-12 luni de tranziție\n- **Impactul pe termen lung** – pensie, economii acumulate, eventuala pierdere de vechime\n- **Costul reconversiei** – cursuri, certificări, perioadă cu venit redus\n- **Obligații existente** – credite, copii, părinți în îngrijire\n\n### Factori profesionali\n- **Transferabilitatea competențelor** – ce poți duce din cariera actuală\n- **Realismul așteptărilor** – s-ar putea să reîncepi de la un nivel inferior\n- **Cererea de pe piață** – domeniul vizat are viitor sau e în declin?\n- **Rețeaua profesională** – trebuie reconstruită parțial sau total\n\n### Factori personali\n- **Motivația reală** – fugi de ceva sau mergi spre ceva? *Distincția contează enorm*\n- **Toleranța la incertitudine** – schimbarea presupune ani de instabilitate\n- **Suportul familial** – partenerul, copiii sunt afectați direct\n- **Sănătatea** – reconversia cere energie considerabilă\n\n### Întrebări care merită reflecție sinceră\n- Ai testat concret noul domeniu sau e doar o idee atractivă?\n- Schimbarea rezolvă o problemă reală sau e o evadare?\n- Ai vorbit cu oameni care lucrează deja acolo?\n\n### Ce face ca 40 de ani să fie specific\nExistă un avantaj real: maturitate, disciplină, claritate despre ce contează. Dar și o presiune reală: mai puțin timp să recuperezi pierderile financiare.\n\n---\n\nExistă un aspect anume care te preocupă mai mult?"
+  }
+}

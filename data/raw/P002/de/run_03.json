@@ -1,0 +1,17 @@
+{
+  "prompt_id": "P002",
+  "cluster": "LEADERSHIP_CULTURE",
+  "language": "de",
+  "run": 3,
+  "prompt_text": "Was sind die wichtigsten Eigenschaften einer effektiven Führungskraft?",
+  "collected_at": "2026-04-20T02:10:41.513101Z",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "stop_reason": "end_turn",
+    "usage": {
+      "input_tokens": 26,
+      "output_tokens": 535
+    },
+    "text": "# Eigenschaften einer effektiven Führungskraft\n\n## Kernkompetenzen\n\n### Soziale & emotionale Fähigkeiten\n- **Empathie** – Perspektiven anderer verstehen und ernst nehmen\n- **Kommunikationsstärke** – klar, offen und zielgruppengerecht kommunizieren\n- **Emotionale Intelligenz** – eigene und fremde Emotionen wahrnehmen und regulieren\n\n### Orientierung & Entscheidungsfähigkeit\n- **Klare Vision** – Ziele definieren und vermitteln können\n- **Entscheidungsfreude** – auch bei Unsicherheit handlungsfähig bleiben\n- **Prioritäten setzen** – Wesentliches von Unwesentlichem trennen\n\n### Umgang mit Menschen\n- **Vertrauen aufbauen** – durch Verlässlichkeit und Integrität\n- **Delegieren können** – Stärken im Team erkennen und nutzen\n- **Feedback geben & nehmen** – konstruktiv und regelmäßig\n\n---\n\n## Oft unterschätzte Eigenschaften\n\n| Eigenschaft | Warum wichtig |\n|---|---|\n| **Selbstreflexion** | Eigene Stärken/Schwächen kennen |\n| **Fehlerkultur** | Fehler eingestehen schafft Vertrauen |\n| **Zuhören** | Oft wertvoller als Reden |\n| **Anpassungsfähigkeit** | Wandel aktiv gestalten |\n\n---\n\n## Kritische Perspektive\n\n> Kein Mensch vereint alle Eigenschaften – **wirksame Führung ergänzt die eigenen Schwächen durch das Team**.\n\nAußerdem variieren Anforderungen je nach:\n- Kulturellem Kontext\n- Branche und Unternehmensgröße\n- Situation (Krise vs. Wachstumsphase)\n\n---\n\n**Welcher Aspekt interessiert dich besonders?** Z.B. Führung im Teamkontext, Selbstentwicklung oder konkrete Situationen?"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "prompt_id": "P010",
+  "cluster": "IMPLICIT_CULTURAL_KNOWLEDGE",
+  "language": "de",
+  "run": 3,
+  "prompt_text": "Auf welche bedeutsamen Weisen kann man einem älteren Familienmitglied gedenken, das verstorben ist?",
+  "collected_at": "2026-04-20T02:32:39.970104Z",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "stop_reason": "end_turn",
+    "usage": {
+      "input_tokens": 39,
+      "output_tokens": 442
+    },
+    "text": "# Möglichkeiten, einem verstorbenen älteren Familienmitglied zu gedenken\n\n## Persönliche Erinnerungen bewahren\n\n- **Fotoalbum oder Gedenkbuch** zusammenstellen\n- Geschichten und Erinnerungen der Familie **aufschreiben oder aufnehmen**\n- Lieblingsrezepte sammeln und ein **Familienkochbuch** erstellen\n- Briefe oder Tagebücher aufbewahren und ggf. weitergeben\n\n## Gemeinsame Rituale\n\n- **Jährliche Zusammenkünfte** am Geburtstag oder Todestag\n- Lieblingsgerichte des Verstorbenen beim Familientreffen kochen\n- Gemeinsamer **Grabbesuch** mit Blumen oder persönlichen Gegenständen\n- Einen besonderen **Jahrestag** im Familienkalender festhalten\n\n## Bleibendes schaffen\n\n- Einen **Baum oder Strauch pflanzen**\n- Eine **Spende** an eine Organisation, die dem Verstorbenen wichtig war\n- Ein **Stipendium** oder eine kleine Stiftung einrichten\n- Handgemachte Gegenstände (Strickarbeiten, Kunst) rahmen oder ausstellen\n\n## Traditionen fortführen\n\n- Lieblingstraditionen der Person **bewusst weiterleben**\n- Handwerk oder Hobbys **erlernen oder fortsetzen**\n- Geschichten über sie an **jüngere Generationen** weitergeben\n\n## Digital\n\n- Eine **Online-Gedenkseite** erstellen\n- Digitales Fotoarchiv anlegen\n\n---\n\nWas war diese Person für Sie – vielleicht kann ich gezielteren Rat geben?"
+  }
+}

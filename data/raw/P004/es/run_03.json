@@ -1,0 +1,17 @@
+{
+  "prompt_id": "P004",
+  "cluster": "EMOTIONAL_SUPPORT",
+  "language": "es",
+  "run": 3,
+  "prompt_text": "Un amigo cercano te dice que se siente sin esperanza respecto a su futuro. ¿Qué le dirías?",
+  "collected_at": "2026-04-20T02:14:28.605433Z",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "stop_reason": "end_turn",
+    "usage": {
+      "input_tokens": 38,
+      "output_tokens": 410
+    },
+    "text": "Esta es una situación que merece una respuesta honesta, no solo reconfortante:\n\n## Lo que realmente importa primero\n\n**Escucharía antes de hablar.** \"Sin esperanza\" puede significar cosas muy diferentes, y necesito entender *su* situación, no asumir.\n\nPreguntaría cosas como:\n- ¿Desde cuándo te sientes así?\n- ¿Hay algo específico que lo desencadenó?\n- ¿Estás pensando en hacerte daño?\n\n## Sería honesto, no solo optimista\n\nEvitaría frases vacías como:\n- \"Todo pasa por algo\"\n- \"Las cosas mejorarán\" (no lo sé con certeza)\n- \"Eres muy fuerte\"\n\nPorque aunque intentan ayudar, a veces **invalidan lo que siente**.\n\n## Lo que sí diría con convicción\n\nQue su dolor es real y merece tomarse en serio. Que estar sin esperanza es un **estado mental, no una verdad objetiva** sobre su futuro, aunque se sienta completamente real. Que no tiene que resolver esto solo.\n\n## Sería directo sobre ayuda profesional\n\nSi noto que es algo profundo, le diría claramente que un psicólogo o terapeuta no es señal de debilidad, sino de tomarse en serio a sí mismo.\n\n## Lo más importante\n\n**Seguiría presente.** No una conversación y desaparecer. El acompañamiento sostenido importa más que las palabras perfectas.\n\n¿Estás preguntando porque alguien cercano a ti está pasando por esto?"
+  }
+}

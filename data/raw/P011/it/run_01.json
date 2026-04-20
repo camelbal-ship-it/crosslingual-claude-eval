@@ -1,0 +1,17 @@
+{
+  "prompt_id": "P011",
+  "cluster": "REGISTER_SWITCHING",
+  "language": "it",
+  "run": 1,
+  "prompt_text": "Scrivete lo stesso consiglio sulla gestione dello stress in due versioni: una formale, adatta a una pubblicazione professionale, e una informale, adatta a un messaggio a un amico.",
+  "collected_at": "2026-04-20T02:35:16.561817Z",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "stop_reason": "end_turn",
+    "usage": {
+      "input_tokens": 55,
+      "output_tokens": 623
+    },
+    "text": "# Due versioni dello stesso consiglio sulla gestione dello stress\n\n---\n\n## 📋 Versione Formale\n*(per una pubblicazione professionale)*\n\n---\n\n**Strategie evidence-based per la gestione dello stress: il ruolo della respirazione diaframmatica**\n\nTra le tecniche maggiormente validate dalla ricerca in ambito psicofisiologico, la respirazione diaframmatica consapevole rappresenta uno strumento di immediata applicabilità per la riduzione dello stress acuto. La pratica prevede l'esecuzione di cicli respiratori della durata di circa cinque minuti, con inspirazione lenta della durata di quattro secondi, breve pausa di due secondi e successiva espirazione prolungata della durata di sei secondi. Tale tecnica stimola il sistema nervoso parasimpatico, favorendo una riduzione misurabile della frequenza cardiaca e dei livelli di cortisolo. Si raccomanda l'integrazione di questa pratica nella routine quotidiana, preferibilmente in momenti di elevato carico cognitivo o emotivo.\n\n---\n\n## 💬 Versione Informale\n*(per un messaggio a un amico)*\n\n---\n\n**Ehi, ti dico una cosa che mi ha cambiato la vita!**\n\nQuando senti che stai per esplodere dallo stress, prova questa cosa semplicissima: respira. Ma proprio *respira*, piano piano. Inspira contando fino a 4, tieni due secondi, poi butta fuori l'aria contando fino a 6. Ripeti per cinque minuti. Lo so, sembra una stupidata, ma fidati — funziona davvero! Il tuo corpo si calma quasi per magia, perché stai mandando segnali al cervello che non c'è nessun pericolo. Provalo la prossima volta che sei al limite, tipo prima di una riunione importante o dopo una giornata di quelle storte! 🙏\n\n---\n\n### 🔍 Le differenze chiave\n\n| Elemento | Formale | Informale |\n|---|---|---|\n| **Lessico** | Tecnico e preciso | Quotidiano e diretto |\n| **Tono** | Neutro, impersonale | Caldo, personale |\n| **Struttura** | Periodo complesso | Frasi brevi e ritmate |\n| **Coinvolgimento** | Si raccomanda | Fidati, provalo! |\n| **Emozione** | Assente | Presente ed esplicita |"
+  }
+}

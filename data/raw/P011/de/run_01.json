@@ -1,0 +1,17 @@
+{
+  "prompt_id": "P011",
+  "cluster": "REGISTER_SWITCHING",
+  "language": "de",
+  "run": 1,
+  "prompt_text": "Verfassen Sie denselben Ratschlag zum Umgang mit Stress in zwei Versionen: eine formelle, geeignet für eine Fachpublikation, und eine informelle, geeignet für eine Nachricht an einen Freund.",
+  "collected_at": "2026-04-20T02:35:52.907873Z",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "stop_reason": "end_turn",
+    "usage": {
+      "input_tokens": 67,
+      "output_tokens": 638
+    },
+    "text": "# Stressbewältigung in zwei Versionen\n\n---\n\n## Version 1: Formell\n**Für eine Fachpublikation**\n\n---\n\n> Zur effektiven Reduktion chronischer Stressbelastung empfiehlt die aktuelle Forschungsliteratur einen multimodalen Ansatz. Regelmäßige körperliche Aktivität von mindestens 150 Minuten moderater Intensität pro Woche fördert nachweislich die Ausschüttung endogener Neurotransmitter wie Serotonin und Dopamin, welche die psychische Resilienz signifikant stärken. Ergänzend dazu zeigen evidenzbasierte Entspannungsverfahren – darunter die Progressive Muskelrelaxation nach Jacobson sowie achtsamkeitsbasierte Interventionen (MBSR) – messbare Effekte auf die Aktivierung des parasympathischen Nervensystems. Darüber hinaus ist eine konsequente Schlafhygiene mit sieben bis neun Stunden nächtlicher Erholungsphase als protektiver Faktor für die kognitive Leistungsfähigkeit und emotionale Regulationsfähigkeit zu betrachten.\n\n---\n\n## Version 2: Informell\n**Als Nachricht an einen Freund**\n\n---\n\n> Hey, ich weiß, dass du gerade total im Stress bist! 😅 Mein ehrlicher Rat: Beweg dich ein bisschen – selbst ein kurzer Spaziergang hilft wirklich. Außerdem klingt es vielleicht komisch, aber probier mal kurz bewusst tief durchzuatmen, wenn alles zu viel wird. Und bitte schlaf genug – ich weiß, leichter gesagt als getan, aber ohne Schlaf wird alles noch schlimmer. Du musst das nicht alles auf einmal ändern, fang einfach klein an! 💪\n\n---\n\n## Die wesentlichen Unterschiede auf einen Blick\n\n| Merkmal | Formell | Informell |\n|---|---|---|\n| **Satzbau** | Komplex, verschachtelt | Kurz, einfach |\n| **Wortschatz** | Fachterminologie | Alltagssprache |\n| **Belege** | Forschungsverweise | Persönliche Erfahrung |\n| **Ton** | Distanziert, neutral | Empathisch, direkt |\n| **Emotionen** | Keine | Emojis, Ausrufe |"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "prompt_id": "P011",
+  "cluster": "REGISTER_SWITCHING",
+  "language": "fr",
+  "run": 1,
+  "prompt_text": "Rédigez le même conseil sur la gestion du stress en deux versions : l'une formelle, adaptée à une publication professionnelle, et l'autre informelle, adaptée à un message à un ami.",
+  "collected_at": "2026-04-20T02:33:21.940016Z",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "stop_reason": "end_turn",
+    "usage": {
+      "input_tokens": 55,
+      "output_tokens": 750
+    },
+    "text": "# Gestion du stress : Deux versions d'un même conseil\n\n---\n\n## 📋 Version Formelle\n### *Pour une publication professionnelle*\n\n---\n\n**Intégrer des pauses structurées dans sa journée de travail : un levier essentiel contre le stress**\n\nLa recherche en psychologie du travail démontre qu'une gestion efficace du stress repose en grande partie sur la capacité à organiser consciemment son temps de récupération. Il est fortement recommandé d'instaurer des pauses régulières et délibérées au cours de la journée de travail — idéalement toutes les 90 minutes — afin de permettre au système nerveux de réguler son niveau d'activation.\n\nCes temps de déconnexion, même brefs (5 à 10 minutes), favorisent la restauration de l'attention, réduisent les marqueurs physiologiques du stress et améliorent la qualité décisionnelle sur le long terme. Des pratiques telles que la respiration diaphragmatique, la marche ou une courte séquence de pleine conscience peuvent être avantageusement intégrées à ces intervalles.\n\nAdopter cette discipline n'est pas un signe de manque de productivité, mais bien un investissement dans sa performance durable et son bien-être professionnel.\n\n---\n\n## 💬 Version Informelle\n### *Pour un message à un ami*\n\n---\n\n**Hé, t'as pensé à faire des vraies pauses dans ta journée ?**\n\nSérieusement, je sais que t'as l'impression d'avoir jamais le temps, mais c'est justement là le truc — si tu t'accordes pas 5-10 minutes toutes les heures et demie pour souffler, ton cerveau finit par saturer et le stress s'accumule sans que tu t'en rendes compte.\n\nLâche ton écran, fais quelques respirations profondes, marche un peu dans la pièce, n'importe quoi. Ça paraît bête comme conseil, mais ça change vraiment tout. T'es pas censé tourner à plein régime du matin au soir !\n\nEssaie juste demain et dis-moi ce que t'en penses 😊\n\n---\n\n## 🔍 Ce qui change entre les deux versions\n\n| Élément | Version formelle | Version informelle |\n|---|---|---|\n| **Ton** | Neutre, distancié | Chaleureux, direct |\n| **Vocabulaire** | Technique, précis | Simple, familier |\n| **Structure** | Argumentée, rigoureuse | Spontanée, fluide |\n| **Références** | Scientifiques implicites | Expérience personnelle |\n| **Appel à l'action** | Suggéré sobrement | Enjoué et immédiat |\n\n> Le **fond** reste identique — l'importance des pauses régulières contre le stress. Seul le **contenant** s'adapte à l'interlocuteur."
+  }
+}

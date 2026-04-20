@@ -1,0 +1,17 @@
+{
+  "prompt_id": "P011",
+  "cluster": "REGISTER_SWITCHING",
+  "language": "fr",
+  "run": 3,
+  "prompt_text": "Rédigez le même conseil sur la gestion du stress en deux versions : l'une formelle, adaptée à une publication professionnelle, et l'autre informelle, adaptée à un message à un ami.",
+  "collected_at": "2026-04-20T02:33:51.620329Z",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "stop_reason": "end_turn",
+    "usage": {
+      "input_tokens": 55,
+      "output_tokens": 715
+    },
+    "text": "# Deux versions d'un conseil sur la gestion du stress\n\n---\n\n## 📋 Version Formelle\n*Pour une publication professionnelle*\n\n---\n\n**Optimiser sa gestion du stress : l'importance des micro-pauses**\n\nDans un environnement professionnel exigeant, le stress chronique constitue l'un des principaux facteurs de baisse de productivité et d'épuisement professionnel. Les recherches en psychologie du travail démontrent qu'intégrer des **pauses structurées** au cours de la journée permet de réduire significativement le niveau de cortisol et de restaurer les capacités cognitives.\n\nIl est ainsi recommandé de s'accorder, toutes les quatre-vingt-dix minutes environ, une interruption de cinq à dix minutes durant laquelle toute sollicitation numérique est suspendue. Des exercices de respiration diaphragmatique ou une brève marche suffisent à réinitialiser le système nerveux autonome et à maintenir un niveau d'engagement optimal sur le long terme.\n\nConsidérer ces pauses non pas comme une perte de temps, mais comme un **investissement stratégique** dans sa performance durable, constitue un changement de paradigme essentiel pour tout professionnel soucieux de son équilibre.\n\n---\n\n## 💬 Version Informelle\n*Pour un message à un ami*\n\n---\n\n**Hé, j'ai un truc simple à te partager !**\n\nFranchement, si tu te sens à bout en ce moment, essaie un truc tout bête : **arrête-toi vraiment** de temps en temps. Genre toutes les heures et demie, pose ton téléphone, lâche ton ordi, et prends juste cinq minutes pour toi.\n\nFais quelques grandes respirations ou fais le tour du pâté de maisons — ça paraît nul dit comme ça, mais crois-moi, ça change tout ! Le cerveau, c'est pas une machine, il a besoin de souffler pour repartir à fond.\n\nOn culpabilise souvent de \"ne rien faire\", mais en vrai, c'est exactement ce dont on a besoin pour tenir la distance. Alors accorde-toi ces petites pauses sans te prendre la tête — c'est pas de la flemme, c'est du bon sens ! 😊\n\n---\n\n### 🔍 Ce qui change entre les deux versions\n\n| Élément | Formelle | Informelle |\n|---|---|---|\n| **Vocabulaire** | Technique et précis | Simple et courant |\n| **Ton** | Neutre, distancié | Chaleureux, direct |\n| **Arguments** | Scientifiques | Expérientiels |\n| **Structure** | Paragraphes construits | Langage parlé |\n| **Ponctuation** | Classique | Emojis, tirets |"
+  }
+}

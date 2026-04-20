@@ -1,0 +1,17 @@
+{
+  "prompt_id": "P003",
+  "cluster": "METALINGUISTIC",
+  "language": "it",
+  "run": 2,
+  "prompt_text": "Quali sono i vantaggi cognitivi e sociali del parlare più lingue correntemente?",
+  "collected_at": "2026-04-20T02:12:24.045022Z",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "stop_reason": "end_turn",
+    "usage": {
+      "input_tokens": 29,
+      "output_tokens": 485
+    },
+    "text": "# Vantaggi del bilinguismo e multilinguismo\n\n## Vantaggi cognitivi\n\n### Funzioni esecutive\n- **Controllo inibitorio** — gestire due sistemi linguistici contemporaneamente allena la capacità di inibire interferenze\n- **Flessibilità cognitiva** — passare tra lingue sviluppa l'abilità di cambiare prospettiva e approccio\n- **Attenzione selettiva** — maggiore capacità di focalizzarsi su informazioni rilevanti\n\n### Memoria e elaborazione\n- Memoria di lavoro tendenzialmente più efficiente\n- Maggiore capacità metacognitiva (riflettere sul proprio pensiero)\n- Migliore comprensione della struttura del linguaggio in sé\n\n### Effetti a lungo termine\n- Alcune ricerche suggeriscono un ritardo nell'insorgenza di demenze (circa 4-5 anni in media)\n- **Nota importante**: questo campo è controverso — studi recenti hanno ridimensionato o messo in discussione la \"riserva cognitiva\" legata al bilinguismo specificamente\n\n---\n\n## Vantaggi sociali e culturali\n\n- Accesso diretto a culture, letterature e modi di pensare diversi\n- Empatia potenzialmente maggiore — cambiare lingua significa spesso cambiare frame culturale\n- Migliori opportunità professionali\n- Rete relazionale più ampia\n- Mediazione interculturale più efficace\n\n---\n\n## Una prospettiva critica\n\nVale la pena essere onesti:\n- Molti vantaggi cognitivi dipendono da **quanto** e **come** si usa la lingua, non dalla semplice conoscenza\n- Il contesto sociale conta molto (bilinguismo per necessità vs. per scelta)\n- Alcuni benefici sono stati **sovrastimati** nella divulgazione rispetto ai dati effettivi\n\n---\n\nTi interessa approfondire un aspetto specifico?"
+  }
+}

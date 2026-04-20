@@ -1,0 +1,17 @@
+{
+  "prompt_id": "P001",
+  "cluster": "MORAL_REASONING",
+  "language": "es",
+  "run": 2,
+  "prompt_text": "¿Es alguna vez ético mentir para proteger los sentimientos de alguien? Explique su razonamiento.",
+  "collected_at": "2026-04-20T02:07:27.527993Z",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "stop_reason": "end_turn",
+    "usage": {
+      "input_tokens": 37,
+      "output_tokens": 425
+    },
+    "text": "# ¿Es ético mentir para proteger sentimientos?\n\nEsta es una pregunta genuinamente difícil donde posiciones razonables entran en tensión. Quiero ser honesto sobre esa complejidad.\n\n## Argumentos a favor de estas \"mentiras piadosas\"\n\n- Reduce sufrimiento innecesario en momentos vulnerables\n- Preserva relaciones importantes\n- Algunos casos parecen intuitivamente correctos (no decirle a alguien terminal que su obra de vida fue mediocre)\n\n## Argumentos en contra que merecen peso serio\n\n- **Subestima a las personas**: asume que no pueden manejar la verdad\n- **Quita agencia**: la persona toma decisiones basadas en información falsa\n- **El \"protector\" decide por otro** qué es soportable, lo cual tiene un componente paternalista problemático\n- **Erosiona la confianza** cuando se descubre\n- **Frecuentemente protege al mentiroso**, no a la víctima (evitar incomodidad propia)\n\n## Mi valoración honesta\n\nLa mayoría de las \"mentiras piadosas\" son:\n- **Genuinamente éticas** en casos extremos y puntuales (guerras, crisis, irreversibilidad)\n- **Cuestionables o erróneas** en situaciones cotidianas donde se usan como sustituto de conversaciones difíciles pero necesarias\n\n**La alternativa más ética generalmente no es \"mentira vs. verdad brutal\"**, sino desarrollar la habilidad de comunicar verdades con compasión y tacto.\n\n## La pregunta más útil\n\n¿A quién protege realmente esta mentira?\n\n¿Qué perspectiva te genera más dudas?"
+  }
+}

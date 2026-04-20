@@ -1,0 +1,17 @@
+{
+  "prompt_id": "P005",
+  "cluster": "TECHNICAL_EXPLANATION",
+  "language": "ro",
+  "run": 3,
+  "prompt_text": "Explicați cum învață o rețea neuronală din date, ca și cum v-ați adresa unui nespecialist instruit.",
+  "collected_at": "2026-04-20T02:17:25.961519Z",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "stop_reason": "max_tokens",
+    "usage": {
+      "input_tokens": 40,
+      "output_tokens": 1024
+    },
+    "text": "# Cum învață o rețea neuronală\n\n## Analogia de pornire\n\nImaginați-vă că învățați să recunoașteți vinurile de calitate. La început ghiciți. Apoi cineva vă spune *„te-ai înșelat\"* sau *„ai dreptate\"*. Treptat, vă calibrați gustul. O rețea neuronală face exact același lucru — dar cu numere.\n\n---\n\n## Structura de bază\n\nO rețea este formată din **straturi de neuroni artificiali** — noduri simple care primesc valori, le combină și transmit un rezultat mai departe.\n\n```\nDate de intrare → [Strat 1] → [Strat 2] → [Strat 3] → Predicție\n    (pixeli)       (linii)     (forme)     (urechi?)    (pisică)\n```\n\nFiecare conexiune între neuroni are o **greutate** — practic un coeficient care spune *cât de mult contează* acel semnal.\n\n> Toată învățarea se reduce la ajustarea acestor greutăți.\n\n---\n\n## Procesul în patru pași\n\n### 1. Propagarea înainte *(forward pass)*\nRețeaua primește datele și produce o predicție — inițial aproape aleatorie, pentru că greutățile sunt inițializate la întâmplare.\n\n### 2. Măsurarea erorii\nComparăm predicția cu răspunsul corect printr-o **funcție de pierdere** *(loss function)*.\n\n| Predicție | Realitate | Eroare |\n|-----------|-----------|--------|\n| 80% câine | pisică | mare |\n| 95% pisică | pisică | mică |\n\n### 3. Propagarea înapoi *(backpropagation)*\nAici e magia. Algoritmul *urmărește înapoi* prin rețea și calculează:\n\n**„Care greutăți au contribuit cel mai mult la eroare?\"**\n\nEste aplicarea regulii lanțului din calcul diferențial — dar conceptual e simplu: *repartizăm vina proporțional.*\n\n### 4. Actualizarea greutăților\nFiecare greutate se ajustează puțin, în direcția care *reduce* eroarea. Acest mecanism se numește **gradient descent** — coborâm pe panta erorii.\n\n```\ngreutate_nouă = greutate_veche − (rată_de_învățare × gradient)\n```\n\nRata de învățare e crucială:\n- **Prea mare** → sărim peste soluție, rețeaua oscilează\n- **Prea mică** → procesul e extrem de lent\n\n---\n\n## O intuiție geometrică\n\nImaginați-vă un peisaj muntos, unde altitudinea reprezintă eroarea. Rețeaua se află undeva pe pantă și vrea să ajungă în vale.\n\n- Gradientul îi spune **în ce direcție e panta**\n- La fiecare pas, coboară puțin\n- Repetă de mii de ori până ajunge jos\n\n⚠️ **Problemă reală:** există văi locale — rețeaua poate crede că a terminat, deși nu a găsit cea mai joasă vale.\n\n---\n\n## Repetare la scară\n\nAcest ciclu se repetă pe **mii sau milioane de exemple**:\n\n```\nExemplu → Predicție → Eroare → Ajustare\nExemplu → Predicție → Eroare → Ajustare\n... (de 10.000 de ori) ...\nRețea care funcționează\n```\n\nFiecare trecere completă prin setul de date se numește **epocă**.\n\n---\n\n## Ce anume *înțelege* rețeaua?\n\nNimic în sens uman — dar greutățile ajustate codifică **tipare statistice** din date.\n\n| Strat | Ce detectează (la recunoaștere"
+  }
+}

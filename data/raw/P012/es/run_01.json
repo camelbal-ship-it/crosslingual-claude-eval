@@ -1,0 +1,17 @@
+{
+  "prompt_id": "P012",
+  "cluster": "AMBIGUOUS_REFERENT",
+  "language": "es",
+  "run": 1,
+  "prompt_text": "Dijeron que sería mejor que no viniéramos. ¿Qué deberíamos hacer?",
+  "collected_at": "2026-04-20T02:37:36.801157Z",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "stop_reason": "end_turn",
+    "usage": {
+      "input_tokens": 33,
+      "output_tokens": 288
+    },
+    "text": "Esa es una situación que requiere reflexión. Para ayudarte mejor, necesito entender el contexto.\n\n## Algunas preguntas clave:\n\n- **¿Quién lo dijo?** ¿Una autoridad, un amigo, un organizador?\n- **¿Por qué razón?** ¿Seguridad, logística, conflicto personal?\n- **¿A dónde querían ir?** ¿Un evento, lugar, reunión?\n\n## En términos generales, podrías:\n\n**Respetar la sugerencia** si:\n- Hay razones válidas de seguridad\n- Podría causar conflicto innecesario\n- La persona tiene autoridad legítima\n\n**Cuestionar o dialogar** si:\n- La razón no parece justa o clara\n- Tienes derecho a estar ahí\n- Crees que hay un malentendido\n\n**Buscar más información** antes de decidir, hablando directamente con quien lo dijo.\n\n---\n\n¿Puedes darme más contexto sobre la situación? Así puedo darte una orientación más específica. 😊"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "prompt_id": "P004",
+  "cluster": "EMOTIONAL_SUPPORT",
+  "language": "fr",
+  "run": 2,
+  "prompt_text": "Un ami proche vous dit qu'il se sent sans espoir face à son avenir. Que lui diriez-vous ?",
+  "collected_at": "2026-04-20T02:13:25.258215Z",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "stop_reason": "end_turn",
+    "usage": {
+      "input_tokens": 35,
+      "output_tokens": 399
+    },
+    "text": "C'est une question importante qui mérite une réponse honnête plutôt que des platitudes.\n\n## Ce que je lui dirais\n\n**D'abord, l'écouter vraiment**\n- \"Dis-moi ce qui se passe pour toi en ce moment\"\n- Sans chercher immédiatement à \"réparer\" ou minimiser\n- Son sentiment mérite d'être entendu, pas contredit\n\n**Reconnaître sans valider le désespoir comme vérité définitive**\n- \"Je comprends que tu ressens ça profondément\"\n- Mais sans simplement acquiescer : le désespoir est souvent **un état, pas un diagnostic permanent**\n\n**Quelques questions honnêtes**\n- Est-ce qu'il pense à se faire du mal ? *(important de le demander directement)*\n- Depuis combien de temps il ressent ça ?\n- Y a-t-il quelque chose de précis qui a déclenché ça ?\n\n**Ce que j'éviterais**\n- Les phrases creuses (\"ça va aller\", \"t'as tout pour être heureux\")\n- Minimiser ou comparer à des gens \"qui ont plus de problèmes\"\n- Disparaître après la conversation\n\n## Ce que je lui proposerais concrètement\n- Rester présent, ne pas le laisser seul avec ça\n- L'accompagner vers un professionnel si nécessaire\n- Revenir vers lui le lendemain\n\n---\n\nVous posez cette question pour une raison précise ? Je peux vous aider différemment si vous faites face à cette situation réellement."
+  }
+}

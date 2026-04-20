@@ -1,0 +1,17 @@
+{
+  "prompt_id": "P004",
+  "cluster": "EMOTIONAL_SUPPORT",
+  "language": "ro",
+  "run": 3,
+  "prompt_text": "Un prieten apropiat vă spune că se simte fără speranță în privința viitorului său. Ce i-ați spune?",
+  "collected_at": "2026-04-20T02:14:00.449614Z",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "stop_reason": "end_turn",
+    "usage": {
+      "input_tokens": 41,
+      "output_tokens": 413
+    },
+    "text": "Aceasta este o situație care merită un răspuns sincer, nu doar reconfortant.\n\n## Ce i-aș spune efectiv\n\n**Mai întâi, aș asculta:**\n- \"Spune-mi mai mult despre ce simți\"\n- Fără să mă grăbesc să \"repar\" situația\n\n**Aș verifica siguranța:**\n- Dacă vorbește despre a nu mai vrea să existe, aș întreba direct - nu agravează situația, dimpotrivă\n\n**Aș fi onest, nu fals optimist:**\n- Nu aș spune \"totul va fi bine!\" dacă nu știu asta\n- Nu aș minimiza: \"ai atâtea motive să fii fericit\"\n- Nu aș bombarda cu sfaturi imediate\n\n**Ce ar putea fi util de spus:**\n- \"Te aud. Asta sună epuizant.\"\n- \"Nu trebuie să treci prin asta singur\"\n- \"Pot să rămân cu tine acum?\"\n\n## Ce aș recunoaște sincer\n\nSentimentul de lipsă de speranță este **un simptom real**, nu o slăbiciune de caracter. Uneori are cauze concrete (situație dificilă), uneori neurologice (depresie), adesea ambele.\n\n**Aș sugera ajutor profesional** - nu ca să scap de responsabilitate, ci pentru că un prieten bun nu înlocuiește un terapeut.\n\n---\n\nCe te face să pui această întrebare? Există cineva anume pentru care ești îngrijorat?"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "prompt_id": "P011",
+  "cluster": "REGISTER_SWITCHING",
+  "language": "it",
+  "run": 3,
+  "prompt_text": "Scrivete lo stesso consiglio sulla gestione dello stress in due versioni: una formale, adatta a una pubblicazione professionale, e una informale, adatta a un messaggio a un amico.",
+  "collected_at": "2026-04-20T02:35:40.625421Z",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "stop_reason": "end_turn",
+    "usage": {
+      "input_tokens": 55,
+      "output_tokens": 580
+    },
+    "text": "# Due versioni dello stesso consiglio\n\n---\n\n## 📋 Versione Formale\n*Per pubblicazione professionale*\n\n---\n\n> **La gestione dello stress attraverso la regolazione respiratoria**\n>\n> Tra le tecniche evidence-based maggiormente validate dalla letteratura scientifica, la respirazione diaframmatica controllata rappresenta uno strumento efficace per la riduzione della risposta allo stress acuto. Si raccomanda di dedicare cinque minuti, preferibilmente nelle ore mattutine, all'esecuzione di cicli respiratori caratterizzati da un'inspirazione di quattro secondi, una breve apnea di due secondi e un'espirazione prolungata di sei secondi. Questa pratica favorisce l'attivazione del sistema nervoso parasimpatico, contribuendo a ridurre i livelli di cortisolo e a migliorare la chiarezza cognitiva nel corso della giornata lavorativa.\n\n---\n\n## 💬 Versione Informale\n*Per messaggio a un amico*\n\n---\n\n> **Ehi, ti dico una cosa che mi ha cambiato le giornate 👇**\n>\n> Quando senti che la testa sta per esploderti, prova questa roba: respira lentamente per 4 secondi, tieni 2 secondi, poi butta fuori l'aria per 6 secondi. Fallo per cinque minuti appena sveglio, prima ancora di guardare il telefono. Lo so, sembra una stupidata, ma funziona davvero — il tuo corpo si calma tipo per magia e affronti la giornata in modo completamente diverso. Fidati, provaci almeno tre giorni! 🙏\n\n---\n\n## 🔍 Cosa cambia tra le due versioni\n\n| Elemento | Formale | Informale |\n|---|---|---|\n| **Vocabolario** | Tecnico e preciso | Quotidiano e diretto |\n| **Tono** | Distaccato, oggettivo | Personale, coinvolgente |\n| **Fonti** | Cita la letteratura scientifica | Esperienza personale |\n| **Struttura** | Periodo complesso | Frasi brevi e ritmate |\n| **Motivazione** | Dati fisiologici | Fiducia interpersonale |"
+  }
+}

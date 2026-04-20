@@ -1,0 +1,17 @@
+{
+  "prompt_id": "P001",
+  "cluster": "MORAL_REASONING",
+  "language": "es",
+  "run": 3,
+  "prompt_text": "¿Es alguna vez ético mentir para proteger los sentimientos de alguien? Explique su razonamiento.",
+  "collected_at": "2026-04-20T02:07:39.170682Z",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "stop_reason": "end_turn",
+    "usage": {
+      "input_tokens": 37,
+      "output_tokens": 477
+    },
+    "text": "# ¿Es ético mentir para proteger sentimientos?\n\nEsta es una pregunta genuinamente compleja donde posiciones razonables entran en tensión.\n\n## Argumentos a favor de estas \"mentiras piadosas\"\n\n- **Evitan daño inmediato** sin beneficio compensatorio\n- **Preservan relaciones** valiosas\n- **Reconocen límites contextuales**: no toda verdad es útil en todo momento\n- Ejemplo clásico: decirle a alguien terminal que su trabajo artístico era valioso\n\n## Argumentos en contra\n\n- **Subestiman a las personas** - asumen que no pueden manejar la realidad\n- **Crean dependencias falsas** sobre percepciones incorrectas\n- **Erosionan la confianza** cuando se descubren\n- **Quitan agencia**: la persona no puede mejorar o decidir con información correcta\n\n## Lo que creo que merece más peso\n\nLa distinción más importante no es *verdad vs. mentira* sino:\n\n| Variable | Importancia |\n|----------|-------------|\n| ¿Tiene consecuencias prácticas? | Alta |\n| ¿La persona puede actuar diferente con la verdad? | Alta |\n| ¿Es permanente e irreversible el daño emocional? | Media |\n| ¿Existe una alternativa honesta y compasiva? | **Casi siempre existe** |\n\n**El problema central**: frecuentemente usamos \"proteger sentimientos\" como justificación cuando en realidad buscamos **evitar nuestra propia incomodidad**.\n\n## Mi posición razonada\n\nLa mayoría de dilemas resolubles con honestidad *compasiva* - que no es lo mismo que honestidad *brutal*. La mentira piadosa genuinamente justificada existe, pero es **más rara de lo que solemos creer**.\n\n¿Sobre qué situación específica te preguntabas?"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "prompt_id": "P001",
+  "cluster": "MORAL_REASONING",
+  "language": "it",
+  "run": 3,
+  "prompt_text": "È mai etico mentire per proteggere i sentimenti di qualcuno? Spiegate il vostro ragionamento.",
+  "collected_at": "2026-04-20T02:08:08.760068Z",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "stop_reason": "end_turn",
+    "usage": {
+      "input_tokens": 37,
+      "output_tokens": 573
+    },
+    "text": "## La domanda merita una risposta onesta, non consolatoria\n\n### La posizione comune (e i suoi limiti)\n\nMolti rispondono subito \"sì, certe bugie bianche sono giustificate\". Ma vale la pena esaminare questo più attentamente.\n\n---\n\n### Argomenti **a favore** della bugia protettiva\n\n- Riduce sofferenza immediata\n- Preserva relazioni in momenti fragili\n- In alcuni contesti (es. malato terminale) può sembrare atto di cura\n- La verità brutale può essere usata come arma, non come dono\n\n---\n\n### Argomenti **contro** che trovo più solidi\n\n**1. Il problema del paternalismo**\nDecidere che qualcuno non possa \"gestire\" la verità significa trattarlo come meno capace di me. È una forma sottile di mancanza di rispetto.\n\n**2. La bugia \"protettiva\" spesso protegge me**\nEvitare una conversazione difficile è scomodo. Spesso la \"protezione\" è razionalizzazione.\n\n**3. I sentimenti differiti**\nScoprire una bugia, anche benevola, danneggia la fiducia più della verità originale.\n\n**4. L'autonomia come valore fondamentale**\nLe persone hanno diritto di decidere basandosi su informazioni reali.\n\n---\n\n### Una distinzione utile\n\n| Situazione | Valutazione |\n|------------|-------------|\n| *\"Ti piace il mio taglio?\"* | La diplomazia è diversa dalla menzogna |\n| *\"Stai benissimo\"* a malato grave | Etica discutibile |\n| *\"Il tuo lavoro è ottimo\"* quando non lo è | Danno reale mascherato |\n\n---\n\n### La mia posizione\n\n**La bugia raramente protegge davvero** — spesso rimanda o amplifica il danno. L'alternativa non è la crudeltà, ma la **verità compassionevole**: scegliere *come* dire le cose, non *se* dirle.\n\nLa vera cura per qualcuno si esprime trovando le parole giuste, non quelle false.\n\n---\n\nCosa ne pensi? C'è un caso specifico che stai considerando?"
+  }
+}

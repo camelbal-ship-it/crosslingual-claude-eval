@@ -1,0 +1,17 @@
+{
+  "prompt_id": "P002",
+  "cluster": "LEADERSHIP_CULTURE",
+  "language": "en",
+  "run": 3,
+  "prompt_text": "What are the most important qualities of an effective leader?",
+  "collected_at": "2026-04-20T02:09:01.889089Z",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "stop_reason": "end_turn",
+    "usage": {
+      "input_tokens": 18,
+      "output_tokens": 321
+    },
+    "text": "# Qualities of Effective Leaders\n\nThis is well-studied territory with some fairly consistent findings across research and experience.\n\n## Core Qualities\n\n**Character & Integrity**\n- Honesty and consistency between words and actions\n- Accountability - owning mistakes rather than deflecting\n- Fairness in decisions\n\n**Interpersonal Skills**\n- Genuine listening, not just waiting to speak\n- Empathy without losing objectivity\n- Clear, honest communication\n\n**Judgment**\n- Making decisions with incomplete information\n- Knowing when to act vs. when to wait\n- Distinguishing urgent from important\n\n## Often Underrated Qualities\n\n- **Self-awareness** - knowing your own biases and limitations\n- **Intellectual humility** - being willing to be wrong\n- **Emotional regulation** - staying functional under pressure\n- **Knowing when to follow** - not needing to dominate every situation\n\n## Honest Complications\n\n- Some qualities involve **real tensions** - confidence vs. humility, decisiveness vs. openness\n- Effectiveness is **context-dependent** - military leadership differs from nonprofit leadership\n- Some admired \"leadership\" qualities (charisma, dominance) actually correlate poorly with good outcomes\n- Good leadership often means **developing other leaders**, not centralizing authority\n\n## Worth Considering\n\nThe research suggests **consistency and trustworthiness** may matter more than inspiration or charisma.\n\nWhat context are you thinking about?"
+  }
+}

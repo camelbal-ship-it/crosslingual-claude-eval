@@ -1,0 +1,17 @@
+{
+  "prompt_id": "P002",
+  "cluster": "LEADERSHIP_CULTURE",
+  "language": "it",
+  "run": 2,
+  "prompt_text": "Quali sono le qualità più importanti di un leader efficace?",
+  "collected_at": "2026-04-20T02:10:10.978544Z",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "stop_reason": "end_turn",
+    "usage": {
+      "input_tokens": 22,
+      "output_tokens": 419
+    },
+    "text": "## Qualità di un leader efficace\n\nÈ una domanda su cui esiste molto dibattito, ma alcune qualità emergono costantemente:\n\n### Fondamentali\n- **Integrità** – coerenza tra parole e azioni; ispira fiducia\n- **Capacità di ascolto** – non solo parlare, ma comprendere davvero\n- **Visione chiara** – saper indicare una direzione credibile\n- **Responsabilità** – assumersi gli errori, non solo i successi\n\n### Relazionali\n- Empatia genuina verso le persone\n- Comunicazione efficace e adattabile\n- Capacità di costruire fiducia nel tempo\n- Saper delegare senza abdicare\n\n### Cognitive\n- Pensiero critico e decisione anche con informazioni incomplete\n- Umiltà intellettuale (riconoscere i propri limiti)\n- Adattabilità ai cambiamenti\n\n### Spesso sottovalutate\n- **Saper gestire il conflitto** in modo costruttivo\n- **Coraggio** di prendere decisioni impopolari ma necessarie\n- **Coerenza emotiva** nei momenti difficili\n\n---\n\n### Una riflessione critica\nNon esiste un modello universale: un buon leader in una startup può fallire in una grande burocrazia, e viceversa. Il **contesto conta moltissimo**.\n\nAlcune ricerche (es. studi di Google, Drucker) suggeriscono che l'**ascolto e l'umiltà** siano spesso più determinanti del carisma tradizionale.\n\nTi interessa un contesto specifico – aziendale, politico, sportivo?"
+  }
+}

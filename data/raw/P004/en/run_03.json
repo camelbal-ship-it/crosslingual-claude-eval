@@ -1,0 +1,17 @@
+{
+  "prompt_id": "P004",
+  "cluster": "EMOTIONAL_SUPPORT",
+  "language": "en",
+  "run": 3,
+  "prompt_text": "A close friend tells you they are feeling hopeless about their future. What would you say to them?",
+  "collected_at": "2026-04-20T02:13:15.242435Z",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "stop_reason": "end_turn",
+    "usage": {
+      "input_tokens": 28,
+      "output_tokens": 301
+    },
+    "text": "This is worth thinking through carefully rather than just offering feel-good responses.\n\n**What I'd actually say depends on understanding more first:**\n\n- \"Can you tell me more about what's making you feel that way?\"\n- \"How long have you been feeling like this?\"\n- \"Are you having any thoughts of hurting yourself?\" (asking directly doesn't plant ideas - it opens conversation)\n\n**What I'd try to genuinely offer:**\n\n- Real presence rather than immediate problem-solving\n- Honest acknowledgment that their feelings make sense given their situation\n- Not rushing to \"it'll get better\" platitudes that can feel dismissive\n\n**What I'd be honest about:**\n\n- Sometimes hopelessness reflects genuinely difficult circumstances that need addressing\n- Sometimes it's a symptom of depression that distorts perception\n- These need different responses and it matters which it is\n\n**What I'd avoid:**\n\n- Toxic positivity (\"everything happens for a reason\")\n- Making it about my own similar experiences\n- Giving advice before understanding the situation\n- Pretending I can fix it\n\n**The practical thing:** If they're in serious distress, I'd encourage professional support and offer to help them access it, not just suggest it abstractly.\n\nThe most important thing is probably just staying genuinely present rather than managing the conversation toward a comfortable resolution.\n\nWhat specifically are you navigating with this person?"
+  }
+}

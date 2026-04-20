@@ -1,0 +1,17 @@
+{
+  "prompt_id": "P011",
+  "cluster": "REGISTER_SWITCHING",
+  "language": "fr",
+  "run": 2,
+  "prompt_text": "Rédigez le même conseil sur la gestion du stress en deux versions : l'une formelle, adaptée à une publication professionnelle, et l'autre informelle, adaptée à un message à un ami.",
+  "collected_at": "2026-04-20T02:33:35.811449Z",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "stop_reason": "end_turn",
+    "usage": {
+      "input_tokens": 55,
+      "output_tokens": 616
+    },
+    "text": "# Deux versions d'un conseil sur la gestion du stress\n\n---\n\n## 📋 Version Formelle\n*Pour une publication professionnelle*\n\n---\n\n**Optimiser sa résilience face au stress : une approche structurée**\n\nLa gestion efficace du stress repose sur l'adoption de pratiques quotidiennes rigoureuses et éprouvées. Il est recommandé d'intégrer des techniques de régulation émotionnelle telles que la respiration diaphragmatique, la méditation de pleine conscience ou la planification structurée des tâches. Ces méthodes, largement validées par la littérature scientifique, permettent de réduire significativement les marqueurs biologiques du stress chronique et d'améliorer les performances cognitives. Une hygiène de vie équilibrée — comprenant un sommeil suffisant, une activité physique régulière et une alimentation adaptée — constitue par ailleurs le socle indispensable d'une gestion durable du stress professionnel.\n\n---\n\n## 💬 Version Informelle\n*Pour un message à un ami*\n\n---\n\n**Franchement, le stress ça se gère — promis !**\n\nHé, écoute, je sais que t'as l'impression que tout s'accumule en ce moment, mais voilà ce qui m'a vraiment aidé : commence juste par **respirer profondément** quand tu sens que ça part en vrille. Genre, trois grandes respirations, et tu vas voir, ça change tout. Essaie aussi de pas tout garder dans ta tête — note tes tâches quelque part, comme ça tu arrêtes de ruminer. Et sérieusement, **dors davantage**, bouge un peu, même une petite balade ça fait des miracles. C'est pas la solution magique, mais crois-moi, ces petits trucs mis ensemble, ça fait une vraie différence ! 😊\n\n---\n\n## 🔍 Ce qui distingue les deux versions\n\n| Élément | Version formelle | Version informelle |\n|---|---|---|\n| **Ton** | Neutre, distancié | Chaleureux, personnel |\n| **Vocabulaire** | Technique et précis | Simple et familier |\n| **Structure** | Argumentée, structurée | Spontanée, fluide |\n| **Références** | Scientifiques | Expérience personnelle |\n| **Ponctuation** | Sobre | Expressive (émojis, italiques) |"
+  }
+}

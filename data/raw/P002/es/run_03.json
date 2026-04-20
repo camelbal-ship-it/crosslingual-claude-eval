@@ -1,0 +1,17 @@
+{
+  "prompt_id": "P002",
+  "cluster": "LEADERSHIP_CULTURE",
+  "language": "es",
+  "run": 3,
+  "prompt_text": "¿Cuáles son las cualidades más importantes de un líder eficaz?",
+  "collected_at": "2026-04-20T02:10:00.844377Z",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "stop_reason": "end_turn",
+    "usage": {
+      "input_tokens": 28,
+      "output_tokens": 422
+    },
+    "text": "# Cualidades de un líder eficaz\n\nEs una pregunta con mucha profundidad. Te presento las cualidades más reconocidas, con algunas reflexiones honestas:\n\n## Fundamentales\n- **Integridad** — actúa coherentemente con sus valores, incluso cuando es costoso\n- **Comunicación clara** — sabe escuchar tanto como hablar\n- **Responsabilidad** — asume consecuencias sin culpar constantemente a otros\n\n## Relacionadas con las personas\n- **Empatía genuina** — entiende perspectivas diferentes sin perder objetividad\n- **Capacidad de desarrollar a otros** — su éxito se mide también en quiénes crecen a su alrededor\n- **Confianza bien depositada** — delega con criterio\n\n## Cognitivas y estratégicas\n- **Pensamiento crítico** — distingue problemas reales de síntomas\n- **Adaptabilidad** — cambia de rumbo sin perder el norte\n- **Tolerancia a la incertidumbre** — decide sin tener toda la información\n\n## Un punto importante que a veces se omite\n> El liderazgo **depende mucho del contexto**. Lo que funciona en una startup puede fallar en una institución pública, o en una crisis versus tiempos estables.\n\n## Lo que la evidencia cuestiona\n- El carisma no es tan determinante como se cree\n- La confianza excesiva en uno mismo puede ser destructiva\n- Los líderes \"heroicos\" a veces crean dependencia en sus equipos\n\n---\n\n¿Te interesa algún aspecto en particular, como liderazgo en equipos, en crisis, o en algún campo específico?"
+  }
+}

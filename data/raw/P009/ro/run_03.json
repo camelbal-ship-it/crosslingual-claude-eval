@@ -1,0 +1,17 @@
+{
+  "prompt_id": "P009",
+  "cluster": "FACTUAL_RECALL",
+  "language": "ro",
+  "run": 3,
+  "prompt_text": "Care este populația aproximativă a lumii în prezent?",
+  "collected_at": "2026-04-20T02:28:55.855288Z",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "stop_reason": "end_turn",
+    "usage": {
+      "input_tokens": 20,
+      "output_tokens": 71
+    },
+    "text": "Populația lumii este în prezent de aproximativ **8,1–8,2 miliarde de oameni** (începând cu 2024).\n\nNumărul continuă să crească, deși rata de creștere s-a încetinit față de deceniile anterioare."
+  }
+}

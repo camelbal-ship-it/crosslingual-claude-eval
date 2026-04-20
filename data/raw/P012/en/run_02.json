@@ -1,0 +1,17 @@
+{
+  "prompt_id": "P012",
+  "cluster": "AMBIGUOUS_REFERENT",
+  "language": "en",
+  "run": 2,
+  "prompt_text": "They said it would be better if we didn't come. What should we do?",
+  "collected_at": "2026-04-20T02:36:34.311879Z",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "stop_reason": "end_turn",
+    "usage": {
+      "input_tokens": 24,
+      "output_tokens": 167
+    },
+    "text": "I'd be happy to help think through this situation, but I want to make sure I understand the context. **Could you give me a little more detail?**\n\nFor example:\n- **Who said this?** (A host, event organizer, family member, etc.)\n- **What event or situation** are you referring to?\n- **What's the relationship** between you and the people involved?\n\nThe right approach really depends on the specifics. Generally speaking though, some options to consider are:\n\n1. **Respect the request** and don't attend\n2. **Ask for clarification** about why\n3. **Have an honest conversation** about the situation\n4. **Consider whether attending anyway** would be appropriate or cause harm\n\nWhat's the situation?"
+  }
+}

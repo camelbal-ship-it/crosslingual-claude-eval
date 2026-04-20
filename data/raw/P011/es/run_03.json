@@ -1,0 +1,17 @@
+{
+  "prompt_id": "P011",
+  "cluster": "REGISTER_SWITCHING",
+  "language": "es",
+  "run": 3,
+  "prompt_text": "Escriba el mismo consejo sobre el manejo del estrés en dos versiones: una formal, adecuada para una publicación profesional, y una informal, adecuada para un mensaje de texto a un amigo.",
+  "collected_at": "2026-04-20T02:35:02.552557Z",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "stop_reason": "end_turn",
+    "usage": {
+      "input_tokens": 59,
+      "output_tokens": 400
+    },
+    "text": "# Consejo sobre el Manejo del Estrés: Dos Versiones\n\n---\n\n## 📋 Versión Formal\n*(Para publicación profesional)*\n\n> La evidencia científica sugiere que la práctica regular de técnicas de respiración diafragmática contribuye significativamente a la reducción de los niveles de cortisol. Se recomienda dedicar entre cinco y diez minutos diarios a ejercicios de respiración consciente, preferiblemente en un entorno tranquilo, como herramienta complementaria en la gestión del estrés crónico y el bienestar psicológico integral.\n\n---\n\n## 💬 Versión Informal\n*(Para mensaje de texto)*\n\n> Oye, prueba respirar profundo cuando sientas que todo te agobia. En serio, es más útil de lo que parece 😅 Cinco minutitos, cerrás los ojos y respirás despacio. Yo lo hago cuando ya no puedo más y la verdad que ayuda un montón. ¡Intentalo! 🙌\n\n---\n\n## 🔍 Principales diferencias\n\n| Elemento | Formal | Informal |\n|---|---|---|\n| **Vocabulario** | Técnico y preciso | Cotidiano y simple |\n| **Respaldo** | Cita evidencia científica | Experiencia personal |\n| **Tono** | Objetivo e impersonal | Cercano y empático |\n| **Extensión** | Completa y estructurada | Breve y directa |\n| **Emojis** | Ninguno | Sí, para expresividad |"
+  }
+}

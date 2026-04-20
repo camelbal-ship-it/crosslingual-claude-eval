@@ -1,0 +1,17 @@
+{
+  "prompt_id": "P010",
+  "cluster": "IMPLICIT_CULTURAL_KNOWLEDGE",
+  "language": "en",
+  "run": 1,
+  "prompt_text": "What are some meaningful ways to honor an elderly family member who has passed away?",
+  "collected_at": "2026-04-20T02:29:39.052230Z",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "stop_reason": "end_turn",
+    "usage": {
+      "input_tokens": 23,
+      "output_tokens": 307
+    },
+    "text": "Losing an elderly family member is genuinely difficult. Here are some meaningful ways to honor their memory:\n\n## Personal Tributes\n- Write down stories and memories before they fade\n- Create a photo album or memory book\n- Record family members sharing their favorite memories\n- Frame a meaningful photo for your home\n\n## Continuing Their Legacy\n- Learn a skill or recipe they valued\n- Continue a tradition they started\n- Donate to causes they cared about\n- Plant a garden or tree in their memory\n\n## Gathering Together\n- Host an annual family meal on their birthday or anniversary\n- Share their stories with younger family members\n- Create a family history document or genealogy record\n- Watch home videos together\n\n## Practical Remembrance\n- Keep a meaningful possession of theirs\n- Wear a piece of their jewelry on special occasions\n- Use something they made (quilt, woodwork, etc.)\n\n## Community Recognition\n- Establish a scholarship or memorial fund\n- Volunteer for organizations they supported\n- Name a bench or library book collection in their honor\n\n## Ongoing Connection\n- Visit places that were meaningful to them\n- Celebrate their birthday with intentional reflection\n- Simply talk about them openly in family conversation\n\nThe most meaningful tributes often reflect **who they specifically were** - their particular interests, values, and the specific impact they had on your family.\n\nIs there something specific about this person you'd like to honor?"
+  }
+}

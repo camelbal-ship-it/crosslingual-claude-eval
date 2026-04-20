@@ -1,0 +1,17 @@
+{
+  "prompt_id": "P008",
+  "cluster": "LIFE_DECISIONS",
+  "language": "es",
+  "run": 2,
+  "prompt_text": "¿Qué factores debería considerar cuidadosamente una persona antes de realizar un cambio de carrera significativo a los cuarenta años?",
+  "collected_at": "2026-04-20T02:27:04.961976Z",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "stop_reason": "end_turn",
+    "usage": {
+      "input_tokens": 44,
+      "output_tokens": 490
+    },
+    "text": "# Cambio de carrera a los cuarenta: factores clave a considerar\n\n## Factores financieros (probablemente los más urgentes)\n\n- **Reservas económicas reales**: cuánto tiempo puedes sostener una transición sin ingresos estables\n- **Compromisos adquiridos**: hipoteca, dependientes, seguros médicos vinculados al empleo\n- **Diferencial salarial realista**: muchos cambios implican retroceder temporalmente en ingresos\n- **Pensión y derechos acumulados**: lo que potencialmente sacrificas en beneficios laborales\n\n## Factores profesionales\n\n- **Habilidades transferibles genuinas** vs. habilidades que sobrevaloras por familiaridad\n- **El tiempo real de requalificación**: con frecuencia se subestima considerablemente\n- **Redes de contacto**: si cambias de sector, tu red puede volverse menos útil\n- **Sesgos de edad en el sector destino**, que existen aunque no deberían\n\n## Factores personales y psicológicos\n\n- **La fuente real del malestar**: ¿es la carrera o el empleo actual específico, el jefe, el entorno?\n- **Motivación basada en evidencia** vs. idealización del campo nuevo\n- **Tolerancia real al riesgo e incertidumbre**, no la teórica\n\n## Lo que frecuentemente se subestima\n\n- La curva de aprendizaje en términos de autoestima, no solo de conocimiento\n- Que empezar de nuevo implica volver a demostrar credibilidad\n- El impacto en relaciones cercanas que también absorben la incertidumbre\n\n## Una pregunta honesta que vale la pena hacerse\n\n¿Estás huyendo de algo o yendo hacia algo concreto? La distinción importa mucho para el resultado.\n\n¿Hay algún aspecto específico de tu situación que te gustaría explorar con más detalle?"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "prompt_id": "P009",
+  "cluster": "FACTUAL_RECALL",
+  "language": "es",
+  "run": 1,
+  "prompt_text": "¿Cuál es la población aproximada del mundo hoy en día?",
+  "collected_at": "2026-04-20T02:29:00.193650Z",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "stop_reason": "end_turn",
+    "usage": {
+      "input_tokens": 25,
+      "output_tokens": 146
+    },
+    "text": "Actualmente, la población mundial es de aproximadamente **8,000 millones de personas** (8 mil millones), cifra que se alcanzó en noviembre de 2022.\n\nAlgunos datos relevantes:\n- La población sigue creciendo, aunque a un ritmo más lento que décadas anteriores.\n- Se estima que podría alcanzar los **9,000 millones** alrededor de 2037.\n- Las regiones más pobladas son **Asia** (especialmente China e India) y **África**.\n\n¿Te gustaría saber algo más específico sobre demografía mundial?"
+  }
+}

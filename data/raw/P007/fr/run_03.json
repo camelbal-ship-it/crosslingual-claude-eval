@@ -1,0 +1,17 @@
+{
+  "prompt_id": "P007",
+  "cluster": "CREATIVE_NARRATIVE",
+  "language": "fr",
+  "run": 3,
+  "prompt_text": "Rédigez un court paragraphe (5 à 7 phrases) décrivant un après-midi pluvieux dans une ville.",
+  "collected_at": "2026-04-20T02:24:20.956959Z",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "stop_reason": "end_turn",
+    "usage": {
+      "input_tokens": 39,
+      "output_tokens": 259
+    },
+    "text": "# Un après-midi pluvieux en ville\n\nLe ciel s'est assombri en quelques minutes, enveloppant la ville d'un voile gris et pesant. Les premières gouttes ont frappé le pavé chaud, libérant une odeur de terre humide qui s'est répandue dans les rues. Les passants se sont précipités sous les auvents des boutiques, secouant leurs parapluies ruisselants avec des gestes impatients. Les voitures glissaient lentement sur l'asphalte luisant, leurs phares dessinant des reflets dorés dans les flaques. Le grondement sourd du tonnerre résonnait entre les immeubles, couvrant presque le brouhaha habituel de la ville. Sur une terrasse abandonnée, une chaise renversée par le vent témoignait de la soudaineté de l'averse. Peu à peu, la pluie avait transformé cette ville agitée en un tableau mélancolique et silencieux, presque apaisant."
+  }
+}

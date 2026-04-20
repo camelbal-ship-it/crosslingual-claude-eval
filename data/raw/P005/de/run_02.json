@@ -1,0 +1,17 @@
+{
+  "prompt_id": "P005",
+  "cluster": "TECHNICAL_EXPLANATION",
+  "language": "de",
+  "run": 2,
+  "prompt_text": "Erklären Sie, wie ein neuronales Netz aus Daten lernt, als würden Sie mit einem gebildeten Nicht-Fachmann sprechen.",
+  "collected_at": "2026-04-20T02:19:19.529055Z",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "stop_reason": "max_tokens",
+    "usage": {
+      "input_tokens": 47,
+      "output_tokens": 1024
+    },
+    "text": "# Wie ein neuronales Netz aus Daten lernt\n\n## Die Grundidee: Lernen durch Fehler\n\nStellen Sie sich vor, Sie lernen Dartwerfen. Sie werfen, beobachten wo der Pfeil landet, korrigieren Ihren Wurf – und wiederholen das tausende Male. Genau nach diesem Prinzip lernt ein neuronales Netz.\n\n---\n\n## Der Aufbau: Was ist ein neuronales Netz überhaupt?\n\nEin neuronales Netz ist eine Kette von **Rechenknoten** (sogenannte Neuronen), die in Schichten angeordnet sind:\n\n- **Eingabeschicht** – empfängt die Rohdaten (z.B. ein Bild)\n- **Verdeckte Schichten** – verarbeiten die Information in mehreren Stufen\n- **Ausgabeschicht** – liefert das Ergebnis (z.B. „Katze\" oder „kein Katze\")\n\nJede Verbindung zwischen zwei Neuronen hat ein **Gewicht** – eine Zahl, die angibt, wie stark dieser Einfluss ist. Diese Gewichte *sind* das Wissen des Netzes.\n\n---\n\n## Der Lernvorgang in vier Schritten\n\n### 1. Vorhersage machen *(Vorwärtsdurchlauf)*\nDas Netz bekommt eine Eingabe – etwa ein Foto – und rechnet sich Schicht für Schicht bis zur Ausgabe durch. Am Ende steht eine Antwort, zum Beispiel: „Das ist zu 73% eine Katze.\"\n\n### 2. Fehler messen *(Verlustfunktion)*\nMan vergleicht die Vorhersage mit der richtigen Antwort. Die Abweichung wird als eine einzige Zahl ausgedrückt, dem **Fehler** (oder „Loss\"). \n> Je kleiner diese Zahl, desto besser das Netz.\n\n### 3. Fehler zurückverfolgen *(Backpropagation)*\nJetzt kommt der entscheidende Schritt. Das Netz fragt rückwärts durch alle Schichten: **Welches Gewicht hat wie viel zum Fehler beigetragen?**\n\nDas funktioniert über einen mathematischen Trick aus der Analysis – den **Gradienten**. Man kann sich das wie eine Gebirgslandschaft vorstellen:\n- Der aktuelle Fehler ist die Höhe, auf der man steht\n- Der Gradient zeigt an, **in welche Richtung es bergauf geht**\n- Das Netz geht konsequent den entgegengesetzten Weg: **bergab**\n\n### 4. Gewichte anpassen *(Gradientenabstieg)*\nJedes Gewicht wird um einen winzigen Betrag in die richtige Richtung verschoben. Wie groß dieser Schritt ist, bestimmt die **Lernrate** – ein wichtiger Stellhebel:\n\n| Lernrate | Problem |\n|---|---|\n| Zu groß | Man überspringt das Tal, springt hin und her |\n| Zu klein | Man kommt kaum vom Fleck |\n| Gut gewählt | Langsames, sicheres Hinabsteigen |\n\n---\n\n## Das große Bild: Warum funktioniert das?\n\nDieser Kreislauf –\n**Vorhersagen → Fehler messen → Zurückverfolgen → Anpassen**\n– wird nicht hundert, sondern oft **millionen Mal** wiederholt, mit riesigen Mengen an Beispieldaten.\n\n> Das Netz lernt nie explizite Regeln. Es entdeckt Muster allein durch Erfahrung – ähnlich wie ein Kind lernt, Gesichter zu erkennen, ohne je eine Definition von „Gesicht\" gehört zu haben.\n\n---\n\n## Eine ehrliche Einschränkung\n\nSo beeindruckend das ist: Das Netz **versteht** nichts im m"
+  }
+}

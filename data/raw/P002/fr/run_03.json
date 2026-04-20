@@ -1,0 +1,17 @@
+{
+  "prompt_id": "P002",
+  "cluster": "LEADERSHIP_CULTURE",
+  "language": "fr",
+  "run": 3,
+  "prompt_text": "Quelles sont les qualités les plus importantes d'un dirigeant efficace ?",
+  "collected_at": "2026-04-20T02:09:18.505821Z",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "stop_reason": "end_turn",
+    "usage": {
+      "input_tokens": 26,
+      "output_tokens": 386
+    },
+    "text": "# Les qualités essentielles d'un dirigeant efficace\n\n## Les fondamentaux humains\n- **L'intelligence émotionnelle** — comprendre et gérer ses émotions et celles des autres\n- **L'intégrité** — cohérence entre les paroles et les actes\n- **L'empathie** — capacité à se mettre à la place de ses collaborateurs\n- **L'humilité** — reconnaître ses limites et valoriser les autres\n\n## Les capacités stratégiques\n- **La vision claire** — donner un cap, un sens à l'action collective\n- **La prise de décision** — trancher même dans l'incertitude\n- **L'adaptabilité** — ajuster sa posture selon les contextes\n\n## Les compétences relationnelles\n- **La communication** — savoir écouter autant que convaincre\n- **La délégation** — faire confiance et responsabiliser\n- **La capacité à fédérer** — créer un sentiment d'appartenance\n\n## Ce que les recherches récentes soulignent\n> Les études (Google, Harvard, Gallup) montrent que **les qualités humaines** importent souvent davantage que les compétences techniques\n\n## Un point de nuance important\nIl n'existe **pas de profil universel** : un bon dirigeant sait aussi **s'adapter à son contexte** — taille de l'organisation, secteur, culture...\n\n---\n\n**Quelle dimension vous intéresse particulièrement ?** Leadership en temps de crise, management d'équipe, leadership éthique..."
+  }
+}

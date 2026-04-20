@@ -1,0 +1,17 @@
+{
+  "prompt_id": "P010",
+  "cluster": "IMPLICIT_CULTURAL_KNOWLEDGE",
+  "language": "ro",
+  "run": 2,
+  "prompt_text": "Care sunt câteva modalități semnificative de a cinsti un membru în vârstă al familiei care a decedat?",
+  "collected_at": "2026-04-20T02:30:51.786811Z",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "stop_reason": "end_turn",
+    "usage": {
+      "input_tokens": 37,
+      "output_tokens": 423
+    },
+    "text": "# Modalități de a cinsti memoria unui membru în vârstă al familiei\n\n## Ritualuri și ceremonii\n- Organizarea unei slujbe religioase sau a unei ceremonii personalizate\n- Aprinderea de lumânări în zilele semnificative\n- Vizitarea mormântului și îngrijirea locului de veci\n- Respectarea tradițiilor familiale sau culturale specifice\n\n## Păstrarea amintirii\n- **Adunarea amintirilor** – colectarea fotografiilor și organizarea unui album\n- Înregistrarea poveștilor de la cei care l-au cunoscut\n- Crearea unui jurnal sau caiet cu amintiri\n- Digitizarea fotografiilor vechi pentru generațiile viitoare\n\n## Gesturi concrete\n- Donarea în numele său la o cauză care îi era dragă\n- Plantarea unui copac sau crearea unui mic colț memorial în grădină\n- Păstrarea cu grijă a unui obiect care îi aparținea\n- Continuarea unei tradiții pe care o inițiase el/ea\n\n## Reuniunea familiei\n- Organizarea unei mese de familie pentru a împărtăși amintiri\n- Gătirea rețetelor lui/ei favorite\n- Povestirea despre viața sa copiilor și nepoților\n\n## Moștenire vie\n- Practicarea unui meșteșug sau hobby pe care îl prețuia\n- Transmiterea valorilor și înțelepciunii sale\n- Numirea unui copil sau a unui proiect în memoria sa\n\nCel mai important este că gestul să fie **sincer și personal**, reflectând cine a fost acea persoană cu adevărat."
+  }
+}

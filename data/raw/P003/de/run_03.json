@@ -1,0 +1,17 @@
+{
+  "prompt_id": "P003",
+  "cluster": "METALINGUISTIC",
+  "language": "de",
+  "run": 3,
+  "prompt_text": "Welche kognitiven und sozialen Vorteile hat es, mehrere Sprachen fließend zu sprechen?",
+  "collected_at": "2026-04-20T02:12:57.514849Z",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "stop_reason": "end_turn",
+    "usage": {
+      "input_tokens": 36,
+      "output_tokens": 462
+    },
+    "text": "# Vorteile der Mehrsprachigkeit\n\n## Kognitive Vorteile\n\n### Gut belegte Effekte\n- **Aufmerksamkeitskontrolle** – mehrsprachige Menschen müssen ständig zwischen Sprachsystemen wechseln, was exekutive Funktionen trainiert\n- **Mentale Flexibilität** – schnelleres Umschalten zwischen Aufgaben und Perspektiven\n- **Metalinguistisches Bewusstsein** – bewussterer Umgang mit Sprache als System\n\n### Umstrittene oder überschätzte Effekte\n- **\"Bilingual advantage\"** – lange populär, aber die Forschungslage ist tatsächlich gemischt; viele Replikationsstudien blieben erfolglos\n- **Demenzschutz** – es gibt Hinweise auf verzögerten Ausbruch, aber kein klarer kausaler Beweis\n- **Allgemeine Intelligenzsteigerung** – nicht belegt\n\n---\n\n## Soziale und praktische Vorteile\n\n- **Kultureller Zugang** – Literatur, Humor, Nuancen in Originalsprache verstehen\n- **Empathiefähigkeit** – unterschiedliche Konzeptualisierungen der Welt kennenlernen\n- **Berufliche Chancen** – nachweisbar größer in vielen Bereichen\n- **Beziehungsqualität** – tiefere Verbindungen mit Menschen anderer Sprachgruppen\n\n---\n\n## Ehrliche Einschätzung\n\nDie Vorteile sind **real, aber oft übertrieben** dargestellt. Mehrsprachigkeit ist wertvoll – vor allem kulturell und sozial – aber kein kognitives Wundermittel.\n\nInteressiert dich ein bestimmter Aspekt genauer?"
+  }
+}

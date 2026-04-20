@@ -1,0 +1,17 @@
+{
+  "prompt_id": "P011",
+  "cluster": "REGISTER_SWITCHING",
+  "language": "it",
+  "run": 2,
+  "prompt_text": "Scrivete lo stesso consiglio sulla gestione dello stress in due versioni: una formale, adatta a una pubblicazione professionale, e una informale, adatta a un messaggio a un amico.",
+  "collected_at": "2026-04-20T02:35:28.254691Z",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "stop_reason": "end_turn",
+    "usage": {
+      "input_tokens": 55,
+      "output_tokens": 525
+    },
+    "text": "# Due versioni dello stesso consiglio\n\n---\n\n## 📋 Versione Formale\n*Per una pubblicazione professionale*\n\n---\n\n> **La gestione efficace dello stress attraverso la regolazione del respiro**\n\nLa ricerca nel campo della psicofisiologia ha dimostrato che tecniche di respirazione diaframmatica consapevole rappresentano uno strumento clinicamente valido per la riduzione della risposta allo stress acuto. Si raccomanda di dedicare almeno cinque minuti quotidiani a esercizi di respirazione controllata — inspirando per quattro secondi, trattenendo il respiro per quattro secondi ed espirando lentamente per sei secondi — al fine di attivare il sistema nervoso parasimpatico e favorire un ritorno omeostatico dell'equilibrio psicofisico.\n\n---\n\n## 💬 Versione Informale\n*Per un messaggio a un amico*\n\n---\n\n> **Ehi, provaci davvero!**\n\nAscolta, quando senti che la testa sta per esploderti, smettila un secondo e respira — ma sul serio, non come fai di solito! Inspira lentamente contando fino a 4, tieni il respiro altri 4 secondi e poi butta fuori l'aria contando fino a 6. Fallo tipo 5 minuti e vedrai che ti passa quella sensazione di panico. Sembra stupido finché non lo provi, ma funziona davvero! 😅\n\n---\n\n## 🔍 Le differenze chiave\n\n| Elemento | Formale | Informale |\n|---|---|---|\n| **Lessico** | Tecnico e preciso | Colloquiale e diretto |\n| **Tono** | Distaccato, oggettivo | Caldo, personale |\n| **Fonti** | Cita la ricerca | Esperienza diretta |\n| **Struttura** | Periodo lungo e articolato | Frasi brevi e ritmo vivace |\n| **Obiettivo** | Informare/convincere con dati | Incoraggiare con empatia |"
+  }
+}

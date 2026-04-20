@@ -1,0 +1,17 @@
+{
+  "prompt_id": "P002",
+  "cluster": "LEADERSHIP_CULTURE",
+  "language": "it",
+  "run": 3,
+  "prompt_text": "Quali sono le qualità più importanti di un leader efficace?",
+  "collected_at": "2026-04-20T02:10:20.173944Z",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "stop_reason": "end_turn",
+    "usage": {
+      "input_tokens": 22,
+      "output_tokens": 406
+    },
+    "text": "## Qualità di un leader efficace\n\nÈ una domanda su cui c'è molto dibattito, ma alcune qualità emergono consistentemente:\n\n### Fondamentali\n- **Integrità** – coerenza tra parole e azioni, credibilità nel tempo\n- **Capacità di ascolto** – non solo parlare, ma comprendere davvero\n- **Chiarezza comunicativa** – trasmettere visione e aspettative in modo comprensibile\n\n### Relazionali\n- **Empatia** – riconoscere le persone come individui, non solo risorse\n- **Fiducia** – saperla dare prima ancora di riceverla\n- **Umiltà** – ammettere errori, valorizzare gli altri\n\n### Cognitive\n- **Pensiero critico** – decidere con informazioni incomplete\n- **Adattabilità** – cambiare approccio quando il contesto cambia\n- **Visione** – orientarsi verso obiettivi a lungo termine senza perdere il presente\n\n### Una riflessione utile\nC'è dibattito su cosa venga prima:\n- Alcune teorie enfatizzano i **tratti personali** (si nasce leader)\n- Altre valorizzano i **comportamenti appresi** (si diventa leader)\n- La ricerca recente suggerisce che **il contesto conta enormemente** – non esiste un modello universale\n\n### Vale anche chiedersi\nUn leader efficace *per chi*? Per i risultati aziendali, per il benessere del team, per la società? Le risposte possono divergere.\n\nTi interessa approfondire un aspetto specifico?"
+  }
+}

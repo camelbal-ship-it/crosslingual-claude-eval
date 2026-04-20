@@ -1,0 +1,17 @@
+{
+  "prompt_id": "P004",
+  "cluster": "EMOTIONAL_SUPPORT",
+  "language": "de",
+  "run": 2,
+  "prompt_text": "Ein enger Freund erzählt dir, dass er in Bezug auf seine Zukunft keine Hoffnung mehr hat. Was würdest du ihm sagen?",
+  "collected_at": "2026-04-20T02:15:01.709004Z",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "stop_reason": "end_turn",
+    "usage": {
+      "input_tokens": 47,
+      "output_tokens": 425
+    },
+    "text": "Das ist eine sehr ernste Situation, die ich nicht auf die leichte Schulter nehmen würde.\n\n## Was ich zunächst tun würde\n\n**Erstmal wirklich zuhören** – ohne sofort Ratschläge zu geben oder zu minimieren. Fragen wie:\n- \"Was meinst du damit genau?\"\n- \"Seit wann fühlst du dich so?\"\n- \"Wie schlimm ist es gerade?\"\n\nDas ist wichtig, weil \"keine Hoffnung\" sehr Unterschiedliches bedeuten kann.\n\n## Direkt ansprechen, was ich mich frage\n\nIch würde **offen fragen**: \"Hast du auch Gedanken daran, dir selbst etwas anzutun?\"\n\nDas klingt vielleicht erschreckend direkt – aber Studien zeigen, dass diese Frage **nicht schadet**, sondern oft Erleichterung bringt. Und ich muss wissen, wie es ihm wirklich geht.\n\n## Was ich ihm sagen würde\n\nEhrlich – nicht mit leeren Floskeln wie \"wird schon wieder\":\n- Dass ich **froh bin**, dass er es mir sagt\n- Dass ich **bei ihm bleibe**\n- Dass Hoffnungslosigkeit ein **Symptom sein kann**, kein Urteil über die Realität\n- Dass er **professionelle Unterstützung verdient**\n\n## Konkrete Hilfe anbieten\n\nNicht nur \"geh zum Arzt\" – sondern: \"Soll ich mitkommen?\"\n\n---\n\n**Bist du selbst gerade in einer ähnlichen Situation?** Ich frage, weil mir das wichtig wäre zu wissen."
+  }
+}

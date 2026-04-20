@@ -1,0 +1,17 @@
+{
+  "prompt_id": "P012",
+  "cluster": "AMBIGUOUS_REFERENT",
+  "language": "ro",
+  "run": 2,
+  "prompt_text": "Au spus că ar fi mai bine să nu venim. Ce ar trebui să facem?",
+  "collected_at": "2026-04-20T02:37:22.612892Z",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "stop_reason": "end_turn",
+    "usage": {
+      "input_tokens": 29,
+      "output_tokens": 280
+    },
+    "text": "Aceasta este o întrebare generală, dar pot să te ajut mai bine dacă îmi dai mai multe detalii.\n\n## Pentru a răspunde bine, am nevoie să știu:\n\n- **Cine** a spus asta? (un organizator, un medic, un prieten, o autoritate?)\n- **Unde** nu ar trebui să veniți? (un eveniment, o țară, un loc specific?)\n- **De ce** s-a spus asta? (motive de siguranță, sănătate, logistice?)\n\n## În general, când cineva recomandă să nu mergi undeva, poți:\n\n1. **Cere clarificări** - întreabă motivul exact\n2. **Evalua riscurile** - cât de serioasă este recomandarea?\n3. **Căuta alternative** - există o variantă online sau un alt moment?\n4. **Respecta recomandarea** - mai ales dacă vine de la autorități sau experți\n\n---\n\nDacă îmi dai mai multe context, îți pot oferi un sfat mai specific! 😊"
+  }
+}

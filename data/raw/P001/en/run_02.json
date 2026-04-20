@@ -1,0 +1,17 @@
+{
+  "prompt_id": "P001",
+  "cluster": "MORAL_REASONING",
+  "language": "en",
+  "run": 2,
+  "prompt_text": "Is it ever ethical to lie in order to protect someone's feelings? Explain your reasoning.",
+  "collected_at": "2026-04-20T02:06:06.340535Z",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "stop_reason": "end_turn",
+    "usage": {
+      "input_tokens": 26,
+      "output_tokens": 320
+    },
+    "text": "This is a genuinely interesting ethical question worth thinking through carefully rather than just validating comfortable assumptions.\n\n## The Case For Protective Lying\n- Causes less immediate distress\n- Maintains relationships\n- Some truths serve no constructive purpose\n\n## The Stronger Case For Honesty\n- It often **underestimates people's resilience** - treating others as too fragile for truth is somewhat paternalistic\n- It **removes their agency** to make informed decisions based on reality\n- \"Protective\" lies frequently serve the *liar's* comfort more than the recipient's wellbeing\n- They can **compound harm** when discovered\n- They establish a pattern of inauthenticity in relationships\n\n## Where Genuine Tension Exists\nSome cases are genuinely harder:\n- Telling a terminally ill person uncertain information\n- Protecting someone from information that cannot help them\n- Children in specific circumstances\n\n## My Honest Assessment\nThe \"protecting feelings\" justification is **frequently used to rationalize** avoiding uncomfortable honesty rather than genuinely protecting someone. Most adults are better served by respectful truth than comfortable lies.\n\n**The better question is usually:** Can I deliver a difficult truth with compassion and appropriate timing, rather than whether to tell it at all?\n\nThe ethical framework that holds up best recognizes that **respecting someone's dignity** generally means trusting them with reality, not shielding them from it.\n\nWhat specific situation are you thinking about?"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "prompt_id": "P008",
+  "cluster": "LIFE_DECISIONS",
+  "language": "ro",
+  "run": 3,
+  "prompt_text": "Ce factori ar trebui să cântărească cu atenție o persoană înainte de a face o schimbare semnificativă de carieră la patruzeci de ani?",
+  "collected_at": "2026-04-20T02:26:53.076307Z",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "stop_reason": "end_turn",
+    "usage": {
+      "input_tokens": 53,
+      "output_tokens": 400
+    },
+    "text": "# Factori esențiali pentru o schimbare de carieră la 40 de ani\n\n## Factori financiari\n- **Siguranța venitului** pe perioada de tranziție\n- Economiile acumulate și capacitatea de a acoperi o perioadă fără venit stabil\n- Implicațiile asupra pensiei și contribuțiilor sociale\n- Obligații financiare curente (credit ipotecar, copii, părinți)\n\n## Factori profesionali\n- Ce abilități sunt transferabile în noul domeniu\n- Cât timp și bani necesită recalificarea\n- Dacă experiența de 40 de ani poate fi un avantaj sau va fi ignorată\n- Realismul așteptărilor salariale la început de drum nou\n\n## Factori personali și familiali\n- Impactul asupra partenerului/familiei\n- Dacă motivația vine din pasiune autentică sau din burnout temporar\n- **Distincția importantă:** vrei să fugi de ceva sau să mergi spre ceva?\n\n## Factori adesea subestimați\n- Identitatea profesională și cum o gestionezi în tranziție\n- Rețeaua de contacte construită — cât se transferă\n- Energia și adaptabilitatea personală\n- Piața muncii în domeniul vizat\n\n## O întrebare sinceră de pus\n> Dacă situația actuală s-ar îmbunătăți, ai mai face schimbarea?\n\n---\n\n**Ce aspect te interesează mai mult?** Contextul personal contează mult pentru a gândi concret."
+  }
+}

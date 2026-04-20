@@ -1,0 +1,17 @@
+{
+  "prompt_id": "P009",
+  "cluster": "FACTUAL_RECALL",
+  "language": "en",
+  "run": 3,
+  "prompt_text": "What is the approximate population of the world today?",
+  "collected_at": "2026-04-20T02:28:25.026027Z",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "stop_reason": "end_turn",
+    "usage": {
+      "input_tokens": 17,
+      "output_tokens": 53
+    },
+    "text": "As of 2025, the world population is approximately **8.2 billion people**. It passed the 8 billion milestone in November 2022 and continues to grow, though the rate of growth has been gradually slowing."
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "prompt_id": "P010",
+  "cluster": "IMPLICIT_CULTURAL_KNOWLEDGE",
+  "language": "fr",
+  "run": 3,
+  "prompt_text": "Quelles sont des façons significatives d'honorer un membre âgé de la famille qui est décédé ?",
+  "collected_at": "2026-04-20T02:30:25.839538Z",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "stop_reason": "end_turn",
+    "usage": {
+      "input_tokens": 34,
+      "output_tokens": 392
+    },
+    "text": "# Façons significatives d'honorer un proche âgé décédé\n\n## Préserver sa mémoire\n\n- **Rassembler ses histoires** — interviewer les membres de la famille qui l'ont connu, noter ses anecdotes et souvenirs\n- **Créer un album photo ou un livre de mémoire** partagé avec toute la famille\n- **Numériser les vieilles photos et documents** pour les transmettre aux générations futures\n- **Enregistrer les témoignages** de ceux qui l'ont connu\n\n## Gestes concrets et symboliques\n\n- Préparer **ses recettes préférées** lors de réunions familiales\n- Continuer ou reprendre **une tradition qu'il/elle avait établie**\n- Planter un arbre ou un jardin en sa mémoire\n- Faire un **don à une cause** qui lui tenait à cœur\n\n## Célébrations collectives\n\n- Organiser une **réunion de famille** autour de ses valeurs\n- Partager des **histoires et des rires** plutôt que seulement la tristesse\n- Commémorer son anniversaire chaque année de façon particulière\n\n## Sur le plan personnel\n\n- Écrire une **lettre à la personne décédée**\n- Adopter **une de ses valeurs** dans sa propre vie\n- Transmettre **ce qu'on a appris d'elle** aux enfants\n\n---\n\nAvez-vous des aspects particuliers — culturels, spirituels, pratiques — sur lesquels vous aimeriez que je me concentre ?"
+  }
+}

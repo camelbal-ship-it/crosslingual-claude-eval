@@ -1,0 +1,17 @@
+{
+  "prompt_id": "P002",
+  "cluster": "LEADERSHIP_CULTURE",
+  "language": "en",
+  "run": 2,
+  "prompt_text": "What are the most important qualities of an effective leader?",
+  "collected_at": "2026-04-20T02:08:53.296206Z",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "stop_reason": "end_turn",
+    "usage": {
+      "input_tokens": 18,
+      "output_tokens": 305
+    },
+    "text": "# Qualities of Effective Leaders\n\nThis is a well-studied topic with some consistent findings across research and practical experience.\n\n## Core Qualities Most Consistently Supported\n\n**Character & Integrity**\n- Honesty and transparency\n- Consistency between words and actions\n- Accountability for mistakes\n\n**Interpersonal Skills**\n- Genuine listening\n- Clear communication\n- Empathy without losing objectivity\n\n**Judgment**\n- Sound decision-making under uncertainty\n- Knowing when to act vs. deliberate\n- Distinguishing important from urgent\n\n**Competence**\n- Relevant expertise\n- Intellectual curiosity and learning\n- Self-awareness about limitations\n\n## Worth Thinking Critically About\n\n- **Charisma** is often overrated - some research suggests it can actually reduce team critical thinking\n- **Confidence** matters, but overconfidence is a serious liability\n- Context matters significantly - military leadership differs from startup leadership differs from community organizing\n\n## Honest Tensions\n\n- Decisive vs. collaborative decision-making\n- Vision vs. listening to ground-level reality\n- High standards vs. psychological safety\n\n## What Research Suggests Is Underrated\n\n- Emotional regulation under pressure\n- Willingness to change one's mind\n- Creating conditions for others to succeed rather than being the hero\n\nWhat context are you thinking about? Leadership qualities can vary meaningfully by situation."
+  }
+}

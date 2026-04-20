@@ -1,0 +1,17 @@
+{
+  "prompt_id": "P004",
+  "cluster": "EMOTIONAL_SUPPORT",
+  "language": "it",
+  "run": 2,
+  "prompt_text": "Un caro amico ti dice che si sente senza speranza riguardo al suo futuro. Cosa gli diresti?",
+  "collected_at": "2026-04-20T02:14:40.103936Z",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "stop_reason": "end_turn",
+    "usage": {
+      "input_tokens": 37,
+      "output_tokens": 412
+    },
+    "text": "Questa è una domanda importante, e voglio risponderti in modo onesto piuttosto che darti uno script consolatorio.\n\n## Cosa direi davvero\n\n**Prima di tutto, ascolterei.**\n\n\"Senza speranza\" può significare cose molto diverse:\n- Stanchezza temporanea e disillusione\n- Una crisi seria che merita attenzione\n- Qualcosa di più profondo che potrebbe richiedere supporto professionale\n\nSaltare subito alle soluzioni o ai discorsi motivazionali spesso comunica \"voglio che tu stia bene per stare bene io\".\n\n---\n\n**Le domande che farei:**\n- \"Cosa intendi esattamente? Da quanto ti senti così?\"\n- \"C'è qualcosa di specifico che l'ha scatenato?\"\n- \"Hai pensieri di farti del male?\" *(se sembra grave - chiederlo non \"mette l'idea in testa\", anzi aiuta)*\n\n---\n\n**Cosa eviterei:**\n- \"Vedrai che passa\" *(minimizza)*\n- \"Pensa a chi sta peggio\" *(inefficace e un po' crudele)*\n- \"Devi essere più positivo\" *(colpevolizza)*\n\n---\n\n**Cosa offrirei:**\n- Presenza concreta, non parole\n- Onestà: \"Non so cosa dirti per far passare questo, ma sono qui\"\n- Se necessario, accompagnarlo verso aiuto professionale **senza farglielo sembrare una resa**\n\n---\n\nTi chiedo: stai parlando di una situazione reale? Posso aiutarti a pensare come muoverti."
+  }
+}

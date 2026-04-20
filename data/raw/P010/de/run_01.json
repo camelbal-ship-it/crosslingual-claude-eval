@@ -1,0 +1,17 @@
+{
+  "prompt_id": "P010",
+  "cluster": "IMPLICIT_CULTURAL_KNOWLEDGE",
+  "language": "de",
+  "run": 1,
+  "prompt_text": "Auf welche bedeutsamen Weisen kann man einem älteren Familienmitglied gedenken, das verstorben ist?",
+  "collected_at": "2026-04-20T02:32:18.992151Z",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "stop_reason": "end_turn",
+    "usage": {
+      "input_tokens": 39,
+      "output_tokens": 435
+    },
+    "text": "# Wege, einem verstorbenen älteren Familienmitglied zu gedenken\n\n## Persönliche Erinnerungen bewahren\n\n- **Erinnerungsbuch** oder Fotoalbum zusammenstellen\n- Briefe, Tagebücher oder Rezepte aufbewahren und weitergeben\n- Audioaufnahmen oder Videos mit Erinnerungen anderer Familienmitglieder sammeln\n- Lieblingsgegenstände der Person in Ehren halten\n\n## Familientraditionen fortführen\n\n- Lieblingsrezepte kochen und dabei an die Person denken\n- Traditionelle Familienfeste in ihrem Sinne weiterführen\n- Geschichten über sie an jüngere Generationen weitergeben\n- Stammbaum dokumentieren und ergänzen\n\n## Gemeinschaftliches Gedenken\n\n- Jährliche Zusammenkünfte am Geburts- oder Todestag\n- Grabbesuche gemeinsam gestalten\n- Gedenkkerze anzünden\n- In religiösen oder kulturellen Traditionen verankerte Rituale pflegen\n\n## Bleibendes schaffen\n\n- **Spende** an eine Einrichtung, die ihr/ihm wichtig war\n- Baum oder Pflanze pflanzen\n- Stipendium oder kleines Projekt in ihrem Namen\n- Kunstwerk oder Handwerk in Erinnerung anfertigen\n\n## Im Alltag\n\n- Eigenschaften oder Werte, die sie verkörpert haben, bewusst leben\n- Über sie sprechen – der Name soll nicht vergessen werden\n\n---\n\nGibt es etwas Bestimmtes, das Sie für Ihre Familie suchen? Ich helfe gerne konkreter."
+  }
+}

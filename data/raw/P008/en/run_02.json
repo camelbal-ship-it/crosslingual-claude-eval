@@ -1,0 +1,17 @@
+{
+  "prompt_id": "P008",
+  "cluster": "LIFE_DECISIONS",
+  "language": "en",
+  "run": 2,
+  "prompt_text": "What factors should a person weigh carefully before making a significant career change in their 40s?",
+  "collected_at": "2026-04-20T02:25:49.721036Z",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "stop_reason": "end_turn",
+    "usage": {
+      "input_tokens": 27,
+      "output_tokens": 321
+    },
+    "text": "This is worth thinking through carefully rather than just getting a list of encouraging platitudes. Here are genuinely important considerations:\n\n## Financial Reality\n- Savings runway - how long can you sustain reduced income\n- Whether you're starting over in seniority and salary\n- Retirement timeline implications of potentially lower earnings temporarily\n- Family financial obligations that constrain risk tolerance\n\n## Honest Self-Assessment\n- Whether you're running *toward* something specific or *away* from current frustration\n- Skills that actually transfer versus ones you're overestimating\n- Whether you've tested assumptions about the new field through real exposure\n- Past pattern of satisfaction in roles generally\n\n## Practical Market Factors\n- Age discrimination exists in some fields - worth being realistic about\n- Entry-level competition with younger candidates\n- How long credentialing or retraining actually takes\n- Networking capital you'd be abandoning versus what transfers\n\n## Often Underweighted Considerations\n- Identity disruption from status changes is genuinely difficult\n- Your family's actual preferences, not just stated support\n- Whether problems you're fleeing might follow you\n- The difference between a bad job and a bad career\n\n## What Suggests It's Worth Doing\n- Specific evidence you'd be good at the new work\n- Genuine market demand\n- Clear plan rather than vague aspiration\n\n**The honest core question:** Are you making a decision based on evidence, or primarily on emotion?\n\nWhat specific change are you considering?"
+  }
+}

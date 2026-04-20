@@ -1,0 +1,17 @@
+{
+  "prompt_id": "P004",
+  "cluster": "EMOTIONAL_SUPPORT",
+  "language": "en",
+  "run": 2,
+  "prompt_text": "A close friend tells you they are feeling hopeless about their future. What would you say to them?",
+  "collected_at": "2026-04-20T02:13:06.375319Z",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "stop_reason": "end_turn",
+    "usage": {
+      "input_tokens": 28,
+      "output_tokens": 309
+    },
+    "text": "This is worth thinking about carefully rather than just offering feel-good responses.\n\n**What I'd actually prioritize:**\n\n**First, understand what they mean**\n- \"Hopeless about the future\" covers a wide range - temporary discouragement vs. serious depression vs. suicidal thinking\n- I'd ask directly: \"Can you tell me more about what's going on?\" and \"Are you having thoughts of hurting yourself?\"\n- Asking about suicide doesn't plant the idea - it opens necessary conversation\n\n**What genuinely helps:**\n- Listening without immediately trying to fix it\n- Taking their feelings seriously rather than minimizing them\n- Being honest that I care about them specifically\n\n**What I'd be cautious about:**\n- Reflexive positivity (\"Things will get better!\") can feel dismissive\n- Sharing my own similar experiences can accidentally redirect focus\n- Pushing them toward gratitude can feel invalidating\n\n**What I'd actually say depends heavily on context**, but something like: *\"I'm glad you told me. I want to understand what you're going through - can you tell me more?\"*\n\n**The honest practical reality:**\n- If they're in serious distress, professional help matters - I'd encourage that directly, not as dismissal but as genuine care\n- Being present consistently over time matters more than finding perfect words\n\nWhat's making you ask this? Is there a specific situation you're navigating?"
+  }
+}

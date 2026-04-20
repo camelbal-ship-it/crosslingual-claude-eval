@@ -1,0 +1,17 @@
+{
+  "prompt_id": "P008",
+  "cluster": "LIFE_DECISIONS",
+  "language": "es",
+  "run": 3,
+  "prompt_text": "¿Qué factores debería considerar cuidadosamente una persona antes de realizar un cambio de carrera significativo a los cuarenta años?",
+  "collected_at": "2026-04-20T02:27:17.413389Z",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "stop_reason": "end_turn",
+    "usage": {
+      "input_tokens": 44,
+      "output_tokens": 489
+    },
+    "text": "# Cambio de carrera a los cuarenta: factores clave a considerar\n\nEs una decisión importante que merece análisis honesto, no solo entusiasmo ni miedo excesivo.\n\n## Factores financieros\n- **Brecha de ingresos real**: cuánto tiempo puedes sostener ingresos reducidos o nulos\n- **Obligaciones existentes**: hipoteca, hijos, dependientes\n- **Tiempo de recuperación**: a los 40 tienes quizás 25 años laborales, suficiente para recuperar terreno, pero menos margen que a los 25\n- **Costos de transición**: formación, certificaciones, posible período sin empleo\n\n## Factores profesionales\n- **Transferibilidad de habilidades**: qué llevas contigo que tiene valor real en el nuevo campo\n- **Qué tan fundamentado es el interés**: ¿fascinación genuina o idealización de algo desconocido?\n- **Acceso real al mercado**: informarte con personas que ya trabajan ahí, no solo con contenido inspiracional\n\n## Factores personales y relacionales\n- **Impacto en relaciones cercanas**: el cambio afecta a tu entorno, no solo a ti\n- **Motivo real del cambio**: ¿huyes de algo o vas hacia algo? La diferencia importa mucho\n- **Tolerancia real al riesgo**: no la que crees tener, sino la que has demostrado tener\n\n## Lo que suele subestimarse\n- El tiempo que toma construir credibilidad en un campo nuevo\n- Que el problema a veces es el ambiente laboral, no la profesión\n- Que hay opciones intermedias antes del cambio total\n\n## Una pregunta útil\n¿Has probado acercarte al nuevo campo antes de abandonar el actual? Eso reduce el riesgo y valida el interés.\n\n¿Tienes alguna situación específica en mente? Podría ser más útil con más contexto."
+  }
+}

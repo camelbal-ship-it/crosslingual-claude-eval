@@ -1,0 +1,17 @@
+{
+  "prompt_id": "P003",
+  "cluster": "METALINGUISTIC",
+  "language": "it",
+  "run": 3,
+  "prompt_text": "Quali sono i vantaggi cognitivi e sociali del parlare più lingue correntemente?",
+  "collected_at": "2026-04-20T02:12:34.607535Z",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "stop_reason": "end_turn",
+    "usage": {
+      "input_tokens": 29,
+      "output_tokens": 485
+    },
+    "text": "# Vantaggi del multilinguismo\n\n## Vantaggi cognitivi\n\n### Funzioni esecutive\n- **Controllo dell'attenzione** — Il continuo \"arbitraggio\" tra sistemi linguistici allena la capacità di inibire le distrazioni\n- **Flessibilità cognitiva** — Passare da una lingua all'altra sviluppa la capacità di cambiare prospettiva e strategia\n- **Memoria di lavoro** — Gestire più codici linguistici la esercita costantemente\n\n### Metacognizione\n- Maggiore consapevolezza del linguaggio come *sistema convenzionale*, non \"naturale\"\n- Capacità di distanziarsi dal proprio pensiero e riformularlo diversamente\n\n### Neurologia\n- Alcune ricerche suggeriscono un ritardo nell'insorgenza di sintomi demenziali (il cosiddetto *cognitive reserve*), anche se il dibattito scientifico è ancora aperto e i risultati non sono unanimi\n\n---\n\n## Vantaggi sociali e culturali\n\n| Area | Effetto concreto |\n|------|-----------------|\n| **Empatia** | Accedere a un'altra lingua significa accedere a un'altra *visione del mondo* |\n| **Mobilità** | Opportunità lavorative e relazionali ampliate |\n| **Mediazione** | Ruolo naturale di ponte tra comunità diverse |\n| **Identità** | Repertorio identitario più ricco e meno rigido |\n\n---\n\n## Una precisazione importante\n\nÈ utile distinguere tra:\n- **Bilinguismo precoce** (apprendimento simultaneo nell'infanzia)\n- **Multilinguismo acquisito** in età adulta\n\nGli effetti cognitivi sono documentati in entrambi i casi, ma con intensità e meccanismi diversi.\n\n---\n\nVuoi approfondire un aspetto specifico — neuroscientifico, educativo o sociolinguistico?"
+  }
+}

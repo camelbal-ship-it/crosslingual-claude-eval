@@ -1,0 +1,17 @@
+{
+  "prompt_id": "P012",
+  "cluster": "AMBIGUOUS_REFERENT",
+  "language": "it",
+  "run": 3,
+  "prompt_text": "Hanno detto che sarebbe meglio se non venissimo. Cosa dovremmo fare?",
+  "collected_at": "2026-04-20T02:38:14.213565Z",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "stop_reason": "end_turn",
+    "usage": {
+      "input_tokens": 29,
+      "output_tokens": 278
+    },
+    "text": "È una situazione che può essere vissuta in modi diversi. Per aiutarti meglio, ho bisogno di capire il contesto.\n\n## Alcune domande utili:\n\n- **Chi** ha detto questa cosa? (familiari, organizzatori di un evento, colleghi...)\n- **Di cosa** si tratta? (una festa, una riunione, un viaggio...)\n- **Come** è stato detto? (con gentilezza, in modo ostile, come consiglio...)\n\n---\n\nIn generale, ci sono diverse prospettive:\n\n**Se il messaggio è genuino (es. motivi pratici):**\n→ Potrebbe valere la pena rispettare la richiesta e chiedere chiarimenti in modo diretto\n\n**Se ti senti escluso ingiustamente:**\n→ Meriti una spiegazione chiara, e hai tutto il diritto di chiederla\n\n**Se è ambiguo:**\n→ A volte è meglio chiedere apertamente piuttosto che interpretare\n\n---\n\nPuoi raccontarmi di più sulla situazione? Così posso darti un'opinione più utile. 😊"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "prompt_id": "P012",
+  "cluster": "AMBIGUOUS_REFERENT",
+  "language": "es",
+  "run": 2,
+  "prompt_text": "Dijeron que sería mejor que no viniéramos. ¿Qué deberíamos hacer?",
+  "collected_at": "2026-04-20T02:37:45.087179Z",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "stop_reason": "end_turn",
+    "usage": {
+      "input_tokens": 33,
+      "output_tokens": 349
+    },
+    "text": "## Analizando la situación\n\nTu pregunta es bastante general, así que te doy algunas perspectivas para pensar:\n\n### Preguntas clave antes de decidir:\n\n**¿Quién lo dijo y por qué?**\n- ¿Es una recomendación de seguridad?\n- ¿Es una preferencia personal de alguien?\n- ¿Hay razones prácticas o logísticas?\n\n**¿Qué tan importante es ir para ustedes?**\n- ¿Tienen un propósito claro?\n- ¿Hay consecuencias si no van?\n\n---\n\n### Opciones generales:\n\n1. **Respetar la recomendación** si viene de alguien con buenas razones o autoridad\n2. **Pedir más explicaciones** antes de decidir\n3. **Ir de todas formas** si tienen motivos válidos y es su derecho hacerlo\n4. **Buscar una alternativa** que satisfaga a todas las partes\n\n---\n\n### Mi sugerencia general:\nAntes de actuar, **entender el motivo** detrás del consejo es fundamental. No es lo mismo que te lo diga un médico, un anfitrión o un amigo con intereses propios.\n\n---\n\n¿Puedes darme **más contexto** sobre la situación? Así puedo ayudarte de manera más específica. 😊"
+  }
+}

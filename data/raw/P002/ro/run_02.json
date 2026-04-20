@@ -1,0 +1,17 @@
+{
+  "prompt_id": "P002",
+  "cluster": "LEADERSHIP_CULTURE",
+  "language": "ro",
+  "run": 2,
+  "prompt_text": "Care sunt cele mai importante calități ale unui lider eficient?",
+  "collected_at": "2026-04-20T02:09:29.729428Z",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "stop_reason": "end_turn",
+    "usage": {
+      "input_tokens": 21,
+      "output_tokens": 435
+    },
+    "text": "# Calitățile unui lider eficient\n\n## Calități fundamentale\n\n**Integritate și autenticitate**\n- Consecvență între vorbe și fapte\n- Transparență și onestitate\n- Construiește încredere reală\n\n**Viziune clară**\n- Știe unde merge și de ce\n- Poate comunica direcția convingător\n- Gândire pe termen lung\n\n**Inteligență emoțională**\n- Empatie autentică\n- Autocontrol în situații dificile\n- Înțelege oamenii, nu doar sarcinile\n\n---\n\n## Calități practice\n\n| Calitate | De ce contează |\n|----------|----------------|\n| Comunicare clară | Reduce confuzia și conflictele |\n| Luarea deciziilor | Acționează chiar și cu informații incomplete |\n| Adaptabilitate | Funcționează în contexte schimbătoare |\n| Responsabilitate | Își asumă greșelile, nu le aruncă pe alții |\n\n---\n\n## Ce separă liderii buni de cei mediocri\n\n- **Dezvoltă oamenii** în loc să îi folosească\n- **Ascultă activ** în loc să aștepte să vorbească\n- **Recunosc meritele** altora\n- **Cer feedback** sincer și îl folosesc\n\n---\n\n## O perspectivă nuanțată\n\nNu există o rețetă universală — **contextul contează enorm**.  \nUn lider eficient într-o criză militară diferă de unul într-o echipă creativă.\n\n**Ce crezi tu că este cel mai important?** Răspunsul depinde adesea de experiențele personale."
+  }
+}

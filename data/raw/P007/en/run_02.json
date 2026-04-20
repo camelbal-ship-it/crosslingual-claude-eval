@@ -1,0 +1,17 @@
+{
+  "prompt_id": "P007",
+  "cluster": "CREATIVE_NARRATIVE",
+  "language": "en",
+  "run": 2,
+  "prompt_text": "Write a short paragraph (5–7 sentences) describing a rainy afternoon in a city.",
+  "collected_at": "2026-04-20T02:24:00.249300Z",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "stop_reason": "end_turn",
+    "usage": {
+      "input_tokens": 27,
+      "output_tokens": 188
+    },
+    "text": "# A Rainy Afternoon in the City\n\nThe sky had turned a deep, bruised gray by early afternoon, pressing low over the rooftops like a heavy blanket. Rain fell in steady sheets, drumming against the pavement and turning the gutters into rushing silver streams. Pedestrians hurried along the sidewalks, hunched beneath umbrellas that bobbed and jostled at every intersection. The traffic moved slowly, headlights glowing pale and watery through the downpour, windshield wipers sweeping in tired rhythms. Coffee shops along the main street had fogged up their windows, warm amber light spilling out onto the wet sidewalk in blurry patches. The whole city seemed to slow down, wrapped in the soft, relentless sound of the rain, as if the afternoon had decided to breathe more quietly than usual."
+  }
+}

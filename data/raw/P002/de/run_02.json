@@ -1,0 +1,17 @@
+{
+  "prompt_id": "P002",
+  "cluster": "LEADERSHIP_CULTURE",
+  "language": "de",
+  "run": 2,
+  "prompt_text": "Was sind die wichtigsten Eigenschaften einer effektiven Führungskraft?",
+  "collected_at": "2026-04-20T02:10:31.107919Z",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "stop_reason": "end_turn",
+    "usage": {
+      "input_tokens": 26,
+      "output_tokens": 537
+    },
+    "text": "# Wichtigste Eigenschaften effektiver Führungskräfte\n\n## Kernkompetenzen\n\n### Kommunikation & Beziehungen\n- **Klar kommunizieren** – Ziele und Erwartungen verständlich vermitteln\n- **Aktiv zuhören** – Mitarbeiter wirklich wahrnehmen\n- **Vertrauen aufbauen** – durch Verlässlichkeit und Ehrlichkeit\n\n### Persönlichkeit & Haltung\n- **Selbstreflexion** – eigene Stärken und Schwächen kennen\n- **Integrität** – Werte vorleben, nicht nur predigen\n- **Resilienz** – in schwierigen Situationen handlungsfähig bleiben\n\n### Führungshandeln\n- **Entscheidungsfähigkeit** – auch bei Unsicherheit handeln\n- **Delegation** – Vertrauen in das Team zeigen\n- **Mitarbeiterentwicklung** – Potenziale erkennen und fördern\n\n---\n\n## Oft unterschätzte Qualitäten\n- Fehler **zugeben können**\n- **Nein sagen** – Prioritäten setzen\n- Unterschiedliche Menschen **individuell abholen**\n- Die eigene **Meinung revidieren** bei neuen Erkenntnissen\n\n---\n\n## Kritische Betrachtung\n\n> Es gibt **kein universelles Führungsprofil** – was wirkt, hängt stark vom **Kontext** ab:\n> - Unternehmenskultur\n> - Teamstruktur\n> - Branche und Situation\n\n---\n\n## Interessant: Worüber Forschung streitet\n- Sind Führungseigenschaften **angeboren oder erlernbar**? → Überwiegend: **erlernbar**\n- Charisma wird überschätzt, **Verlässlichkeit** unterschätzt\n- \"Harte\" Durchsetzungsstärke ist weniger entscheidend als oft angenommen\n\n---\n\n**Welcher Aspekt interessiert dich besonders?** Praxis, Theorie oder ein konkreter Kontext?"
+  }
+}

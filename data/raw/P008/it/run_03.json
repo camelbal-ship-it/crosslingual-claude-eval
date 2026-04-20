@@ -1,0 +1,17 @@
+{
+  "prompt_id": "P008",
+  "cluster": "LIFE_DECISIONS",
+  "language": "it",
+  "run": 3,
+  "prompt_text": "Quali fattori dovrebbe ponderare attentamente una persona prima di effettuare un cambiamento di carriera significativo nella quarantina?",
+  "collected_at": "2026-04-20T02:27:47.739669Z",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "stop_reason": "end_turn",
+    "usage": {
+      "input_tokens": 42,
+      "output_tokens": 572
+    },
+    "text": "## Cambiamento di carriera a 40 anni: fattori da considerare con onestà\n\nÈ una decisione importante che merita riflessione seria, non solo entusiasmo o paura.\n\n---\n\n### Fattori pratici\n\n**Situazione finanziaria**\n- Quanto tempo puoi reggere con risparmi ridotti o nullo reddito?\n- Hai dipendenti economici (figli, genitori)?\n- Il nuovo percorso richiede formazione costosa?\n\n**Competenze trasferibili**\n- Cosa porti davvero dalla carriera precedente?\n- Rischi di sovrastimare o sottostimare le tue capacità nel nuovo contesto?\n\n**Mercato reale**\n- C'è effettiva domanda nel settore target?\n- Hai parlato con persone *già dentro* quel mondo (non solo ammiratori da fuori)?\n\n---\n\n### Fattori personali da esaminare con spirito critico\n\n**Motivazione autentica vs fuga**\n- Stai andando *verso* qualcosa o *lontano* da qualcosa di difficile ma risolvibile?\n- Il problema è la carriera o altri aspetti della vita?\n\n**Aspettative realistiche**\n- Sei disposto ad accettare ruoli junior inizialmente?\n- Come reagiresti se ci volessero 3-5 anni per stabilizzarsi?\n\n**Identità e autostima**\n- Parte della resistenza viene da chi sei stato finora?\n\n---\n\n### Fattori spesso sottovalutati\n\n- Il **parere onesto** (non incoraggiante) di persone che ti conoscono bene\n- L'impatto su **relazioni** e vita familiare durante la transizione\n- La differenza tra **passione come hobby** e passione come lavoro quotidiano\n- **Test pratici** prima del salto definitivo: freelance, volontariato, progetti collaterali\n\n---\n\n### Una domanda utile\n\n*\"Tra 10 anni, cosa rimpiangerei di più: aver cambiato o non aver cambiato?\"*\n\nNon è una risposta magica, ma rivela priorità reali.\n\n---\n\nHai in mente un tipo specifico di cambiamento? Potrei aiutarti a ragionare in modo più mirato."
+  }
+}

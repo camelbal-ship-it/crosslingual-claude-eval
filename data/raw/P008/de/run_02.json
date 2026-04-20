@@ -1,0 +1,17 @@
+{
+  "prompt_id": "P008",
+  "cluster": "LIFE_DECISIONS",
+  "language": "de",
+  "run": 2,
+  "prompt_text": "Welche Faktoren sollte eine Person sorgfältig abwägen, bevor sie in den Vierzigern einen bedeutenden Berufswechsel vornimmt?",
+  "collected_at": "2026-04-20T02:28:02.244098Z",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "stop_reason": "end_turn",
+    "usage": {
+      "input_tokens": 51,
+      "output_tokens": 610
+    },
+    "text": "# Faktoren bei einem Berufswechsel in den Vierzigern\n\n## Finanzielle Realitäten\n- **Einkommensunterbrechung** – wie lange kann man Gehaltseinbußen überbrücken?\n- Altersvorsorge: Was geht verloren, was lässt sich übertragen?\n- Familienverantwortung (Hypothek, Kinder, pflegebedürftige Eltern)\n- Umschulungskosten vs. realistischer Einkommenszuwachs\n\n## Berufliche Substanz\n- Welche Fähigkeiten sind tatsächlich übertragbar – nicht nur theoretisch?\n- Wie viel Erfahrungsvorsprung verliert man im neuen Feld?\n- Netzwerk: muss es von Grund auf neu aufgebaut werden?\n- Zeitrahmen bis zur vollen Produktivität\n\n## Persönliche Motivation – kritisch hinterfragen\n- Flieht man *vor* etwas oder bewegt man sich *auf* etwas zu? Das ist ein wichtiger Unterschied.\n- Ist die Unzufriedenheit situationsbedingt oder grundlegend?\n- Romantisiert man das neue Feld, weil man es von außen sieht?\n\n## Praktische Erkundung vorher\n- Gespräche mit Menschen, die diesen Weg bereits gegangen sind\n- Möglichst Praxistest: Nebenprojekte, Hospitationen, Freelance-Arbeit\n- Realistische Jobmarktlage im Zielbereich\n\n## Zeitfaktor\n- Ausbildungsdauer bis zur Beschäftigungsfähigkeit\n- Energieniveau für parallele Umschulung neben dem aktuellen Job\n- Wann will man in Rente – bleibt genug Zeit?\n\n## Was oft unterschätzt wird\n- Identitätsverlust durch Statuswechsel (wieder Anfänger sein)\n- Reaktion des sozialen Umfelds\n- Dass Geduld eine eigene Kompetenz ist, die man mitbringen muss\n\n---\n\n**Eine ehrliche Frage dabei:** Was genau treibt den Wechsel an? Die Antwort darauf bestimmt oft, welche Faktoren am stärksten wiegen.\n\nGibt es einen konkreten Bereich, über den Sie nachdenken?"
+  }
+}

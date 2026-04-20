@@ -1,0 +1,17 @@
+{
+  "prompt_id": "P012",
+  "cluster": "AMBIGUOUS_REFERENT",
+  "language": "fr",
+  "run": 2,
+  "prompt_text": "Ils ont dit que ce serait mieux si nous ne venions pas. Que devrions-nous faire ?",
+  "collected_at": "2026-04-20T02:36:58.495069Z",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "stop_reason": "end_turn",
+    "usage": {
+      "input_tokens": 33,
+      "output_tokens": 345
+    },
+    "text": "C'est une situation délicate. Voici quelques réflexions pour vous aider à décider :\n\n## Comprendre la situation\n\n**Posez-vous ces questions :**\n- Qui sont \"ils\" et quelle est votre relation avec eux ?\n- S'agit-il d'un événement, d'un lieu, d'une réunion ?\n- La demande semble-t-elle raisonnable ou injuste ?\n\n## Options possibles\n\n**1. Respecter leur souhait**\n- Évite les tensions et les conflits\n- Montre du respect pour leurs limites\n- Peut être la solution la plus sage selon le contexte\n\n**2. Demander des éclaircissements**\n- Chercher à comprendre *pourquoi*\n- Ouvre un dialogue constructif\n- Permet d'éviter les malentendus\n\n**3. En discuter calmement**\n- Exprimer votre point de vue\n- Trouver un compromis éventuel\n\n## Ce qui peut influencer la décision\n\n- La **légitimité** de leur demande\n- Vos **droits** dans la situation\n- L'**importance** de votre présence\n- L'impact sur les **relations** futures\n\n---\n\nPourriez-vous me donner **plus de contexte** ? Je pourrai ainsi vous donner un conseil plus adapté à votre situation précise. 😊"
+  }
+}

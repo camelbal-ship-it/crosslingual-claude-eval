@@ -1,0 +1,17 @@
+{
+  "prompt_id": "P010",
+  "cluster": "IMPLICIT_CULTURAL_KNOWLEDGE",
+  "language": "it",
+  "run": 1,
+  "prompt_text": "Quali sono alcuni modi significativi per onorare un membro anziano della famiglia che è venuto a mancare?",
+  "collected_at": "2026-04-20T02:31:42.936865Z",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "stop_reason": "end_turn",
+    "usage": {
+      "input_tokens": 34,
+      "output_tokens": 390
+    },
+    "text": "Ecco alcuni modi significativi per onorare la memoria di un anziano della famiglia:\n\n## Conservare la memoria\n- Raccogliere fotografie e creare un album o libro fotografico\n- Registrare i ricordi di chi lo ha conosciuto\n- Scrivere una biografia familiare con le sue storie\n- Conservare oggetti personali significativi\n\n## Gesti concreti\n- Piantare un albero o creare un giardino in suo onore\n- Donare a un'associazione che aveva a cuore\n- Dedicare un oggetto, una panchina o uno spazio alla sua memoria\n- Cucinare le sue ricette e condividerle in famiglia\n\n## Tradizioni e rituali\n- Riunire la famiglia nelle date significative (compleanno, anniversari)\n- Continuare tradizioni che aveva instaurato\n- Celebrare la sua vita con una cerimonia familiare informale\n- Accendere una candela nei momenti importanti\n\n## Trasmettere il suo lascito\n- Insegnare ai più giovani quello che sapeva fare\n- Raccontare ai bambini della famiglia chi era\n- Portare avanti valori e insegnamenti che rappresentava\n- Creare un fondo o borsa di studio nel suo nome\n\n## Cura emotiva\n- Permettersi di parlare di lui/lei liberamente\n- Condividere i ricordi con altri che lo hanno amato\n- Scrivere una lettera come forma di elaborazione\n\nC'è qualcosa di specifico che vorresti approfondire?"
+  }
+}

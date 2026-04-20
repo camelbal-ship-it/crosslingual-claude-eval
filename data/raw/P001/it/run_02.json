@@ -1,0 +1,17 @@
+{
+  "prompt_id": "P001",
+  "cluster": "MORAL_REASONING",
+  "language": "it",
+  "run": 2,
+  "prompt_text": "È mai etico mentire per proteggere i sentimenti di qualcuno? Spiegate il vostro ragionamento.",
+  "collected_at": "2026-04-20T02:07:54.529274Z",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "stop_reason": "end_turn",
+    "usage": {
+      "input_tokens": 37,
+      "output_tokens": 593
+    },
+    "text": "## È etico mentire per proteggere i sentimenti altrui?\n\nÈ una delle questioni etiche più concrete e quotidiane. Vale la pena affrontarla con onestà intellettuale, riconoscendo le tensioni reali.\n\n---\n\n### Argomenti **a favore** della \"bugia pietosa\"\n\n- **Evita danno immediato** — alcune verità crude possono causare sofferenza sproporzionata al beneficio\n- **Rispetto per la fragilità umana** — la persona potrebbe non essere in grado di elaborare certe informazioni in quel momento\n- **Le relazioni richiedono tatto** — la brutalità non è necessariamente virtù\n\n---\n\n### Argomenti **contro**\n\n- **Viola l'autonomia altrui** — mentire decide *al posto* dell'altro cosa può sopportare\n- **La \"protezione\" è spesso autogiustificazione** — spesso proteggiamo noi stessi dal disagio di dire la verità\n- **Erode la fiducia** — quando scoperta, la bugia pietosa è spesso vissuta come tradimento\n- **Infantilizza** — tratta l'altro come incapace di gestire la realtà\n\n---\n\n### La distinzione più importante\n\nIl vero punto non è **verità vs. menzogna**, ma:\n\n> **Silenzio tattico ≠ Menzogna attiva**\n\nSpesso l'alternativa non è \"mentire o ferire brutalmente\" ma trovare un modo onesto e compassionevole di comunicare.\n\n---\n\n### La mia posizione\n\nLa menzogna \"protettiva\" è **raramente giustificabile eticamente** perché:\n1. Quasi sempre esistono alternative oneste\n2. La motivazione reale è spesso il nostro comfort\n3. Nega all'altro la possibilità di adattarsi alla realtà\n\n**Eccezioni genuine esistono** — es. nascondere ebrei ai nazisti, o non dire a un morente in coma verità che non può elaborare — ma sono casi estremi, non il quotidiano \"ti sta benissimo quel vestito\".\n\n---\n\n**La domanda più utile non è \"mentire o no?\" ma: \"perché sento di dover scegliere tra verità e gentilezza?\"**\n\nCosa ne pensi? C'è un caso specifico che ti ha fatto riflettere su questo?"
+  }
+}

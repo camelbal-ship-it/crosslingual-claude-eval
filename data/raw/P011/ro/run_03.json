@@ -1,0 +1,17 @@
+{
+  "prompt_id": "P011",
+  "cluster": "REGISTER_SWITCHING",
+  "language": "ro",
+  "run": 3,
+  "prompt_text": "Scrieți același sfat despre gestionarea stresului în două versiuni: una formală, potrivită pentru o publicație profesională, și una informală, potrivită pentru un mesaj către un prieten.",
+  "collected_at": "2026-04-20T02:34:34.565740Z",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "stop_reason": "end_turn",
+    "usage": {
+      "input_tokens": 57,
+      "output_tokens": 592
+    },
+    "text": "# Două versiuni ale aceluiași sfat\n\n---\n\n## 📋 Versiunea formală\n### *Pentru o publicație profesională*\n\n---\n\n**Gestionarea eficientă a stresului prin tehnici de respirație conștientă**\n\nCercetările din domeniul neuroștiințelor confirmă că tehnicile de respirație diafragmatică reprezintă una dintre cele mai accesibile și eficiente metode de reducere a răspunsului fiziologic la stres. Se recomandă practicarea zilnică a exercițiului „4-7-8\": inspirați timp de 4 secunde, rețineți aerul 7 secunde, apoi expirați lent în 8 secunde. Această metodă activează sistemul nervos parasimpatic, contribuind la scăderea nivelului de cortizol și la restabilirea echilibrului emoțional. Implementarea consecventă a acestei tehnici poate genera beneficii semnificative pe termen mediu și lung.\n\n---\n\n## 💬 Versiunea informală\n### *Pentru un mesaj către un prieten*\n\n---\n\n**Băi, încearcă și tu chestia asta!**\n\nȘtiu că ești îngropat în treabă și stresul te mănâncă de viu 😅 — încearcă tehnica asta de respirație, chiar merge! Inspiri 4 secunde, ții aerul 7, apoi sufli încet în 8. Sună ciudat, știu 😂, dar după 2-3 runde simți că ai dat drumul la o supapă. Eu o fac și în trafic, și înainte de ședințe grele. Costă zero lei și zero minute de așteptare — ce mai aștepți? 🙃\n\n---\n\n### 🔍 Ce s-a schimbat între versiuni?\n\n| Element | Formal | Informal |\n|---|---|---|\n| **Ton** | Neutru, obiectiv | Cald, personal |\n| **Vocabular** | Tehnic, precis | Colocvial, relaxat |\n| **Surse** | Citate cercetări | Experiență personală |\n| **Emoji** | Absente | Prezente |\n| **Persoana** | A treia / impersonal | A doua, direct |"
+  }
+}

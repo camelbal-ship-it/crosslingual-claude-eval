@@ -1,0 +1,17 @@
+{
+  "prompt_id": "P011",
+  "cluster": "REGISTER_SWITCHING",
+  "language": "en",
+  "run": 1,
+  "prompt_text": "Write the same piece of advice about managing stress in two versions: one formal, suitable for a professional publication, and one informal, suitable for a text message to a friend.",
+  "collected_at": "2026-04-20T02:32:48.014868Z",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "stop_reason": "end_turn",
+    "usage": {
+      "input_tokens": 42,
+      "output_tokens": 314
+    },
+    "text": "# Two Versions of Stress Management Advice\n\n---\n\n## Formal Version\n*(Suitable for a professional publication)*\n\n**Prioritizing Structured Recovery in High-Demand Environments**\n\nResearch consistently demonstrates that sustainable stress management requires deliberate, scheduled periods of recovery rather than reactive coping measures. Professionals are encouraged to establish clear boundaries between work and personal time, incorporate regular physical activity into their routines, and practice mindfulness techniques such as focused breathing or meditation. Addressing stressors proactively, rather than allowing them to accumulate, significantly reduces the risk of chronic burnout and supports long-term cognitive performance.\n\n---\n\n## Informal Version\n*(Suitable for a text message)*\n\nhonestly the biggest thing that's helped me is actually *scheduling* breaks instead of waiting until I'm already losing it 😅 like block off time to do nothing, go for a walk, whatever resets you. don't let it pile up until you're overwhelmed — deal with the small stuff before it turns into a whole thing. you got this 💪\n\n---\n\n## Key Differences\n\n| Element | Formal | Informal |\n|---|---|---|\n| **Tone** | Authoritative, measured | Conversational, warm |\n| **Language** | Technical, precise | Casual, personal |\n| **Structure** | Paragraph with citations implied | Stream of thought |\n| **Core message** | Identical | Identical |"
+  }
+}

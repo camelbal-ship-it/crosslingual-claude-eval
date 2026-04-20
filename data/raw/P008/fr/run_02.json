@@ -1,0 +1,17 @@
+{
+  "prompt_id": "P008",
+  "cluster": "LIFE_DECISIONS",
+  "language": "fr",
+  "run": 2,
+  "prompt_text": "Quels facteurs une personne devrait-elle peser soigneusement avant d'effectuer un changement de carrière majeur dans la quarantaine ?",
+  "collected_at": "2026-04-20T02:26:13.507688Z",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "stop_reason": "end_turn",
+    "usage": {
+      "input_tokens": 45,
+      "output_tokens": 644
+    },
+    "text": "# Changer de carrière dans la quarantaine : facteurs à peser soigneusement\n\n## 💰 Facteurs financiers\n- **Sécurité immédiate** : épargne disponible, capacité à absorber une baisse de revenus temporaire\n- **Engagements fixes** : prêt immobilier, charges familiales, frais de scolarité\n- **Retraite** : impact sur les cotisations accumulées, décalage possible de l'âge de départ\n- **Coût de la transition** : formations, certifications, période d'apprentissage sans revenu stable\n\n## 🎯 Facteurs professionnels\n- **Transférabilité des compétences** : ce qu'on emporte vraiment vs. ce qu'il faut reconstruire\n- **Réalisme du projet** : marché porteur ou idéalisé ? Enquêtes terrain recommandées\n- **Délai d'insertion** : combien d'années avant d'atteindre un niveau comparable ?\n- **Réseau existant** : atout souvent sous-estimé\n\n## 🧠 Facteurs personnels\n- **Motivation profonde** : fuir quelque chose ou aller vers quelque chose ? *(distinction cruciale)*\n- **Tolérance à l'incertitude** et à la perte de statut provisoire\n- **Énergie disponible** : concilier reconversion et vie personnelle\n- **Santé physique et mentale**\n\n## 👨‍👩‍👧 Facteurs familiaux et relationnels\n- Adhésion du partenaire\n- Impact sur les enfants\n- Soutien de l'entourage proche\n\n## ⏱️ La question du temps\n- La quarantaine offre encore **20-25 ans de vie active** — c'est suffisant pour une seconde carrière solide\n- Mais moins de marge pour des erreurs coûteuses qu'à 25 ans\n\n---\n\n## ✅ Démarche recommandée avant de décider\n1. **Tester avant de sauter** : missions freelance, bénévolat, shadowing\n2. **Parler à des gens déjà dans ce secteur** — pas seulement aux enthousiastes\n3. **Consulter un conseiller en évolution professionnelle** (bilan de compétences)\n4. **Modéliser les scénarios financiers** sur 3, 5 et 10 ans\n\n---\n\nSouhaitez-vous approfondir un aspect particulier — financier, psychologique ou sectoriel ?"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "prompt_id": "P011",
+  "cluster": "REGISTER_SWITCHING",
+  "language": "ro",
+  "run": 2,
+  "prompt_text": "Scrieți același sfat despre gestionarea stresului în două versiuni: una formală, potrivită pentru o publicație profesională, și una informală, potrivită pentru un mesaj către un prieten.",
+  "collected_at": "2026-04-20T02:34:19.247714Z",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "stop_reason": "end_turn",
+    "usage": {
+      "input_tokens": 57,
+      "output_tokens": 539
+    },
+    "text": "# Două versiuni ale aceluiași sfat\n\n---\n\n## 🔵 Versiunea Formală\n*pentru o publicație profesională*\n\n---\n\n**Gestionarea eficientă a stresului prin tehnici de respirație conștientă**\n\nCercetările din domeniul psihologiei comportamentale demonstrează că respirația diafragmatică reprezintă una dintre cele mai accesibile și eficiente metode de reducere a răspunsului fiziologic la stres. Se recomandă practicarea zilnică a tehnicii 4-7-8: inspirați timp de patru secunde, mențineți aerul șapte secunde, apoi expirați lent pe parcursul a opt secunde. Aplicată consecvent, această metodă contribuie la reglarea sistemului nervos autonom și la îmbunătățirea capacității de concentrare în situații de presiune profesională.\n\n---\n\n## 🟢 Versiunea Informală\n*pentru un mesaj către un prieten*\n\n---\n\n**Bă, încearcă chestia asta când ești la pământ!** 😅\n\nSerios, m-a salvat de câteva ori: când simți că îți explodează capul de stres, încearcă să respiri așa — tragi aer 4 secunde, ții 7, dai drumul încet în 8. Știu, sună ciudat, dar funcționează fix când crezi că nu mai poți! Încearcă măcar o săptămână în fiecare dimineață și zi-mi dacă nu te simți mai calm. 🙏\n\n---\n\n### 📌 Ce diferențiază cele două versiuni?\n\n| Element | Formal | Informal |\n|---|---|---|\n| **Ton** | Neutru, obiectiv | Cald, personal |\n| **Surse** | Citate cercetări | Experiență proprie |\n| **Vocabular** | Tehnic, precis | Colocvial, natural |\n| **Structură** | Paragraf coerent | Mesaj spontan |\n| **Emoji** | Absente | Prezente |"
+  }
+}

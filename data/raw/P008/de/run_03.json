@@ -1,0 +1,17 @@
+{
+  "prompt_id": "P008",
+  "cluster": "LIFE_DECISIONS",
+  "language": "de",
+  "run": 3,
+  "prompt_text": "Welche Faktoren sollte eine Person sorgfältig abwägen, bevor sie in den Vierzigern einen bedeutenden Berufswechsel vornimmt?",
+  "collected_at": "2026-04-20T02:28:16.084290Z",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "stop_reason": "end_turn",
+    "usage": {
+      "input_tokens": 51,
+      "output_tokens": 619
+    },
+    "text": "# Faktoren beim Berufswechsel in den Vierzigern\n\n## Finanzielle Realitäten\n\n**Kurzfristig:**\n- Einkommensunterbrechung oder -reduzierung während der Übergangsphase\n- Kosten für Umschulung oder Weiterbildung\n- Notgroschen: Wie lange überbrückt man Engpässe?\n\n**Langfristig:**\n- Rentenansprüche und Altersvorsorge – Lücken durch Neuanfang\n- Gehaltsrealismus: Im neuen Feld oft wieder unten anfangen\n- Familienfinanzen und laufende Verpflichtungen\n\n---\n\n## Persönliche Motivation hinterfragen\n\nEs lohnt sich, ehrlich zu unterscheiden:\n- Fliehe ich *vor* etwas (Burnout, schlechtem Chef)?\n- Strebe ich *auf etwas zu* (echtes Interesse, Sinn)?\n\n> Ersteres lässt sich manchmal lösen, ohne den Beruf zu wechseln.\n\n---\n\n## Praktische Faktoren\n\n- **Übertragbare Kompetenzen:** Was nimmt man mit?\n- **Netzwerk:** Muss es komplett neu aufgebaut werden?\n- **Zeitinvestition:** Realistische Dauer bis zur Etablierung\n- **Gesundheit und Energie** für einen Neustart\n\n---\n\n## Soziales Umfeld\n\n- Familiäre Unterstützung oder Widerstand?\n- Auswirkungen auf Partner/Kinder\n- Eigene Identität: Wie stark ist man mit dem alten Beruf verknüpft?\n\n---\n\n## Was oft unterschätzt wird\n\n- Der Unterschied zwischen **Hobby und Beruf** – Leidenschaft unter Druck verändert sich\n- **Branchenrealitäten** kennen, nicht romantisieren\n- Probeweise testen: Nebenprojekte, Praktika, Gespräche mit Menschen im Zielfeld\n\n---\n\n## Mögliche Vorgehensweise\n\nEin strukturierter Ansatz könnte helfen:\n1. Informationsphase (6–12 Monate)\n2. Testphase nebenbei\n3. Dann bewusste Entscheidung\n\n---\n\nGibt es einen konkreten Wechsel, den Sie durchdenken möchten? Dann kann ich gezielter helfen."
+  }
+}

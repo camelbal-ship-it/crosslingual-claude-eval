@@ -1,0 +1,17 @@
+{
+  "prompt_id": "P008",
+  "cluster": "LIFE_DECISIONS",
+  "language": "en",
+  "run": 3,
+  "prompt_text": "What factors should a person weigh carefully before making a significant career change in their 40s?",
+  "collected_at": "2026-04-20T02:25:59.911795Z",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "stop_reason": "end_turn",
+    "usage": {
+      "input_tokens": 27,
+      "output_tokens": 327
+    },
+    "text": "This is a genuinely important decision worth thinking through carefully rather than just following motivational advice.\n\n## Practical Financial Considerations\n- Current savings and how long they'd sustain you during transition\n- Salary trajectory comparison - new field starting pay vs current earnings\n- Benefits implications, especially health insurance and retirement contributions\n- Family financial obligations and dependents\n\n## Realistic Assessment of the New Direction\n- Actual job market conditions, not just your enthusiasm for the field\n- Required credentials or retraining time and cost\n- Whether you've genuinely researched the work itself, not just an idealized version\n- Talk to people actually doing that job day-to-day\n\n## Honest Self-Evaluation\n- What specifically is driving the change - is it the career or other fixable problems?\n- Whether your skills genuinely transfer or need significant development\n- Your actual risk tolerance vs. what you tell yourself it is\n- Past pattern of follow-through on major commitments\n\n## Relational Factors\n- Partner/family buy-in and what sacrifices they'd share\n- Support network in the new field\n- Geographic flexibility requirements\n\n## Things Worth Questioning\n- \"Following your passion\" can be genuinely misleading advice\n- The grass-is-greener effect is real and well-documented\n- Mid-life dissatisfaction sometimes has other sources\n\nThe most underrated step is probably **informational interviews and side projects before committing** - testing assumptions before they're expensive.\n\nWhat specific change are you considering?"
+  }
+}

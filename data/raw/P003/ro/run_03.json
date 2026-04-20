@@ -1,0 +1,17 @@
+{
+  "prompt_id": "P003",
+  "cluster": "METALINGUISTIC",
+  "language": "ro",
+  "run": 3,
+  "prompt_text": "Care sunt avantajele cognitive și sociale ale vorbirii fluente a mai multor limbi?",
+  "collected_at": "2026-04-20T02:11:51.595220Z",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "stop_reason": "end_turn",
+    "usage": {
+      "input_tokens": 29,
+      "output_tokens": 507
+    },
+    "text": "# Avantajele bilingvismului și multilingvismului\n\n## Avantaje cognitive\n\n### Funcții executive\n- **Atenție selectivă** – gestionarea constantă a mai multor sisteme lingvistice antrenează controlul atenției\n- **Flexibilitate cognitivă** – trecerea între limbi dezvoltă capacitatea de a comuta între perspective sau sarcini\n- **Memoria de lucru** – stocarea și manipularea simultană a informațiilor din sisteme diferite\n\n### Gândire și rezolvare de probleme\n- Accesul la cadre conceptuale diferite pentru aceeași realitate\n- Tendința spre gândire mai abstractă și metacognitivă\n- Conștientizarea timpurie că limbajul este arbitrar, nu natural\n\n### Îmbătrânire cerebrală\n- Unele studii sugerează **întârzierea simptomelor demenței** cu câțiva ani *(dezbătut activ în literatură)*\n- Rezervă cognitivă mai bogată prin utilizarea diversificată a rețelelor neuronale\n\n---\n\n## Avantaje sociale și interpersonale\n\n- Acces direct la culturi diferite, fără filtrare prin traducere\n- Empatie și **perspectivism cultural** mai dezvoltate\n- Rețele sociale mai largi și diverse\n- Negociere interculturală mai eficientă\n\n---\n\n## Avantaje practice\n\n- Oportunități profesionale extinse\n- Mobilitate geografică mai mare\n- Înțelegerea mai ușoară a altor limbi înrudite\n\n---\n\n## O notă de onestitate intelectuală\n\nUnele beneficii cognitive, mai ales cele legate de demență, sunt **contestate metodologic** – efectele pot fi mai moderate decât se susținea inițial. Contează mult:\n- vârsta la care s-a învățat limba\n- frecvența utilizării\n- contextul social al folosirii\n\nVrei să aprofundăm un aspect anume?"
+  }
+}

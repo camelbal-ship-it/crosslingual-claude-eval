@@ -1,0 +1,17 @@
+{
+  "prompt_id": "P012",
+  "cluster": "AMBIGUOUS_REFERENT",
+  "language": "it",
+  "run": 1,
+  "prompt_text": "Hanno detto che sarebbe meglio se non venissimo. Cosa dovremmo fare?",
+  "collected_at": "2026-04-20T02:38:01.075176Z",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "stop_reason": "end_turn",
+    "usage": {
+      "input_tokens": 29,
+      "output_tokens": 255
+    },
+    "text": "È una situazione che dipende molto dal **contesto**. Potresti darmi qualche dettaglio in più?\n\nAd esempio:\n- **Chi** l'ha detto?\n- **Dove** o **a cosa** non dovreste venire?\n- Come mai hanno detto così?\n\nIn generale, alcune considerazioni:\n\n**Se rispettare la richiesta ha senso:**\n- A volte è una questione pratica (spazio, organizzazione)\n- Rispettare il desiderio altrui può essere la scelta più matura\n\n**Se la situazione ti sembra ingiusta:**\n- Vale la pena **chiedere chiarimenti** direttamente\n- Capire se c'è un malinteso da risolvere\n\n**Se riguarda qualcosa di importante per voi:**\n- Potete esprimere il vostro punto di vista con calma\n- Valutare se la relazione/situazione merita un confronto aperto\n\nRaccontami di più e posso aiutarti meglio! 😊"
+  }
+}

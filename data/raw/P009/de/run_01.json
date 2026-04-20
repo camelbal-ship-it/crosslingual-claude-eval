@@ -1,0 +1,17 @@
+{
+  "prompt_id": "P009",
+  "cluster": "FACTUAL_RECALL",
+  "language": "de",
+  "run": 1,
+  "prompt_text": "Wie groß ist die ungefähre Weltbevölkerung heute?",
+  "collected_at": "2026-04-20T02:29:23.046048Z",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "stop_reason": "end_turn",
+    "usage": {
+      "input_tokens": 26,
+      "output_tokens": 98
+    },
+    "text": "Die Weltbevölkerung beträgt heute (2024/2025) ungefähr **8,1 bis 8,2 Milliarden Menschen**.\n\nDie 8-Milliarden-Marke wurde im November 2022 überschritten. Die Bevölkerung wächst weiterhin, allerdings mit leicht abnehmender Wachstumsrate."
+  }
+}

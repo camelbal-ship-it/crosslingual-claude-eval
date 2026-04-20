@@ -1,0 +1,17 @@
+{
+  "prompt_id": "P011",
+  "cluster": "REGISTER_SWITCHING",
+  "language": "en",
+  "run": 2,
+  "prompt_text": "Write the same piece of advice about managing stress in two versions: one formal, suitable for a professional publication, and one informal, suitable for a text message to a friend.",
+  "collected_at": "2026-04-20T02:32:56.952254Z",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "stop_reason": "end_turn",
+    "usage": {
+      "input_tokens": 42,
+      "output_tokens": 294
+    },
+    "text": "# Two Versions of Stress Management Advice\n\n---\n\n## Formal Version\n*(Suitable for a professional publication)*\n\n**Prioritizing Recovery Time as a Stress Management Strategy**\n\nResearch consistently demonstrates that deliberate periods of rest and disengagement from work-related demands are essential for sustained cognitive performance and emotional resilience. Professionals experiencing elevated stress levels are advised to schedule brief, intentional breaks throughout the workday — ideally every 90 minutes — during which they fully disengage from occupational tasks. This practice allows the nervous system to regulate effectively, reducing cortisol levels and restoring attentional capacity. Treating recovery time not as a luxury but as a professional necessity is fundamental to long-term wellbeing and productivity.\n\n---\n\n## Informal Version\n*(Suitable for a text message)*\n\nhey honestly the best thing i did for my stress was just actually letting myself take breaks — like REAL ones, not just scrolling while still thinking about work lol. every hour or so just step away for a few mins. sounds small but it genuinely helps 😭 try it this week and see!!\n\n---\n\n## What Stayed the Same\nBoth versions share the **same core advice:** take regular, genuine breaks to manage stress effectively. The difference is entirely in **tone, vocabulary, structure, and context** — not in the underlying message."
+  }
+}

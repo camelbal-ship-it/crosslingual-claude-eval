@@ -1,0 +1,17 @@
+{
+  "prompt_id": "P003",
+  "cluster": "METALINGUISTIC",
+  "language": "de",
+  "run": 2,
+  "prompt_text": "Welche kognitiven und sozialen Vorteile hat es, mehrere Sprachen fließend zu sprechen?",
+  "collected_at": "2026-04-20T02:12:47.082592Z",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "stop_reason": "end_turn",
+    "usage": {
+      "input_tokens": 36,
+      "output_tokens": 603
+    },
+    "text": "# Vorteile der Mehrsprachigkeit\n\n## Kognitive Vorteile\n\n### Gut belegte Effekte\n- **Exekutive Funktionen** – Mehrsprachige trainieren ständig, zwischen Sprachen zu wechseln und Interferenzen zu unterdrücken, was Aufmerksamkeitskontrolle und mentale Flexibilität stärkt\n- **Metalinguistisches Bewusstsein** – Bewussteres Verständnis von Sprache als System, was das Lernen weiterer Sprachen erleichtert\n- **Kognitiver Reserve** – Manche Studien deuten auf verzögerten Ausbruch von Demenzerkrankungen hin (ca. 4–5 Jahre)\n\n### Kritisch zu betrachtende Behauptungen\n- Der sogenannte **\"Bilingual Advantage\"** (bessere Kognition generell) wird wissenschaftlich kontrovers diskutiert\n- Reproduktionsprobleme bei Studien mahnen zur Vorsicht vor Übertreibungen\n- Effekte hängen stark von **Intensität und Kontext** der Mehrsprachigkeit ab\n\n---\n\n## Soziale und praktische Vorteile\n\n- **Kulturelles Verständnis** – Sprache transportiert Denkmuster, Humor, Werte; direkterer Zugang zu anderen Perspektiven\n- **Empathiefähigkeit** – möglicherweise erhöhte Fähigkeit, Standpunkte zu wechseln\n- **Berufliche Chancen** – nachweislich bessere Karrieremöglichkeiten in globalisierten Arbeitsmärkten\n- **Soziale Netzwerke** – Zugang zu größeren und diverseren Gemeinschaften\n- **Verhandlungsvorteile** – In der eigenen Sprache verhandeln zu lassen ist ein realer Vorteil\n\n---\n\n## Wichtige Einschränkungen\n\n> Viele Studien haben Methodik-Probleme: kleine Stichproben, Publikationsbias, schwierige Operationalisierung von \"Mehrsprachigkeit\"\n\nDie Vorteile sind **real, aber kontextabhängig** – und nicht jeder Mehrsprachige profitiert gleichmäßig.\n\n---\n\nWas interessiert dich besonders – Erwerb, Kognition oder gesellschaftliche Aspekte?"
+  }
+}

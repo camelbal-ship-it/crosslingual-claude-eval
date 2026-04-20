@@ -1,0 +1,17 @@
+{
+  "prompt_id": "P010",
+  "cluster": "IMPLICIT_CULTURAL_KNOWLEDGE",
+  "language": "es",
+  "run": 1,
+  "prompt_text": "¿Cuáles son algunas formas significativas de honrar a un familiar anciano que ha fallecido?",
+  "collected_at": "2026-04-20T02:31:14.073145Z",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "stop_reason": "end_turn",
+    "usage": {
+      "input_tokens": 35,
+      "output_tokens": 362
+    },
+    "text": "# Formas de honrar a un familiar anciano fallecido\n\nAquí hay algunas maneras significativas, organizadas por tipo:\n\n## Memoriales y recuerdos\n- Crear un álbum fotográfico o video con momentos importantes de su vida\n- Escribir su historia de vida o memorias familiares\n- Conservar objetos personales con valor sentimental\n- Plantar un árbol o jardín en su memoria\n\n## Tradiciones y legado\n- Continuar prácticas o recetas que les eran especiales\n- Compartir sus historias con las generaciones más jóvenes\n- Celebrar su cumpleaños reuniendo a la familia\n- Mantener vivas sus enseñanzas o valores\n\n## Acciones comunitarias\n- Donar a una causa que les importaba\n- Hacer voluntariado en su nombre\n- Crear una beca o reconocimiento si es posible\n\n## Rituales según la cultura o fe\n- Visitar su tumba en fechas especiales\n- Realizar ceremonias religiosas o espirituales que correspondan a sus creencias\n- Encender una vela en su memoria\n\n## Lo más personal\n- **Hablar de ellos** con naturalidad en conversaciones familiares\n- **Vivir valores** que ellos transmitieron\n- Simplemente recordarlos con gratitud\n\n---\n\n¿Hay algún aspecto específico —cultural, religioso o práctico— sobre el que quieras profundizar más?"
+  }
+}

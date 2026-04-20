@@ -1,0 +1,17 @@
+{
+  "prompt_id": "P005",
+  "cluster": "TECHNICAL_EXPLANATION",
+  "language": "de",
+  "run": 3,
+  "prompt_text": "Erklären Sie, wie ein neuronales Netz aus Daten lernt, als würden Sie mit einem gebildeten Nicht-Fachmann sprechen.",
+  "collected_at": "2026-04-20T02:19:42.556869Z",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "stop_reason": "max_tokens",
+    "usage": {
+      "input_tokens": 47,
+      "output_tokens": 1024
+    },
+    "text": "# Wie ein neuronales Netz aus Daten lernt\n\n## Die Grundidee: Lernen durch Wiederholung und Korrektur\n\nStellen Sie sich vor, Sie lernen Dartwerfen. Beim ersten Wurf treffen Sie daneben. Sie *sehen* das Ergebnis, *korrigieren* Ihre Haltung, und versuchen es erneut. Nach tausend Würfen treffen Sie zuverlässig die Mitte. Genau so lernt ein neuronales Netz – nur systematischer.\n\n---\n\n## Der Aufbau: Was ist dieses „Netz\" überhaupt?\n\nEin neuronales Netz besteht aus **Schichten von Knoten**, die lose dem menschlichen Gehirn nachempfunden sind.\n\n```\nEingabe      Versteckte Schichten      Ausgabe\n  [Bild]  →  [●●●] → [●●●●] → [●●]  →  \"Katze\"\n```\n\nJede **Verbindung zwischen Knoten** hat ein sogenanntes **Gewicht** – eine Zahl, die angibt, *wie stark* ein Signal weitergeleitet wird. Diese Gewichte sind das eigentliche Gedächtnis des Netzes. Am Anfang sind sie zufällig gesetzt – das Netz \"weiß\" noch nichts.\n\n---\n\n## Der Lernvorgang in drei Schritten\n\n### Schritt 1: Vorwärtsdurchlauf – eine Vermutung anstellen\n\nDas Netz bekommt eine Eingabe, zum Beispiel ein Bild. Das Signal wandert von Schicht zu Schicht, wird durch die Gewichte verstärkt oder abgeschwächt, und am Ende steht eine **Vorhersage**: *\"Das ist zu 73% eine Katze, zu 27% ein Hund.\"*\n\n### Schritt 2: Den Fehler messen\n\nJetzt wird die Vorhersage mit der **richtigen Antwort** verglichen (die beim Training bekannt ist). Die Abweichung nennt man **Verlust** oder Loss. \n\n> War es tatsächlich eine Katze? Dann war der Fehler gering.  \n> War es ein Hund? Dann war der Fehler groß.\n\nMan kann sich den Fehler wie eine **Landschaft aus Bergen und Tälern** vorstellen. Das Ziel ist, das tiefste Tal zu finden – also den kleinsten möglichen Fehler.\n\n### Schritt 3: Rückwärtsdurchlauf – die Gewichte anpassen\n\nJetzt passiert das Entscheidende. Ein Verfahren namens **Backpropagation** (Rückwärtspropagierung) berechnet, welche Gewichte im Netz am meisten zum Fehler beigetragen haben. \n\nAnschließend werden alle Gewichte ein **kleines Stück** in die richtige Richtung verschoben. Wie klein? Das bestimmt die sogenannte **Lernrate** – zu groß, und man springt über das Tal hinweg; zu klein, und man kommt nie an.\n\n---\n\n## Die entscheidende Zutat: Millionen von Wiederholungen\n\nDieser Dreischritt – **Vorhersagen → Fehler messen → Korrigieren** – wird nicht hundert-, sondern **millionen- oder milliardenfach** wiederholt, mit vielen verschiedenen Beispielen.\n\n```\nIteration 1:    \"Das ist eine Katze\"  → 34% richtig\nIteration 1000: \"Das ist eine Katze\"  → 71% richtig  \nIteration 100000: \"Das ist eine Katze\" → 96% richtig\n```\n\nDas Netz verbessert sich nicht, weil jemand ihm *erklärt*, was eine Katze ist. Es lernt durch **statistische Muster**: Katzen haben spitze Ohren, eine bestimmte Fellstruktur, Schnurrhaare – das Netz"
+  }
+}

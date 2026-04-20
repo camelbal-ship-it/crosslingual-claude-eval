@@ -1,0 +1,17 @@
+{
+  "prompt_id": "P008",
+  "cluster": "LIFE_DECISIONS",
+  "language": "it",
+  "run": 2,
+  "prompt_text": "Quali fattori dovrebbe ponderare attentamente una persona prima di effettuare un cambiamento di carriera significativo nella quarantina?",
+  "collected_at": "2026-04-20T02:27:28.122323Z",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "stop_reason": "end_turn",
+    "usage": {
+      "input_tokens": 42,
+      "output_tokens": 409
+    },
+    "text": "È una domanda che merita riflessione seria, non risposte rassicuranti preconfezionate.\n\n## Fattori genuinamente importanti\n\n**Situazione finanziaria reale**\n- Quanto tempo puoi sostenere una riduzione di reddito?\n- Hai dipendenti economici (figli, genitori)?\n- I debiti esistenti sono gestibili durante una transizione?\n\n**Motivazione onesta**\n- Stai fuggendo da qualcosa o andando verso qualcosa?\n- Il problema è la carriera o il contesto specifico (azienda, capo, periodo)?\n- Hai già provato cambiamenti più piccoli?\n\n**Trasferibilità reale delle competenze**\n- Cosa porti effettivamente nel nuovo campo?\n- Quanto gap formativo esiste e quanto tempo/costo richiede?\n\n**Fattori spesso sottovalutati**\n- L'identità professionale può essere più radicata di quanto si pensi\n- Il network spesso non si trasferisce quanto si spera\n- La curva di apprendimento può essere frustrante per chi era esperto\n\n## Alcune tensioni da non ignorare\n\nIl discorso \"non è mai troppo tardi\" è vero, ma **non è automaticamente saggio** - dipende dalle circostanze specifiche.\n\nAl contrario, \"la stabilità prima di tutto\" può nascondere la paura di cambiare.\n\n## Una domanda utile\n\nPrima di decidere: hai parlato con persone che hanno fatto quel percorso 5-10 anni fa? Non solo le storie di successo.\n\nCosa ti sta spingendo a considerare questo cambiamento?"
+  }
+}

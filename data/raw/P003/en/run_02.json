@@ -1,0 +1,17 @@
+{
+  "prompt_id": "P003",
+  "cluster": "METALINGUISTIC",
+  "language": "en",
+  "run": 2,
+  "prompt_text": "What are the cognitive and social advantages of speaking multiple languages fluently?",
+  "collected_at": "2026-04-20T02:10:50.255291Z",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "stop_reason": "end_turn",
+    "usage": {
+      "input_tokens": 21,
+      "output_tokens": 315
+    },
+    "text": "# Cognitive and Social Advantages of Multilingualism\n\n## Cognitive Benefits\n\n### Executive Function\n- **Enhanced cognitive control** - managing competing mental processes more efficiently\n- **Better task-switching** ability from constantly managing multiple language systems\n- **Improved inhibitory control** - suppressing irrelevant information more effectively\n\n### Memory and Attention\n- Working memory improvements, particularly in verbal tasks\n- Greater selective attention capacity\n- Some research suggests **delayed onset of dementia symptoms** (though effect size is debated)\n\n### Mental Flexibility\n- Stronger metalinguistic awareness - thinking analytically about language itself\n- More flexible problem-solving approaches\n- Reduced susceptibility to certain cognitive biases tied to specific linguistic framing\n\n## Social and Practical Benefits\n\n### Interpersonal Advantages\n- Access to more authentic relationships across cultural boundaries\n- Better perspective-taking from navigating different cultural frameworks\n- Reduced in-group bias in some studies\n\n### Professional and Economic\n- Expanded career opportunities\n- Higher earning potential in many fields\n- Greater adaptability in international environments\n\n## Important Caveats Worth Noting\n\n- The \"bilingual advantage\" research has faced **significant replication challenges**\n- Benefits likely vary considerably by individual, context, and language pairs\n- Some studies show **negligible cognitive differences** in controlled settings\n- Social advantages are more consistently demonstrated than cognitive ones\n\nThe honest picture is promising but more nuanced than popular accounts suggest."
+  }
+}

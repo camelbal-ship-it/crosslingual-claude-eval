@@ -1,0 +1,17 @@
+{
+  "prompt_id": "P002",
+  "cluster": "LEADERSHIP_CULTURE",
+  "language": "ro",
+  "run": 3,
+  "prompt_text": "Care sunt cele mai importante calități ale unui lider eficient?",
+  "collected_at": "2026-04-20T02:09:41.046621Z",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "stop_reason": "end_turn",
+    "usage": {
+      "input_tokens": 21,
+      "output_tokens": 427
+    },
+    "text": "# Calitățile unui lider eficient\n\n## Calități fundamentale\n\n**Integritate și autenticitate**\n- Consecvență între vorbe și fapte\n- Onestitate chiar și când e incomod\n- Construiește încredere reală\n\n**Inteligență emoțională**\n- Conștientizare de sine\n- Empatie față de oameni\n- Gestionarea conflictelor cu maturitate\n\n**Viziune clară**\n- Capacitatea de a vedea imaginea de ansamblu\n- Comunicarea direcției într-un mod inspirațional\n\n---\n\n## Calități practice\n\n| Calitate | De ce contează |\n|----------|---------------|\n| Comunicare clară | Oamenii știu ce se așteaptă de la ei |\n| Capacitate de decizie | Evită paralizia organizațională |\n| Delegare eficientă | Dezvoltă echipa, nu o sufocă |\n| Adaptabilitate | Lumea se schimbă rapid |\n\n---\n\n## Ce separă liderii buni de cei mediocri\n\n- **Ascultă** mai mult decât vorbesc\n- **Recunosc greșelile** în loc să le ascundă\n- **Dezvoltă alți lideri**, nu dependențe\n- **Servesc echipa**, nu invers\n\n---\n\n## O perspectivă critică\n\nMerită menționat că **nu există un profil universal** — contextul contează enorm. Un lider bun într-o criză poate fi diferit față de unul potrivit pentru inovație pe termen lung.\n\n---\n\nCe context te interesează mai mult — leadership în business, politică, echipe mici?"
+  }
+}

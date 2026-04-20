@@ -1,0 +1,17 @@
+{
+  "prompt_id": "P002",
+  "cluster": "LEADERSHIP_CULTURE",
+  "language": "es",
+  "run": 2,
+  "prompt_text": "¿Cuáles son las cualidades más importantes de un líder eficaz?",
+  "collected_at": "2026-04-20T02:09:50.372073Z",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "stop_reason": "end_turn",
+    "usage": {
+      "input_tokens": 28,
+      "output_tokens": 384
+    },
+    "text": "# Cualidades de un líder eficaz\n\nEs una pregunta con muchas perspectivas válidas. Te presento las más respaldadas:\n\n## Fundamentales\n- **Comunicación clara** — saber transmitir ideas *y* escuchar activamente\n- **Integridad** — coherencia entre lo que dice y hace\n- **Visión** — capacidad de ver más allá del presente y orientar al equipo\n\n## Habilidades relacionales\n- Empatía genuina, no performativa\n- Capacidad de generar confianza\n- Saber delegar (no necesitar controlarlo todo)\n\n## Capacidades prácticas\n- Tomar decisiones con información incompleta\n- Adaptarse a contextos cambiantes\n- Reconocer errores propios\n\n## Lo que suele subestimarse\n- **Saber cuándo no hablar** — dar espacio a los demás\n- **Autoconocimiento** — conocer sus propios límites y sesgos\n- **Consistencia** — en el trato cotidiano, no solo en momentos grandes\n\n---\n\n## Un punto para reflexionar\n\nHay cierto debate sobre si el liderazgo es principalmente **un conjunto de habilidades** (se aprende) o **un asunto de carácter** (más profundo).\n\nLa mayoría de evidencia sugiere que **ambas cosas importan**, pero el carácter es más difícil de cambiar.\n\n¿Te interesa algún contexto específico —liderazgo empresarial, político, comunitario? Puedo profundizar."
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "prompt_id": "P003",
+  "cluster": "METALINGUISTIC",
+  "language": "fr",
+  "run": 3,
+  "prompt_text": "Quels sont les avantages cognitifs et sociaux de parler plusieurs langues couramment ?",
+  "collected_at": "2026-04-20T02:11:23.870673Z",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "stop_reason": "end_turn",
+    "usage": {
+      "input_tokens": 30,
+      "output_tokens": 486
+    },
+    "text": "# Les avantages du multilinguisme\n\n## Bénéfices cognitifs\n\n### Flexibilité mentale\n- **Commutation cognitive** : alterner entre langues entraîne la capacité à changer de perspective rapidement\n- **Attention sélective** accrue — filtrer les informations non pertinentes plus efficacement\n- Meilleure **résolution de problèmes** par l'accès à différents cadres conceptuels\n\n### Mémoire et traitement\n- Renforcement de la **mémoire de travail** (gestion simultanée de plusieurs systèmes grammaticaux)\n- Vocabulaire élargi qui affine la **pensée nuancée**\n- Certaines études suggèrent un **retard de l'apparition des symptômes** de démence de quelques années\n\n### Métacognition\n- Conscience plus aiguë du **fonctionnement du langage lui-même**\n- Capacité à détecter l'**ambiguïté** et les implicites culturels\n\n---\n\n## Bénéfices sociaux\n\n### Relations interpersonnelles\n- Accès direct à d'autres **cultures et visions du monde**\n- Création de liens plus authentiques avec des locuteurs natifs\n- Empathie renforcée par la compréhension de **référentiels différents**\n\n### Opportunités professionnelles\n- Mobilité accrue sur le marché du travail\n- Meilleure communication dans des équipes internationales\n\n---\n\n## Nuances importantes à considérer\n\n> Certains bénéfices cognitifs sont **débattus scientifiquement** — notamment l'effet sur la démence, dont les études donnent des résultats contradictoires.\n\nLe niveau de maîtrise, l'âge d'acquisition et la fréquence d'utilisation influencent significativement l'ampleur des avantages réels.\n\n---\n\nVous intéresse-t-il d'approfondir un aspect particulier ?"
+  }
+}

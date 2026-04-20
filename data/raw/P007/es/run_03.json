@@ -1,0 +1,17 @@
+{
+  "prompt_id": "P007",
+  "cluster": "CREATIVE_NARRATIVE",
+  "language": "es",
+  "run": 3,
+  "prompt_text": "Escriba un párrafo breve (5–7 oraciones) que describa una tarde lluviosa en una ciudad.",
+  "collected_at": "2026-04-20T02:25:01.526662Z",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "stop_reason": "end_turn",
+    "usage": {
+      "input_tokens": 36,
+      "output_tokens": 275
+    },
+    "text": "# Una tarde lluviosa en la ciudad\n\nEl cielo se cubrió de nubes grises a media tarde, como si alguien hubiera extendido una manta oscura sobre la ciudad. Las primeras gotas comenzaron a golpear el asfalto con timidez, hasta que la lluvia se convirtió en un aguacero persistente. Los transeúntes corrieron a refugiarse bajo los aleros de las tiendas, sosteniendo periódicos sobre sus cabezas o luchando contra el viento con paraguas rebeldes. Las calles se transformaron en pequeños ríos que reflejaban las luces de los semáforos en destellos rojos, amarillos y verdes. El ruido del tráfico quedó amortiguado por el repiqueteo constante de la lluvia sobre los techos de metal. Un olor a tierra húmeda y concreto mojado se mezcló con el vapor que ascendía de las alcantarillas. La ciudad entera parecía respirar más despacio, como si la lluvia le hubiera pedido que, por una vez, se tomara un momento de descanso."
+  }
+}

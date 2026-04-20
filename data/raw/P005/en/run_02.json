@@ -1,0 +1,17 @@
+{
+  "prompt_id": "P005",
+  "cluster": "TECHNICAL_EXPLANATION",
+  "language": "en",
+  "run": 2,
+  "prompt_text": "Explain how a neural network learns from data, as if speaking to an educated non-specialist.",
+  "collected_at": "2026-04-20T02:15:27.497564Z",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "stop_reason": "end_turn",
+    "usage": {
+      "input_tokens": 27,
+      "output_tokens": 602
+    },
+    "text": "## How a Neural Network Learns\n\nThink of it as a system that gets better through **structured trial and error**.\n\n---\n\n### The Basic Setup\n\nA neural network is essentially a large chain of mathematical operations. You feed in some input — say, a photo — and numbers flow through layers of interconnected nodes, getting multiplied and transformed at each step, until you get an output, like \"this is a cat.\"\n\nEach connection between nodes has a **weight** — a number controlling how much influence one node has on the next. Learning, fundamentally, is just *finding the right weights*.\n\n---\n\n### The Learning Loop\n\n**1. Make a prediction**\nThe network takes a training example and produces its best current guess, initially based on random weights.\n\n**2. Measure how wrong it was**\nA **loss function** calculates the gap between the guess and the correct answer. Think of this as a score for wrongness — you want to minimize it.\n\n**3. Figure out who's responsible**\nThis is the clever part, called **backpropagation**. The network works backwards through its layers, calculating how much each weight *contributed* to the error. It's essentially asking: \"if I had nudged this weight slightly, would the error have gotten better or worse?\"\n\n**4. Adjust the weights**\nUsing those calculations, every weight gets adjusted slightly in the direction that would reduce the error. This is called **gradient descent** — imagine rolling a ball downhill to find the lowest point in an error landscape.\n\n**5. Repeat thousands of times**\nThis loop runs across thousands or millions of examples. Each pass makes the weights a little better calibrated.\n\n---\n\n### A Useful Analogy\n\nImagine learning to throw darts blindfolded. Someone tells you after each throw whether you were high/low, left/right. You can't see the board, but with enough feedback and small adjustments, your throws gradually converge on the bullseye. The network is doing something mathematically similar — using error signals to guide incremental corrections.\n\n---\n\n### What Can Go Wrong\n\n- **Overfitting** — the network memorizes training examples rather than learning general patterns, like a student who memorizes past exams but can't answer new questions\n- **Underfitting** — the network is too simple to capture real patterns\n- **Getting stuck** — gradient descent can settle into a local minimum that isn't actually the best solution\n\n---\n\n### The Important Caveat\n\nThe network doesn't *understand* anything in a meaningful sense. It finds statistical patterns that minimize prediction error. This is powerful but also brittle — it can fail badly on situations that differ from its training data in ways a human would find trivial.\n\nThe learning is real. The comprehension isn't."
+  }
+}

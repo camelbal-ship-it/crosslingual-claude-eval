@@ -1,0 +1,17 @@
+{
+  "prompt_id": "P003",
+  "cluster": "METALINGUISTIC",
+  "language": "en",
+  "run": 3,
+  "prompt_text": "What are the cognitive and social advantages of speaking multiple languages fluently?",
+  "collected_at": "2026-04-20T02:10:59.867811Z",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "stop_reason": "end_turn",
+    "usage": {
+      "input_tokens": 21,
+      "output_tokens": 329
+    },
+    "text": "# Cognitive and Social Advantages of Multilingualism\n\n## Cognitive Benefits\n\n### Executive Function\n- **Enhanced attention control** - switching between languages requires managing competing systems\n- **Improved inhibitory control** - suppressing one language while using another strengthens this capacity\n- **Better task-switching ability** - documented across multiple studies\n\n### Mental Flexibility\n- Access to different conceptual frameworks that languages encode differently\n- Some evidence of more nuanced thinking about categories and concepts\n- Potentially greater comfort with ambiguity\n\n### Memory Effects\n- Working memory appears strengthened through regular language management\n- **Worth noting:** some claimed memory benefits are contested in recent research\n\n### Alzheimer's/Dementia\n- Some studies suggest delayed symptom onset (roughly 4-5 years in some research)\n- **Significant caveat:** this research is genuinely debated - publication bias may inflate findings\n\n## Social Advantages\n\n- Direct communication with broader populations\n- Deeper cultural understanding beyond surface-level interaction\n- Greater employment opportunities globally\n- Reduced reliance on translation, which always involves interpretation\n- Often builds rapport and trust with native speakers\n\n## Important Honest Caveats\n\n- The \"bilingual advantage\" has faced **serious replication challenges** in recent years\n- Effect sizes are often smaller than popular accounts suggest\n- Benefits likely depend on **how actively** languages are used\n- Individual variation is substantial\n\nThe social benefits tend to be more consistently demonstrated than the cognitive ones.\n\nWhat specific aspect interests you most?"
+  }
+}

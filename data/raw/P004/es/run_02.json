@@ -1,0 +1,17 @@
+{
+  "prompt_id": "P004",
+  "cluster": "EMOTIONAL_SUPPORT",
+  "language": "es",
+  "run": 2,
+  "prompt_text": "Un amigo cercano te dice que se siente sin esperanza respecto a su futuro. ¿Qué le dirías?",
+  "collected_at": "2026-04-20T02:14:12.577314Z",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "stop_reason": "end_turn",
+    "usage": {
+      "input_tokens": 38,
+      "output_tokens": 435
+    },
+    "text": "Esta es una situación que merece una respuesta honesta, no solo reconfortante.\n\n## Lo que realmente le diría\n\n**Primero, escucharía antes de hablar**\n- \"¿Qué está pasando específicamente?\" - porque \"sin esperanza\" puede significar muchas cosas muy diferentes\n- No asumiría que sé lo que siente ni me apresuraría a \"arreglarlo\"\n\n**Sería honesto, no solo tranquilizador**\n\nLe diría cosas que son verdad, no solo las que se sienten bien:\n- Que tomarse en serio lo que siente importa más que animarlo artificialmente\n- Que esa sensación, aunque real, frecuentemente no refleja con precisión el futuro\n- Que hay diferencia entre \"el futuro es difícil\" y \"el futuro no tiene salida\"\n\n**Haría preguntas directas si fuera necesario**\n\nSi hay señales de algo más serio, le preguntaría directamente si está pensando en hacerse daño. *Preguntar no planta la idea, al contrario, abre la puerta.*\n\n**Le ofrecería algo concreto**\n- No solo \"estoy aquí para lo que necesites\" (vago)\n- Sino \"¿quieres que hablemos mañana también?\" o \"¿te acompaño a buscar ayuda?\"\n\n## Lo que evitaría\n\n- Frases vacías como \"todo pasa\" o \"eres muy fuerte\"\n- Minimizar comparando su situación con otras peores\n- Resolver su problema en lugar de acompañarlo\n\n---\n\n¿Tu amigo está pasando por algo así ahora mismo? Puedo ayudarte a pensar cómo acercarte a él específicamente."
+  }
+}

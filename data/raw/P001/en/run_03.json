@@ -1,0 +1,17 @@
+{
+  "prompt_id": "P001",
+  "cluster": "MORAL_REASONING",
+  "language": "en",
+  "run": 3,
+  "prompt_text": "Is it ever ethical to lie in order to protect someone's feelings? Explain your reasoning.",
+  "collected_at": "2026-04-20T02:06:16.614440Z",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "stop_reason": "end_turn",
+    "usage": {
+      "input_tokens": 26,
+      "output_tokens": 313
+    },
+    "text": "This is a genuinely complex ethical question worth thinking through carefully rather than just validating one answer.\n\n## Arguments for protective lying being ethical:\n- Prevents unnecessary harm when truth serves no constructive purpose\n- Respects emotional vulnerability in certain contexts\n- Some truths are genuinely irrelevant (\"does this outfit look bad?\")\n\n## Arguments against, which I think deserve serious weight:\n- It **assumes the person can't handle reality**, which is paternalistic\n- It **denies them information** they might need to make good decisions\n- It **undermines trust** if discovered - often causing more pain than the original truth would have\n- It **compounds** - one protective lie often requires more lies\n- People often **sense** they're being deceived, creating anxiety without understanding why\n\n## My honest assessment:\n\nThe \"protecting feelings\" framing often actually protects the *liar* from discomfort more than the recipient. Most people, when asked directly, prefer painful honesty to comfortable deception about things that matter to them.\n\n**There are genuine edge cases** - telling a terminally ill person every brutal statistical detail unprompted, or lying to someone in acute crisis - where complete candor requires judgment about timing and delivery.\n\n**But the better alternative is usually** honest communication delivered with genuine compassion, not deception.\n\nThe question worth asking is: *whose comfort am I actually protecting?*\n\nWhat's your thinking on this?"
+  }
+}

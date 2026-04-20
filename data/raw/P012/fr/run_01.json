@@ -1,0 +1,17 @@
+{
+  "prompt_id": "P012",
+  "cluster": "AMBIGUOUS_REFERENT",
+  "language": "fr",
+  "run": 1,
+  "prompt_text": "Ils ont dit que ce serait mieux si nous ne venions pas. Que devrions-nous faire ?",
+  "collected_at": "2026-04-20T02:36:47.270493Z",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "stop_reason": "end_turn",
+    "usage": {
+      "input_tokens": 33,
+      "output_tokens": 324
+    },
+    "text": "C'est une situation délicate. Voici quelques réflexions pour vous aider à décider :\n\n## Questions à se poser d'abord\n\n- **Qui** a dit cela, et dans quel contexte ?\n- S'agit-il d'une suggestion polie ou d'un message clair ?\n- Y a-t-il une raison expliquée ou sous-entendue ?\n\n## Options possibles\n\n**Respecter leur souhait**\n- C'est souvent la décision la plus sage\n- Cela montre du respect pour leurs limites\n- Évite une situation inconfortable pour tous\n\n**Chercher à comprendre**\n- Demander poliment des éclaircissements\n- Peut-être y a-t-il un malentendu à résoudre\n\n**Proposer une alternative**\n- Se voir dans un autre contexte\n- Reporter à un moment plus approprié\n\n## En général\n\nSi quelqu'un exprime qu'il serait *mieux* que vous ne veniez pas, **respecter ce choix** est généralement la meilleure approche, même si c'est difficile.\n\n---\n\nPourriez-vous me donner **plus de contexte** ? (famille, travail, événement social...) Je pourrai vous donner un conseil plus adapté à votre situation. 😊"
+  }
+}

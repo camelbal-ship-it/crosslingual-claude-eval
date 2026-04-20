@@ -1,0 +1,17 @@
+{
+  "prompt_id": "P005",
+  "cluster": "TECHNICAL_EXPLANATION",
+  "language": "ro",
+  "run": 2,
+  "prompt_text": "Explicați cum învață o rețea neuronală din date, ca și cum v-ați adresa unui nespecialist instruit.",
+  "collected_at": "2026-04-20T02:17:00.005558Z",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "stop_reason": "max_tokens",
+    "usage": {
+      "input_tokens": 40,
+      "output_tokens": 1024
+    },
+    "text": "# Cum Învață o Rețea Neuronală\n\n## Analogia de pornire\n\nGândiți-vă cum ați învățat să estimați greutatea unui obiect ridicându-l în mână. La început greșeați. Cineva vă corecta. Treptat, mâna dumneavoastră „a calibrat\" senzațiile. Rețeaua neuronală face ceva remarcabil de similar — dar cu numere.\n\n---\n\n## Structura de bază\n\nO rețea neuronală este, în esență, **un lanț de transformări matematice**.\n\n```\nDATE DE INTRARE → [straturi de neuroni] → PREDICȚIE\n```\n\nFiecare neuron artificial este simplu:\n- primește câteva numere\n- le înmulțește cu niște **ponderi** (weights)\n- produce un număr de ieșire\n\nPonderile sunt *tot ce contează* — ele reprezintă ceea ce rețeaua „știe\".\n\n---\n\n## Procesul de învățare în 4 pași\n\n### 1. Pasul înainte *(forward pass)*\nRețeaua primește un exemplu — să zicem, o imagine cu un câine — și produce o predicție: *„Sunt 30% sigur că e un câine.\"*\n\nLa început, ponderile sunt **aleatoare**, deci predicția este aproape sigur greșită.\n\n### 2. Măsurarea erorii *(loss)*\nSe calculează **cât de mult a greșit** rețeaua.\n\n> Răspuns corect: câine (100%) | Predicția rețelei: 30% | Eroarea: mare\n\nAceastă eroare este un singur număr — cu cât e mai mare, cu atât rețeaua e mai departe de adevăr.\n\n### 3. Pasul înapoi *(backpropagation)*\nAcesta este momentul-cheie, adesea înțeles greșit.\n\nAlgoritmul parcurge rețeaua **în sens invers** și răspunde la întrebarea:\n\n> *„Fiecare pondere, în ce măsură a contribuit la eroare?\"*\n\nTehnic, se calculează **derivate parțiale** — dar intuitiv, este ca și cum ai întreba: *„Dacă aș fi schimbat puțin această pondere, eroarea ar fi crescut sau ar fi scăzut?\"*\n\n### 4. Ajustarea ponderilor *(gradient descent)*\nFiecare pondere se modifică **puțin** în direcția care reduce eroarea.\n\n```\npondere nouă = pondere veche − (pas mic × contribuția la eroare)\n```\n\nPasul mic se numește **rată de învățare** — prea mare, și rețeaua „sare\" peste soluție; prea mic, și învață extrem de lent.\n\n---\n\n## Repetarea la scară\n\nAcești 4 pași se repetă pentru **milioane de exemple**.\n\n```\nexemplu 1 → greșeală → corecție\nexemplu 2 → greșeală → corecție\n...\nexemplu 1.000.000 → greșeală mică → corecție mică\n```\n\nTreptat, ponderile convearg spre valori care fac rețeaua **sistematic mai corectă**.\n\n---\n\n## O analogie completă\n\n| Procesul rețelei | Analogia umană |\n|---|---|\n| Ponderi inițiale aleatoare | Studentul în prima zi |\n| Forward pass | Studentul rezolvă un exercițiu |\n| Calculul erorii | Profesorul corectează |\n| Backpropagation | Studentul înțelege *unde* a greșit |\n| Ajustarea ponderilor | Studentul își revizuiește înțelegerea |\n| Milioane de exemple | Ani de practică |\n\n---\n\n## Ce nu face rețeaua (o precizare importantă)\n\nRețeaua **nu înțelege** în sens"
+  }
+}

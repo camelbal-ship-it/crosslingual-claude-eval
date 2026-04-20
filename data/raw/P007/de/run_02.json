@@ -1,0 +1,17 @@
+{
+  "prompt_id": "P007",
+  "cluster": "CREATIVE_NARRATIVE",
+  "language": "de",
+  "run": 2,
+  "prompt_text": "Schreiben Sie einen kurzen Absatz (5–7 Sätze), der einen regnerischen Nachmittag in einer Stadt beschreibt.",
+  "collected_at": "2026-04-20T02:25:28.855241Z",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "stop_reason": "end_turn",
+    "usage": {
+      "input_tokens": 45,
+      "output_tokens": 302
+    },
+    "text": "# Ein regnerischer Nachmittag in der Stadt\n\nDer Himmel über der Stadt hatte sich in ein schweres Grau gehüllt, als würde er unter der Last der Wolken zusammenbrechen. Dicke Regentropfen trommelten auf das Kopfsteinpflaster und verwandelten die Straßen in glänzende Spiegel, die die flackernden Laternen zurückwarfen. Die Menschen hasteten mit hochgezogenen Schultern und aufgespannten Schirmen an den Schaufenstern vorbei, ohne nach links oder rechts zu blicken. In den Cafés beschlugen die Fensterscheiben von innen, und der Geruch von nassem Asphalt und frischem Kaffee mischte sich in der feuchten Luft. Nur eine alte Frau stand reglos unter einem Vordach und beobachtete, wie das Wasser in kleinen Sturzbächen an der Dachrinne hinabfloss. Die Stadt hatte in diesen Stunden etwas Gedämpftes, fast Melancholisches – als würde sie sich einen Moment lang besinnen, bevor der Abend einbrach."
+  }
+}

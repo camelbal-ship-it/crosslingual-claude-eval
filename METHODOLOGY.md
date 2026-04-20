@@ -32,7 +32,7 @@ The ILR scale (Levels 0–5, with "+" subdivisions) describes human language pro
 | 3+ | Professional Working+ | Sophisticated argumentation, precision |
 | 4 | Full Professional | Near-complete command; subtle register control |
 | 4+ | Full Professional+ | Highly specialized or technical discourse |
-| 5 | Distinguished | Equivalent to a highly educated and versed native speaker |
+| 5 | Distinguished | Equivalent to a highly educated and versed native speaker, an erudite across domains |
 
 ## 3. Novel Application: LLM Output Analysis
 

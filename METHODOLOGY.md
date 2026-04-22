@@ -63,9 +63,9 @@ The first layer establishes *whether* variation exists and provides measurable, 
 | Metric | What It Measures | Tool |
 |--------|-----------------|------|
 | Response length (tokens, words) | Surface-level output volume differences | `collect_responses.py` / `length_analysis.py` |
-| Sentence count and mean length | Structural elaboration | spaCy multilingual pipeline |
+| Sentence count and mean length | Structural elaboration | `preprocess.py` |
 | Hedging marker density | Epistemic caution expression | Language-specific lexicon lookup |
-| Semantic similarity to EN baseline | Degree of content equivalence across languages | `paraphrase-multilingual-mpnet-base-v2` |
+| Surface similarity to EN baseline | Degree of lexical overlap across languages | TF-IDF character n-gram cosine similarity (`semantic_similarity.py`) |
 | List vs. prose structure | Organizational formatting choices | Pattern detection |
 
 These metrics answer: *Is there variation, and where is it largest?*
@@ -89,9 +89,21 @@ This qualitative layer is the methodological contribution that distinguishes thi
 
 The two layers are complementary, not redundant. Quantitative analysis flags *where* to look; qualitative assessment determines *what it means*.
 
-For example: if German responses are consistently longer than Spanish responses on P006 (ABSTRACT_ETHICS_AI), Layer 1 detects that. Layer 2 determines whether the length difference reflects greater argumentative elaboration (appropriate at ILR 4), formulaic padding (an adequacy gap), or a structurally different discourse convention in German academic writing (a culturally appropriate variation that should not be coded as inconsistency).
+For example: Romanian responses to P007 (CREATIVE_NARRATIVE) showed the lowest surface similarity to English in the dataset (mean 0.035). Layer 1 detected that signal. Layer 2 determined that the divergence reflects a genuine aesthetic distinction — Romanian prose drawing on nature-derived imagery, organic personification of urban space, and syntactic structures characteristic of the Romanian literary tradition — rather than a calibration failure. This distinction between variation that reflects cultural appropriateness and variation that reflects a genuine adequacy gap is the analytical contribution of the ILR framework to LLM evaluation.
 
-This distinction — between variation that reflects cultural appropriateness and variation that reflects a genuine calibration failure — is the analytical contribution of the ILR framework to LLM evaluation.
+Similarly, P012 (AMBIGUOUS_REFERENT) showed that German responses refused resolution in all three runs while Spanish resolved silently — a pattern Layer 1 captured through response length differences, and Layer 2 interpreted through the lens of German discourse norms favoring explicit disambiguation vs. Spanish pragmatic directness.
+
+---
+
+### 3.4 Semantic Similarity Methodology Note
+
+The primary semantic similarity analysis uses TF-IDF character n-gram cosine similarity, which captures shared vocabulary, proper nouns, numbers, and borrowed technical terms across languages. This method operates without requiring an external model download and is reproducible in any network environment.
+
+This is a surface-level proxy appropriate for cross-lingual comparison at the response level. It is most informative for identifying *relative* divergence patterns across clusters and languages rather than absolute semantic equivalence. For publication validation, results should be confirmed against a multilingual sentence embedding model (recommended: `paraphrase-multilingual-mpnet-base-v2`, sentence-transformers) in an unrestricted network environment.
+
+The TF-IDF approach is particularly well-suited to this project's analytical goals: it correctly identifies CREATIVE_NARRATIVE as the most divergent cluster (where language-specific vocabulary dominates) and METALINGUISTIC as the least divergent (where abstract shared vocabulary is high across languages), consistent with theoretical expectations.
+
+---
 
 ## 4. Prompt Battery Design
 

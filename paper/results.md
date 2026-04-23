@@ -50,7 +50,7 @@ By language, German showed the lowest mean similarity to English (M = 0.121), co
 
 ## 4.2 Qualitative Findings
 
-Layer 2 analysis examined responses from five prompt clusters selected for maximum diagnostic value: P004 (EMOTIONAL_SUPPORT), P005 (TECHNICAL_EXPLANATION), P007 (CREATIVE_NARRATIVE), P010 (IMPLICIT_CULTURAL_KNOWLEDGE), and P012 (AMBIGUOUS_REFERENT). Findings are presented in order of theoretical significance.
+Layer 2 analysis examined responses from five prompt clusters selected for maximum diagnostic value based on pragmatic complexity: P004 (EMOTIONAL_SUPPORT), P005 (TECHNICAL_EXPLANATION), P007 (CREATIVE_NARRATIVE), P010 (IMPLICIT_CULTURAL_KNOWLEDGE), and P012 (AMBIGUOUS_REFERENT). Findings are presented in order of theoretical significance.
 
 ### 4.2.1 Pragmatic Disambiguation Strategies (P012 — AMBIGUOUS_REFERENT)
 

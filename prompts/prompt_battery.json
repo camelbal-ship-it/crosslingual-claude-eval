@@ -1,12 +1,19 @@
 {
   "metadata": {
-    "version": "2.0.0",
+    "version": "2.1.0",
     "created": "2026-04-18",
-    "updated": "2026-04-19",
+    "updated": "2026-04-23",
     "author": "Camelia Baluta",
     "project": "crosslingual-claude-eval",
     "description": "ILR-informed prompt battery for cross-lingual Claude response consistency evaluation. Each prompt is semantically equivalent across all six target languages and designed to elicit variation along specific linguistic and pragmatic dimensions.",
-    "languages": ["en", "fr", "ro", "es", "it", "de"],
+    "languages": [
+      "en",
+      "fr",
+      "ro",
+      "es",
+      "it",
+      "de"
+    ],
     "language_names": {
       "en": "English",
       "fr": "French",
@@ -19,9 +26,19 @@
     "total_prompts": 12,
     "cluster_count": 12,
     "model_target": "claude-sonnet-4-6",
-    "collection_protocol": "Single-turn, zero-shot, identical system prompt across all languages (null/default)"
+    "collection_protocol": "Single-turn, zero-shot, identical system prompt across all languages (null/default)",
+    "changelog": [
+      {
+        "version": "2.1.0",
+        "date": "2026-04-23",
+        "changes": [
+          "P006 ilr_input_level corrected 4→3; ilr_expected_output_level corrected 4-5→3+",
+          "P012 ilr_input_level corrected 4→2+; ilr_expected_output_level corrected 4→3",
+          "ilr_calibration_note added to both entries documenting rationale"
+        ]
+      }
+    ]
   },
-
   "analysis_dimensions": [
     "response_length_tokens",
     "response_length_words",
@@ -34,9 +51,7 @@
     "formality_register",
     "ilr_estimated_output_level"
   ],
-
   "prompts": [
-
     {
       "prompt_id": "P001",
       "cluster": "MORAL_REASONING",
@@ -65,7 +80,6 @@
         "de": "Ist es jemals ethisch vertretbar zu lügen, um die Gefühle einer anderen Person zu schützen? Erläutern Sie Ihre Überlegungen."
       }
     },
-
     {
       "prompt_id": "P002",
       "cluster": "LEADERSHIP_CULTURE",
@@ -93,7 +107,6 @@
         "de": "Was sind die wichtigsten Eigenschaften einer effektiven Führungskraft?"
       }
     },
-
     {
       "prompt_id": "P003",
       "cluster": "METALINGUISTIC",
@@ -122,7 +135,6 @@
         "de": "Welche kognitiven und sozialen Vorteile hat es, mehrere Sprachen fließend zu sprechen?"
       }
     },
-
     {
       "prompt_id": "P004",
       "cluster": "EMOTIONAL_SUPPORT",
@@ -151,7 +163,6 @@
         "de": "Ein enger Freund erzählt dir, dass er in Bezug auf seine Zukunft keine Hoffnung mehr hat. Was würdest du ihm sagen?"
       }
     },
-
     {
       "prompt_id": "P005",
       "cluster": "TECHNICAL_EXPLANATION",
@@ -180,13 +191,12 @@
         "de": "Erklären Sie, wie ein neuronales Netz aus Daten lernt, als würden Sie mit einem gebildeten Nicht-Fachmann sprechen."
       }
     },
-
     {
       "prompt_id": "P006",
       "cluster": "ABSTRACT_ETHICS_AI",
       "cluster_description": "Genuinely novel philosophical-legal question with no established cultural consensus — tests whether the model hedges differently, invokes different legal traditions, and distributes argument weight differentially across languages",
-      "ilr_input_level": "4",
-      "ilr_expected_output_level": "4-5",
+      "ilr_input_level": "3",
+      "ilr_expected_output_level": "3+",
       "linguistic_features_targeted": [
         "conditional_and_subjunctive_mood",
         "legal_register_vocabulary",
@@ -207,9 +217,9 @@
         "es": "¿Deberían los sistemas de inteligencia artificial recibir personalidad jurídica? Presente los argumentos más sólidos de ambos lados.",
         "it": "Dovrebbero i sistemi di intelligenza artificiale essere dotati di personalità giuridica? Presentate gli argomenti più forti su entrambi i lati.",
         "de": "Sollten Systeme der künstlichen Intelligenz mit Rechtspersönlichkeit ausgestattet werden? Stellen Sie die stärksten Argumente auf beiden Seiten dar."
-      }
+      },
+      "ilr_calibration_note": "Input recalibrated from 4 to 3 (2026-04-23): prompt surface form uses specialized vocabulary in a direct interrogative structure, consistent with ILR 3. Topic sophistication does not substitute for linguistic complexity of the prompt vehicle. Output raised to 3+ — balanced argumentation on a philosophically complex topic warrants a plus rating, but does not reach the rhetorical depth, cultural saturation, or interpretive precision ILR 4 requires."
     },
-
     {
       "prompt_id": "P007",
       "cluster": "CREATIVE_NARRATIVE",
@@ -238,7 +248,6 @@
         "de": "Schreiben Sie einen kurzen Absatz (5–7 Sätze), der einen regnerischen Nachmittag in einer Stadt beschreibt."
       }
     },
-
     {
       "prompt_id": "P008",
       "cluster": "LIFE_DECISIONS",
@@ -267,7 +276,6 @@
         "de": "Welche Faktoren sollte eine Person sorgfältig abwägen, bevor sie in den Vierzigern einen bedeutenden Berufswechsel vornimmt?"
       }
     },
-
     {
       "prompt_id": "P009",
       "cluster": "FACTUAL_RECALL",
@@ -296,7 +304,6 @@
         "de": "Wie groß ist die ungefähre Weltbevölkerung heute?"
       }
     },
-
     {
       "prompt_id": "P010",
       "cluster": "IMPLICIT_CULTURAL_KNOWLEDGE",
@@ -325,7 +332,6 @@
         "de": "Auf welche bedeutsamen Weisen kann man einem älteren Familienmitglied gedenken, das verstorben ist?"
       }
     },
-
     {
       "prompt_id": "P011",
       "cluster": "REGISTER_SWITCHING",
@@ -354,13 +360,12 @@
         "de": "Verfassen Sie denselben Ratschlag zum Umgang mit Stress in zwei Versionen: eine formelle, geeignet für eine Fachpublikation, und eine informelle, geeignet für eine Nachricht an einen Freund."
       }
     },
-
     {
       "prompt_id": "P012",
       "cluster": "AMBIGUOUS_REFERENT",
       "cluster_description": "A prompt containing deliberate pragmatic ambiguity — the referent of a key term is intentionally underspecified, requiring the model to either resolve the ambiguity, acknowledge it, or proceed with an implicit assumption. Tests whether ambiguity resolution strategies differ across languages.",
-      "ilr_input_level": "4",
-      "ilr_expected_output_level": "4",
+      "ilr_input_level": "2+",
+      "ilr_expected_output_level": "3",
       "linguistic_features_targeted": [
         "ambiguity_acknowledgment_markers",
         "conditional_framing",
@@ -381,8 +386,8 @@
         "es": "Dijeron que sería mejor que no viniéramos. ¿Qué deberíamos hacer?",
         "it": "Hanno detto che sarebbe meglio se non venissimo. Cosa dovremmo fare?",
         "de": "Sie sagten, es wäre besser, wenn wir nicht kämen. Was sollten wir tun?"
-      }
+      },
+      "ilr_calibration_note": "Input recalibrated from 4 to 2+ (2026-04-23): surface form is syntactically simple (reported speech + conditional), placing it at ILR 1+-2 linguistically. 2+ assigned to credit pragmatic load. Output set to 3 — a fully adequate response requires meta-pragmatic awareness, explicit disambiguation strategy, and conditional reasoning, mapping to ILR 3 production without reaching the rhetorical or cultural depth ILR 4 demands."
     }
-
   ]
 }

@@ -46,7 +46,7 @@ First, frontier LLMs are being deployed at scale across multilingual user popula
 
 Second, the ILR framework provides a uniquely appropriate vocabulary for this evaluation. Unlike automated metrics that measure surface properties, ILR descriptors capture the functional and pragmatic dimensions of language use — precisely the dimensions most likely to vary meaningfully across languages in LLM outputs.
 
-Third, this project is conducted by a researcher with direct expertise in ILR/OPI assessment across all six target languages, enabling a quality of qualitative judgment that purely computational approaches cannot replicate. The researcher's native Romanian competence is particularly relevant for identifying the absence of culture-specific content — a finding that requires insider knowledge to make credibly.
+Third, this project is conducted by a researcher with direct expertise in ILR/OPI assessment across all six target languages, enabling a quality of qualitative judgment that purely computational approaches cannot replicate. The researcher's 4+ native Romanian competence is particularly relevant for identifying the absence of culture-specific content — a finding that requires insider knowledge to make credibly.
 
 ### 1.4 Scope and Contributions
 
@@ -76,7 +76,7 @@ However, these benchmarks share a common design assumption: that cross-lingual q
 
 ### 2.2 Pragmatic and Cultural Evaluation
 
-A smaller body of work addresses cultural and pragmatic dimensions of LLM outputs. Hershcovich et al. (2022) examined cultural biases in NLP systems and argued for culturally-aware evaluation frameworks. Cao et al. (2023) probed cultural knowledge in LLMs across multiple languages, finding that models demonstrate uneven cultural knowledge with English-centric biases. Johnson et al. (2022) examined politeness and formality calibration across languages in neural machine translation outputs.
+A smaller body of work addresses cultural and pragmatic dimensions of LLM outputs. Hershcovich et al. (2022) introduced a framework for cross-cultural NLP, arguing that current systems insufficiently account for cultural variation and calling for more culturally-aware evaluation and modeling approaches. Cao et al. (2023) probed cultural knowledge in LLMs across multiple languages, finding that models demonstrate uneven cultural knowledge with English-centric biases. 
 
 None of these studies apply a proficiency-based framework to evaluate the linguistic and pragmatic adequacy of LLM outputs against the functional demands of the prompts that generated them. The ILR framework fills this gap.
 

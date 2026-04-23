@@ -98,6 +98,8 @@ Interagency Language Roundtable. (2012). *ILR Skill Level Descriptions for Liste
 
 Lai, V. D., Ngo, N. T., Veyseh, A. P. B., Man, H., Dernoncourt, F., Bui, T., & Nguyen, T. H. (2023). ChatGPT Beyond English: Towards a Comprehensive Evaluation of Large Language Models in Multilingual Learning. *arXiv:2304.05613*.
 
+Malik, A., Mayhew, S., Piech, C., & Bicknell, K. (2024). From Tarzan to Tolkien: Controlling the Language Proficiency Level of LLMs for Content Generation. *Findings of the Association for Computational Linguistics: ACL 2024*, pages 15670–15693. https://aclanthology.org/2024.findings-acl.926/
+
 White, J. S., O'Connell, T. A., & O'Mara, F. E. (1994). The ARPA MT Evaluation Methodologies: Evolution, Lessons, and Future Approaches. *Proceedings of the First Conference of the Association for Machine Translation in the Americas*, Columbia, Maryland. https://aclanthology.org/1994.amta-1.25/
 
 **Note on references:** Bang et al. (2023), Ahuja et al. (2023), Lai et al. (2023), Conneau et al. (2020), and Hershcovich et al. (2022) are verified published works. Cao et al. (2023) and Langdon (2002) should be verified against current databases before final submission. The ILR reference is verified at govtilr.org. CEFR/ACTFL mapping work on LLM evaluation should be searched in ACL Anthology and arXiv for 2023–2026 citations to add to Section 2.3.

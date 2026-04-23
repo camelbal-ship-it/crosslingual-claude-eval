@@ -119,7 +119,7 @@ Each prompt was developed in English and translated by a six-language profession
 ### 4.2 Cluster Selection Logic
 
 Eight clusters were selected to provide:
-- Coverage across ILR levels 2 through 4+
+- Coverage across ILR levels 1 through 3+
 - Variation in the *type* of language produced (affective, technical, creative, argumentative)
 - Maximal expected variation in cross-lingual output patterns (high diagnostic value)
 - Replicability in future studies (no time-sensitive or model-version-specific content)
@@ -130,7 +130,7 @@ See `prompts/README.md` for full cluster documentation.
 
 | Control | Implementation |
 |---------|---------------|
-| Model version | Fixed: `claude-sonnet-4-20250514` |
+| Model version | Fixed: `claude-sonnet-4-6` |
 | System prompt | Null (model default) across all cells |
 | Temperature | 1.0 (default); separate reproducibility run at T=0 |
 | Runs per cell | 3 (variance estimation); primary analysis on run 1 |
@@ -176,7 +176,7 @@ This is the methodological contribution that differentiates this project from pu
 2. **Six languages:** All six are high-resource European languages with strong representation in training data. Results may not generalize to lower-resource languages.
 3. **Researcher subjectivity in ILR annotation:** Partially mitigated by published ILR descriptor anchors, but inter-rater reliability data is not available for this project.
 4. **Temporal validity:** LLM behavior changes with model updates. All collection timestamps are recorded for reproducibility documentation.
-5. **Prompt battery coverage:** 8 clusters do not exhaust the space of communicative functions. Planned extension to 12 clusters in v2.
+5. **Prompt battery coverage:** The 12-cluster prompt battery covers a broad range of communicative functions but does not exhaust the space of cross-lingual variation. Several potentially diagnostic prompt types remain absent.
 
 ---
 

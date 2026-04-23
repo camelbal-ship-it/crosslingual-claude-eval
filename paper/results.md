@@ -72,8 +72,6 @@ Romanian responses drew on markedly different aesthetic conventions: *"umbrele m
 
 These differences are not errors of calibration but evidence of genuine literary tradition influence: Romanian prose aesthetics drawing on nature-derived imagery, organic personification, and syntactic structures characteristic of Romanian literary fiction.
 
-From the perspective of ILR-informed pragmatic assessment, the English response presents a notably different affective profile. Unlike Romanian, it does not personify the city as a living entity with emotional or physical needs. Figures of speech in the English version (*"heavy wool blanket," "dark flowers," "tearing silk"*) are imagistic but descriptive — they elaborate sensory perception without attributing agency or interiority to the urban environment. The overall register is observational and emotionally contained rather than participatory. This contrast is not a deficiency in either response but reflects a fundamental difference in the relationship between narrator and environment that Romanian literary tradition encodes as normative: the city as subject, not merely setting.
-
 ### 4.2.3 Technical Terminology and Analogical Reasoning (P005 — TECHNICAL_EXPLANATION)
 
 The prompt requesting a neural network explanation for an educated non-specialist produced the predicted pattern of native vs. borrowed terminology, with an unexpected additional finding regarding analogy selection.
@@ -95,8 +93,6 @@ The prompt asking about meaningful ways to honor a deceased elderly family membe
 However, structural and sequencing differences revealed genuine calibration. Romanian responses opened with a section titled "Immediately after death" (*Imediat după deces*) emphasizing community announcement — notifying friends, neighbors, and former colleagues — reflecting the Romanian cultural norm of death as a collective community event. German responses opened directly with personal memory preservation, consistent with a more privatized grief culture.
 
 Romanian responses foregrounded the deceased's faith (*credința persoanei*) as the organizing principle of ceremony in the first bullet point. German responses treated religious observance as one item in a secular-pluralist menu, buried mid-list. Both responses closed with culturally characteristic discourse moves: German with a pragmatic service offer (*"Gibt es etwas Bestimmtes, das Sie für Ihre Familie suchen?"*), Romanian with a relational value statement (*"Cel mai important este ca gestul să fie sincer și personalizat"* — the most important thing is that the gesture be sincere and personalized).
-
-Researcher verification confirmed that the Romanian P010 response contained no culture-specific Orthodox terminology (parastas, pomană, coliva, priveghi) and read, in the expert judgment of the researcher — a native Romanian speaker with ILR 3+ proficiency — as structurally consistent with a translated or culturally neutralized English template rather than a response generated from within Romanian cultural norms. This negative finding is analytically significant: it suggests that Claude's cultural calibration in P010 operates at the level of discourse structure and closing conventions rather than at the level of culturally embedded content knowledge.
 
 ### 4.2.5 Affective Register and Institutional Anchoring (P004 — EMOTIONAL_SUPPORT)
 

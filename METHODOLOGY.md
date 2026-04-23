@@ -118,7 +118,7 @@ Each prompt was developed in English and translated by a six-language profession
 
 ### 4.2 Cluster Selection Logic
 
-Eight clusters were selected to provide:
+Twelve clusters were selected to provide:
 - Coverage across ILR levels 1 through 3+
 - Variation in the *type* of language produced (affective, technical, creative, argumentative)
 - Maximal expected variation in cross-lingual output patterns (high diagnostic value)

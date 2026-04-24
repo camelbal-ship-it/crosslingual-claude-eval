@@ -64,7 +64,7 @@ Spanish, Italian, and Romanian responses resolved the ambiguity silently and pro
 
 ### 4.2.2 Aesthetic and Stylistic Divergence (P007 — CREATIVE_NARRATIVE)
 
-Romanian responses to the creative writing prompt ("Write a short paragraph describing a rainy afternoon in a city") showed the lowest surface similarity to English in the entire dataset (mean cosine similarity = 0.035 across three runs). Qualitative analysis confirmed that this divergence reflects genuine aesthetic distinctiveness rather than semantic drift.
+Romanian responses to the creative writing prompt ("Write a short paragraph describing a rainy afternoon in a city") showed the lowest surface similarity to English in the entire dataset (mean cosine similarity = 0.037 across three runs). Qualitative analysis confirmed that this divergence reflects genuine aesthetic distinctiveness rather than semantic drift.
 
 English responses (run 3): *"The sky hung low and grey over the city, pressing down on the rooftops like a heavy wool blanket... umbrellas blooming like dark flowers above the crowd... A lone pigeon huddled beneath a bus shelter."*
 

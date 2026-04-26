@@ -90,8 +90,6 @@ Bang, Y., Cahyawijaya, S., Lee, N., Dai, W., Su, D., Wilie, B., ... & Fung, P. (
 
 Cao, Y., Zhou, L., Lee, S., Cabello, L., Chen, M., & Hershcovich, D. (2023). Assessing Cross-Cultural Alignment between ChatGPT and Human Societies: An Empirical Study. *Proceedings of the C3NLP Workshop at EACL 2023*.
 
-Conneau, A., Khandelwal, K., Goyal, N., Chaudhary, V., Wenzek, G., Guzmán, F., ... & Stoyanov, V. (2020). Unsupervised Cross-lingual Representation Learning at Scale. *Proceedings of ACL 2020*.
-
 Hershcovich, D., Frank, S., Lent, H., de Lhoneux, M., Abdou, M., Brandl, S., ... & Søgaard, A. (2022). Challenges and Strategies in Cross-Cultural NLP. *Proceedings of ACL 2022*.
 
 Interagency Language Roundtable. (2012). *ILR Skill Level Descriptions for Listening, Speaking, Reading, Writing, and Translation*. https://www.govtilr.org

@@ -88,7 +88,7 @@ No two languages shared an analogy. All three are culturally resonant within the
 
 ### 4.2.4 Cultural Calibration in Commemorative Practices (P010 — IMPLICIT_CULTURAL_KNOWLEDGE)
 
-The prompt asking about meaningful ways to honor a deceased elderly family member tested whether Claude's cultural frame of reference shifts with the language of the prompt. Romanian Orthodox traditions (parastas, pomană, coliva) and German secular memorial institutions did not appear explicitly in any response — itself a significant finding suggesting that Claude's cultural calibration operates through framing and emphasis rather than explicit cultural content invocation.
+The prompt asking about meaningful ways to honor a deceased elderly family member tested whether Claude's cultural frame of reference shifts with the language of the prompt. Romanian Orthodox traditions (parastas, pomană, coliva) and German secular memorial institutions did not appear explicitly in any response — itself a significant finding representing a cultural calibration gap: the model defaults to culturally neutralized content rendered in the target language rather than generating natively grounded responses.
 
 However, structural and sequencing differences revealed genuine calibration. Romanian responses opened with a section titled "Immediately after death" (*Imediat după deces*) emphasizing community announcement — notifying friends, neighbors, and former colleagues — reflecting the Romanian cultural norm of death as a collective community event. German responses opened directly with personal memory preservation, consistent with a more privatized grief culture.
 

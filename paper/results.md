@@ -25,7 +25,7 @@ The proportion of responses using list or bullet-point formatting varied by lang
 
 ### Surface Similarity to English Baseline
 
-Defintion: TF-IDF character n-gram cosine similarity scores — a measure of surface divergence from the English baseline response — revealed that cross-lingual surface similarity varied more by prompt cluster than by language pair.(Table 2). CREATIVE_NARRATIVE showed the lowest mean similarity across all non-English languages (M = 0.049), while METALINGUISTIC showed the highest (M = 0.250). This pattern is theoretically coherent: creative prose is where each language's distinctive vocabulary and aesthetic conventions are most visible, while metalinguistic discussion of language itself draws on shared abstract vocabulary across European languages.
+TF-IDF character n-gram cosine similarity scores — a measure of surface divergence from the English baseline response — revealed that cross-lingual surface similarity varied more by prompt cluster than by language pair.(Table 2). CREATIVE_NARRATIVE showed the lowest mean similarity across all non-English languages (M = 0.049), while METALINGUISTIC showed the highest (M = 0.250). This pattern is theoretically coherent: creative prose is where each language's distinctive vocabulary and aesthetic conventions are most visible, while metalinguistic discussion of language itself draws on shared abstract vocabulary across European languages.
 
 **Table 2. Mean surface similarity to English baseline by cluster (non-English languages)**
 

@@ -110,7 +110,7 @@ Across quantitative and qualitative layers, five patterns emerged consistently:
 
 1. **Response length varies systematically by language**, with French producing approximately 30% more words than German on identical prompts — a systemic effect not attributable to any single prompt cluster.
 
-2. **Surface divergence from English is highest in creative and affective clusters** (CREATIVE_NARRATIVE, EMOTIONAL_SUPPORT) and lowest in abstract/metalinguistic clusters (METALINGUISTIC, REGISTER_SWITCHING), consistent with the prediction that language-specific vocabulary and aesthetic conventions are most visible in expressive registers.
+2. **Surface divergence from English — measured as inverse TF-IDF cosine similarity to the English baseline — is highest in creative and affective clusters (CREATIVE_NARRATIVE, EMOTIONAL_SUPPORT) and lowest in abstract/metalinguistic clusters (METALINGUISTIC, REGISTER_SWITCHING)**, consistent with the prediction that language-specific vocabulary and aesthetic conventions are most visible in expressive registers.
 
 3. **Disambiguation strategies reflect cross-cultural pragmatic norms**: German refuses resolution; French embraces productive ambiguity; Spanish, Italian, and Romanian resolve silently with varying degrees of contextual acknowledgment.
 

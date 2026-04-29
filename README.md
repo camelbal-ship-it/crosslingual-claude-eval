@@ -18,3 +18,5 @@ analysis to identify and document those patterns systematically.
 ## About
 Conducted by Camelia Baluta — six-language professional, former DLIFLC faculty, 
 ILR/OPI assessment specialist, and AI adoption practitioner.
+
+Additional scoring and visualization scripts will be added in conjunction with peer-reviewed submission.
